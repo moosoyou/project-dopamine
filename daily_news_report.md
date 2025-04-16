@@ -23,13 +23,13 @@
    - Article content not available
    <https://www.biospace.com/policy/finally-some-good-news-trump-signals-support-for-removing-iras-pill-penalty>
 
-6. **‘Finally, Some Good News’ (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/policy/finally-some-good-news-trump-signals-support-for-removing-iras-pill-penalty>
-
-7. **Glycomine Gets $115M Series C for Rare Disease, Aims for Phase II Launch Mid-Year (#뉴스)**
+6. **Glycomine Gets $115M Series C for Rare Disease, Aims for Phase II Launch Mid-Year (#뉴스)**
    - Article content not available
    <https://www.biospace.com/business/glycomine-gets-115m-series-c-for-rare-disease-aims-for-phase-ii-launch-mid-year>
+
+7. **Tariff Turmoil, FDA’s Future, Pfizer’s Obesity Setback and CEO Salaries Revealed (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/tariff-turmoil-fdas-future-pfizers-obesity-setback-and-ceo-salaries-revealed>
 
 
 ---
