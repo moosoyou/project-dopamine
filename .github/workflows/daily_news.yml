@@ -47,8 +47,10 @@ jobs:
         git add daily_news_report.md
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update daily news report for $(date +'%Y-%m-%d')" && git push)
 
+    # Make email notification optional
     - name: Send notification
-      if: success()
+      if: false  # Temporarily disable email notifications
+      continue-on-error: true  # Don't fail the workflow if email fails
       uses: dawidd6/action-send-mail@v3
       with:
         server_address: ${{secrets.MAIL_SERVER}}
