@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Moosoyou Workspace</title>
+    <title>Moosoyou Biopharma World</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -11,33 +12,103 @@
         <h1>Moosoyou Biopharma World</h1>
         <nav>
             <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
             </ul>
         </nav>
     </header>
 
     <main>
         <section id="hero">
-            <h2>Hello, World!</h2>
-            <p>I am going to make this a space filled with all the biopharmaceuticals</p>
+            <h2>Exploring the Future of Biopharmaceuticals</h2>
+            <p>Your gateway to comprehensive analysis and insights in the global biotech industry</p>
+            <div class="cta-buttons">
+                <a href="about.html" class="cta-button">Learn More</a>
+                <a href="contact.html" class="cta-button secondary">Get in Touch</a>
+            </div>
         </section>
 
-        <section id="content">
-            <div class="card">
-                <h3>About Me</h3>
-                <p>Korean biopharmaceuticals equity analyst with a passion for the biotech industry.</p>
+        <section id="featured">
+            <h2>Featured Insights</h2>
+            <div class="card-grid">
+                <div class="card">
+                    <div class="card-icon">🧬</div>
+                    <h3>Market Analysis</h3>
+                    <p>Expert analysis of Korean biopharmaceutical markets and emerging trends in the global biotech landscape.</p>
+                    <a href="about.html#analysis" class="card-link">Read More →</a>
+                </div>
+                <div class="card">
+                    <div class="card-icon">🔬</div>
+                    <h3>Research Focus</h3>
+                    <p>Deep dive into breakthrough therapies, innovative technologies, and emerging biotech companies.</p>
+                    <a href="about.html#research" class="card-link">Explore →</a>
+                </div>
+                <div class="card">
+                    <div class="card-icon">🌏</div>
+                    <h3>Global Perspective</h3>
+                    <p>Trilingual insights connecting Korean, Chinese, and English-speaking markets for comprehensive coverage.</p>
+                    <a href="about.html#global" class="card-link">Discover →</a>
+                </div>
             </div>
-            <div class="card">
-                <h3>Capabilities</h3>
-                <p>Trilingual (Korean, English, Chinese) and have a strong interest in the biotech industry.</p>
+        </section>
+
+        <section id="expertise">
+            <h2>Areas of Expertise</h2>
+            <div class="expertise-grid">
+                <div class="expertise-item">
+                    <h3>Equity Analysis</h3>
+                    <ul>
+                        <li>Market Valuations</li>
+                        <li>Investment Opportunities</li>
+                        <li>Risk Assessment</li>
+                    </ul>
+                </div>
+                <div class="expertise-item">
+                    <h3>Industry Coverage</h3>
+                    <ul>
+                        <li>Clinical Trials</li>
+                        <li>Drug Development</li>
+                        <li>Regulatory Landscape</li>
+                    </ul>
+                </div>
+                <div class="expertise-item">
+                    <h3>Market Intelligence</h3>
+                    <ul>
+                        <li>Competitive Analysis</li>
+                        <li>Industry Trends</li>
+                        <li>Strategic Insights</li>
+                    </ul>
+                </div>
             </div>
+        </section>
+
+        <section id="contact-preview">
+            <h2>Let's Connect</h2>
+            <p>Interested in discussing biopharmaceutical markets or seeking expert analysis?</p>
+            <a href="contact.html" class="cta-button">Contact Me</a>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2025 Moosoyou Workspace. All rights reserved.</p>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Connect</h3>
+                <ul>
+                    <li><a href="https://linkedin.com" target="_blank">LinkedIn</a></li>
+                    <li><a href="mailto:your.email@example.com">Email</a></li>
+                </ul>
+            </div>
+        </div>
+        <p class="copyright">&copy; 2025 Moosoyou Biopharma World. All rights reserved.</p>
     </footer>
 </body>
 </html>
