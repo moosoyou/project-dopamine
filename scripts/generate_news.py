@@ -32,7 +32,6 @@ def get_biospace_news():
         
         soup = BeautifulSoup(response.text, 'lxml')
         articles = []
-        processed_urls = set()  # Track processed URLs to avoid duplicates
         
         # Find all article links - they are direct links with category tags above them
         article_links = soup.find_all('a', href=True)
@@ -40,16 +39,11 @@ def get_biospace_news():
         
         print_debug(f"Found {len(article_links)} article links")
         
-        for idx, link in enumerate(article_links):
+        for idx, link in enumerate(article_links[:7]):  # Get top 7 articles
             try:
                 url = link['href']
                 if not url.startswith('http'):
                     url = f"https://www.biospace.com{url}"
-                
-                # Skip if we've already processed this URL
-                if url in processed_urls:
-                    continue
-                processed_urls.add(url)
                 
                 # Get article content
                 print_debug(f"Fetching article: {url}")
@@ -65,47 +59,25 @@ def get_biospace_news():
                 title = title.text.strip()
                 
                 # Get content from article body
-                content_element = article_soup.find('div', {'data-content-type': 'article'})
-                if not content_element:
-                    content_element = article_soup.find('div', class_='article-body')
+                content_element = article_soup.find('div', class_='article-body')
                 if not content_element:
                     content_element = article_soup.find('div', class_='body')
                 
                 content = ""
                 if content_element:
-                    # First try to get paragraphs directly under the content element
-                    paragraphs = content_element.find_all('p', recursive=False)
-                    
-                    # If no paragraphs found directly, try getting all paragraphs
-                    if not paragraphs:
-                        paragraphs = content_element.find_all('p')
-                    
-                    # Filter out paragraphs from unwanted elements
-                    paragraphs = [p for p in paragraphs if not any(parent.name in ['blockquote', 'aside', 'figure', 'header', 'nav'] for parent in p.parents)]
-                    content = ' '.join([p.text.strip() for p in paragraphs if p.text.strip()])
+                    paragraphs = content_element.find_all('p')
+                    content = ' '.join([p.text.strip() for p in paragraphs])
                 
                 if not content:
                     print_debug(f"No content found for article: {title}")
-                    continue  # Skip articles with no content
-                
-                # Extract category
-                category = "주요 헤드라인"  # Default category
-                url_lower = url.lower()
-                if '/business/' in url_lower:
-                    category = "사업 계약" if 'deal' in content.lower() or 'agreement' in content.lower() else "산업 동향"
-                elif '/policy/' in url_lower:
-                    category = "규제 및 정책"
+                    content = "Article content not available"
                 
                 articles.append({
                     'title': title,
                     'url': url,
-                    'content': content,
-                    'category': category
+                    'content': content
                 })
                 print_debug(f"Successfully processed article: {title}")
-                
-                if len(articles) >= 7:  # Limit to 7 articles
-                    break
             
             except Exception as e:
                 print_debug(f"Error processing article {idx}: {str(e)}")
@@ -136,7 +108,20 @@ def categorize_news(articles):
     
     try:
         for article in articles:
-            categories[article['category']].append(article)
+            content = article['content'].lower()
+            title = article['title'].lower()
+            
+            # Categorization logic
+            if any(word in content for word in ['phase', 'trial', 'fda', 'approval']):
+                categories["주요 헤드라인"].append(article)
+            elif any(word in content for word in ['revenue', 'earnings', 'market', 'sales']):
+                categories["산업 동향"].append(article)
+            elif any(word in content for word in ['deal', 'agreement', 'partnership', 'collaboration']):
+                categories["사업 계약"].append(article)
+            elif any(word in content for word in ['regulation', 'policy', 'government', 'legislation']):
+                categories["규제 및 정책"].append(article)
+            else:
+                categories["주요 헤드라인"].append(article)
         
         print_debug("News categorization completed")
         return categories
@@ -238,8 +223,9 @@ def generate_report(categories):
                         for point in key_points:
                             report += f"   - {point}\n"
                         
-                        # Add URL
-                        report += f"   <{article['url']}>\n\n"
+                        # Add shortened URL
+                        short_url = shorten_url(article['url'])
+                        report += f"   <{short_url}>\n\n"
                     except Exception as e:
                         print_debug(f"Error processing article in report: {str(e)}")
                         traceback.print_exc()
