@@ -1,0 +1,50 @@
+   name: Daily BioSpace News Report
+
+   on:
+     schedule:
+       # Runs at 7:00 AM KST (22:00 UTC previous day)
+       - cron: '0 22 * * *'
+     workflow_dispatch:  # Allows manual trigger
+
+   jobs:
+     generate-report:
+       runs-on: ubuntu-latest
+       
+       env:
+         TINYURL_API_KEY: ${{ secrets.TINYURL_API_KEY }}
+         
+       steps:
+       - uses: actions/checkout@v3
+       
+       - name: Set up Python
+         uses: actions/setup-python@v4
+         with:
+           python-version: '3.10'
+           
+       - name: Install dependencies
+         run: |
+           python -m pip install --upgrade pip
+           pip install requests beautifulsoup4 markdown python-dotenv
+
+       - name: Generate news report
+         run: python scripts/generate_news.py
+         
+       - name: Commit and push if changed
+         run: |
+           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+           git config --global user.name "github-actions[bot]"
+           git add daily_news_report.md
+           git diff --quiet && git diff --staged --quiet || (git commit -m "Update daily news report for $(date +'%Y-%m-%d')" && git push)
+
+       - name: Send notification
+         if: success()
+         uses: dawidd6/action-send-mail@v3
+         with:
+           server_address: ${{secrets.MAIL_SERVER}}
+           server_port: ${{secrets.MAIL_PORT}}
+           username: ${{secrets.MAIL_USERNAME}}
+           password: ${{secrets.MAIL_PASSWORD}}
+           subject: Daily BioSpace News Report - ${{ steps.date.outputs.date }}
+           body: file://daily_news_report.md
+           to: ${{secrets.MAIL_TO}}
+           from: GitHub Actions
