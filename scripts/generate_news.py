@@ -7,6 +7,7 @@ import pytz
 import re
 import sys
 import traceback
+import time
 
 def print_debug(msg):
     """Print debug message with timestamp."""
@@ -132,8 +133,23 @@ def categorize_news(articles):
         return categories
 
 def shorten_url(url):
-    """Create shortened URL using TinyURL API."""
+    """Create shortened URL using TinyURL API with caching and error handling."""
     print_debug(f"Shortening URL: {url}")
+    
+    # Check if we have a cached version
+    cache_file = '.url_cache.json'
+    url_cache = {}
+    
+    try:
+        if os.path.exists(cache_file):
+            with open(cache_file, 'r') as f:
+                url_cache = json.load(f)
+                if url in url_cache:
+                    print_debug(f"Using cached shortened URL for: {url}")
+                    return url_cache[url]
+    except Exception as e:
+        print_debug(f"Error reading cache: {str(e)}")
+    
     api_key = os.getenv('TINYURL_API_KEY')
     if not api_key:
         print_debug("No TinyURL API key found")
@@ -146,16 +162,45 @@ def shorten_url(url):
         }
         data = {
             'url': url,
-            'domain': 'tinyurl.com'
+            'domain': 'tinyurl.com',
+            'tags': ['biospace', 'news'],
+            'expires_at': None  # Never expire
         }
-        response = requests.post('https://api.tinyurl.com/create', 
-                               headers=headers, 
-                               json=data,
-                               timeout=30)
-        response.raise_for_status()
-        short_url = response.json()['data']['tiny_url']
-        print_debug(f"URL shortened successfully: {short_url}")
-        return short_url
+        
+        # Add retry logic
+        max_retries = 3
+        retry_count = 0
+        
+        while retry_count < max_retries:
+            try:
+                response = requests.post(
+                    'https://api.tinyurl.com/create',
+                    headers=headers,
+                    json=data,
+                    timeout=30
+                )
+                response.raise_for_status()
+                short_url = response.json()['data']['tiny_url']
+                
+                # Cache the result
+                try:
+                    url_cache[url] = short_url
+                    with open(cache_file, 'w') as f:
+                        json.dump(url_cache, f)
+                except Exception as e:
+                    print_debug(f"Error caching URL: {str(e)}")
+                
+                print_debug(f"URL shortened successfully: {short_url}")
+                return short_url
+                
+            except requests.exceptions.RequestException as e:
+                retry_count += 1
+                if retry_count == max_retries:
+                    print_debug(f"Failed to shorten URL after {max_retries} attempts: {str(e)}")
+                    return url
+                print_debug(f"Retry {retry_count}/{max_retries} for URL shortening")
+                time.sleep(1)  # Wait 1 second before retrying
+                
     except Exception as e:
         print_debug(f"Error shortening URL: {str(e)}")
         traceback.print_exc()
@@ -243,6 +288,10 @@ def generate_report(categories):
 def main():
     try:
         print_debug("Starting main process")
+        
+        # Ensure TINYURL_API_KEY is set
+        if not os.getenv('TINYURL_API_KEY'):
+            print_debug("Warning: TINYURL_API_KEY environment variable not set")
         
         # Get news articles
         articles = get_biospace_news()
