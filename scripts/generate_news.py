@@ -65,15 +65,24 @@ def get_biospace_news():
                 title = title.text.strip()
                 
                 # Get content from article body
-                content_element = article_soup.find('div', class_='article-body')
+                content_element = article_soup.find('div', {'data-content-type': 'article'})
+                if not content_element:
+                    content_element = article_soup.find('div', class_='article-body')
                 if not content_element:
                     content_element = article_soup.find('div', class_='body')
                 
                 content = ""
                 if content_element:
-                    # Get all paragraphs but exclude any nested in other elements like blockquotes
-                    paragraphs = [p for p in content_element.find_all('p', recursive=False) if not any(parent.name in ['blockquote', 'aside', 'figure'] for parent in p.parents)]
-                    content = ' '.join([p.text.strip() for p in paragraphs])
+                    # First try to get paragraphs directly under the content element
+                    paragraphs = content_element.find_all('p', recursive=False)
+                    
+                    # If no paragraphs found directly, try getting all paragraphs
+                    if not paragraphs:
+                        paragraphs = content_element.find_all('p')
+                    
+                    # Filter out paragraphs from unwanted elements
+                    paragraphs = [p for p in paragraphs if not any(parent.name in ['blockquote', 'aside', 'figure', 'header', 'nav'] for parent in p.parents)]
+                    content = ' '.join([p.text.strip() for p in paragraphs if p.text.strip()])
                 
                 if not content:
                     print_debug(f"No content found for article: {title}")
