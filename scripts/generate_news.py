@@ -17,7 +17,16 @@ def get_biospace_news():
     print_debug("Starting news scraping")
     url = "https://www.biospace.com/news/"
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+        'Sec-Fetch-Dest': 'document',
+        'Sec-Fetch-Mode': 'navigate',
+        'Sec-Fetch-Site': 'none',
+        'Sec-Fetch-User': '?1'
     }
     
     try:
@@ -26,34 +35,91 @@ def get_biospace_news():
         response.raise_for_status()
         print_debug(f"Response status: {response.status_code}")
         
-        soup = BeautifulSoup(response.text, 'lxml')
-        articles = []
+        # Debug: Print the first 500 characters of the response
+        print_debug(f"Response preview: {response.text[:500]}")
         
-        # Find all article elements
-        article_elements = soup.find_all('div', class_='article-item')
+        soup = BeautifulSoup(response.text, 'lxml')
+        
+        # Debug: Print all available class names in the HTML
+        classes = set()
+        for tag in soup.find_all(class_=True):
+            classes.update(tag['class'])
+        print_debug(f"Available classes: {classes}")
+        
+        # Try different selectors
+        article_elements = []
+        selectors = [
+            'div.article-item',
+            'article',
+            '.article',
+            '.news-item',
+            '.post',
+            'div.article-list-item'
+        ]
+        
+        for selector in selectors:
+            elements = soup.select(selector)
+            if elements:
+                print_debug(f"Found {len(elements)} articles using selector: {selector}")
+                article_elements = elements
+                break
+        
+        if not article_elements:
+            print_debug("No articles found with any selector")
+            # Try direct URL to recent news
+            alt_url = "https://www.biospace.com/news/recent/"
+            print_debug(f"Trying alternative URL: {alt_url}")
+            response = requests.get(alt_url, headers=headers, timeout=30)
+            response.raise_for_status()
+            soup = BeautifulSoup(response.text, 'lxml')
+            article_elements = soup.select('div.article-item') or soup.select('article')
+        
         print_debug(f"Found {len(article_elements)} articles")
+        articles = []
         
         for idx, article in enumerate(article_elements[:7]):  # Get top 7 articles
             try:
-                title_element = article.find('h2', class_='title')
+                # Try multiple selectors for title
+                title_element = (
+                    article.find('h2', class_='title') or
+                    article.find('h2') or
+                    article.find('h3') or
+                    article.find(class_='title')
+                )
+                
                 if not title_element:
                     print_debug(f"No title found for article {idx}")
                     continue
-                    
-                link_element = title_element.find('a')
+                
+                # Try multiple ways to get the link
+                link_element = (
+                    title_element.find('a') or
+                    article.find('a', class_='title') or
+                    article.find('a')
+                )
+                
                 if not link_element:
                     print_debug(f"No link found for article {idx}")
                     continue
-                    
+                
                 title = link_element.text.strip()
-                url = f"https://www.biospace.com{link_element['href']}"
+                url = link_element.get('href', '')
+                if not url.startswith('http'):
+                    url = f"https://www.biospace.com{url}"
                 print_debug(f"Processing article: {title}")
                 
                 # Get article content
                 article_response = requests.get(url, headers=headers, timeout=30)
                 article_response.raise_for_status()
                 article_soup = BeautifulSoup(article_response.text, 'lxml')
-                content_element = article_soup.find('div', class_='article-content')
+                
+                # Try multiple selectors for content
+                content_element = (
+                    article_soup.find('div', class_='article-content') or
+                    article_soup.find('div', class_='content') or
+                    article_soup.find(class_='post-content')
+                )
+                
                 content = content_element.text.strip() if content_element else ""
                 
                 if not content:
