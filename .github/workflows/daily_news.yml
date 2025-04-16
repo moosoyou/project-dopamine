@@ -12,6 +12,7 @@ jobs:
     
     env:
       TINYURL_API_KEY: ${{ secrets.TINYURL_API_KEY }}
+      PYTHONUNBUFFERED: 1
       
     steps:
     - uses: actions/checkout@v3
@@ -24,10 +25,13 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 markdown python-dotenv
+        pip install requests beautifulsoup4 markdown python-dotenv pytz lxml
 
     - name: Generate news report
-      run: python scripts/generate_news.py
+      run: |
+        echo "Starting news generation..."
+        python -u scripts/generate_news.py
+        echo "News generation completed"
       
     - name: Commit and push if changed
       run: |
