@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 04월 23일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 04월 24일
 
 
 ## 주요 헤드라인
 
-1. **Stoffels To Depart Galapagos, Short of Five-Year Mission To Remake the Biotech (#뉴스)**
+1. **Swiss ADC Biotech Takes SPAC Track to NASDAQ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/stoffels-to-depart-galapagos-short-of-five-year-mission-to-remake-the-biotech>
+   <https://www.biospace.com/business/swiss-adc-biotech-takes-spac-track-to-nasdaq>
 
-2. **Stoffels To Depart Galapagos, Short of Five-Year Mission To Remake the Biotech (#뉴스)**
+2. **Swiss ADC Biotech Takes SPAC Track to NASDAQ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/stoffels-to-depart-galapagos-short-of-five-year-mission-to-remake-the-biotech>
+   <https://www.biospace.com/business/swiss-adc-biotech-takes-spac-track-to-nasdaq>
 
-3. **Pfizer Mounts Defense of Cardiac Blockbuster as Alnylam, BridgeBio Enter Market (#뉴스)**
+3. **Genentech Offers Up To $765M in Biobucks to Repertoire for I&I Drug Discovery (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-mounts-defense-of-cardiac-blockbuster-as-alnylam-bridgebio-enter-market>
+   <https://www.biospace.com/business/genentech-offers-up-to-765m-in-biobucks-to-repertoire-for-i-i-drug-discovery>
 
-4. **Pfizer Mounts Defense of Cardiac Blockbuster as Alnylam, BridgeBio Enter Market (#뉴스)**
+4. **Genentech Offers Up To $765M in Biobucks to Repertoire for I&I Drug Discovery (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-mounts-defense-of-cardiac-blockbuster-as-alnylam-bridgebio-enter-market>
+   <https://www.biospace.com/business/genentech-offers-up-to-765m-in-biobucks-to-repertoire-for-i-i-drug-discovery>
 
-5. **Roche, Regeneron Pledge Multibillion Boosts to US Manufacturing as Trump’s Tariffs Loom (#뉴스)**
+5. **Trump Wants To Bring Back International Drug Pricing Policy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/roche-regeneron-pledge-multibillion-boosts-to-us-manufacturing-as-trumps-tariffs-loom>
+   <https://www.biospace.com/policy/trump-wants-to-bring-back-international-drug-pricing-policy-reuters>
 
-6. **Gilead’s Trodelvy, With Keytruda, Slows Disease Progression in Triple-Negative Breast Cancer (#뉴스)**
+6. **Trump Wants To Bring Back International Drug Pricing Policy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/gileads-trodelvy-with-keytruda-slows-disease-progression-in-triple-negative-breast-cancer>
+   <https://www.biospace.com/policy/trump-wants-to-bring-back-international-drug-pricing-policy-reuters>
 
-7. **AstraZeneca, Daiichi Sankyo Push Enhertu to Frontline Breast Cancer With Phase III Data (#뉴스)**
+7. **Summit’s Bispecific Beats Yet Another Cancer Med, Pressuring Keytruda’s ‘Supremacy’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/astrazeneca-daiichi-sankyo-push-enhertu-to-frontline-breast-cancer-with-phase-iii-data>
+   <https://www.biospace.com/drug-development/summits-bispecific-beats-yet-another-cancer-med-pressuring-keytrudas-supremacy>
 
 
 ---
-*2025년 04월 23일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 04월 24일 바이오스페이스 뉴스 피드에서 생성된 리포트*
