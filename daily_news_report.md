@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 04월 30일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 05월 01일
 
 
 ## 주요 헤드라인
 
-1. **AACR 2025 Tracker (#뉴스)**
+1. **Novartis Strikes on M&A, Leading a Line of Big Pharmas With Cash to Spend (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/novartis-strikes-on-m-a-leading-a-line-of-big-pharmas-with-cash-to-spend>
+
+2. **Novartis Strikes on M&A, Leading a Line of Big Pharmas With Cash to Spend (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/novartis-strikes-on-m-a-leading-a-line-of-big-pharmas-with-cash-to-spend>
+
+3. **AACR 2025 Tracker (#뉴스)**
    - Article content not available
    <https://www.biospace.com/drug-development/aacr-2025-tracker-gsk-boehringer-ingelheim-kick-off-meeting-with-new-data>
 
-2. **AACR 2025 Tracker (#뉴스)**
+4. **Novartis Drops up to $1.7B to Bolster Oligo Pipeline With Regulus Buy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/aacr-2025-tracker-gsk-boehringer-ingelheim-kick-off-meeting-with-new-data>
+   <https://www.biospace.com/business/novartis-drops-up-to-1-7b-to-bolster-oligo-pipeline-with-regulus-buy>
 
-3. **Pfizer CEO Calls Trump’s Pharma National Security Concerns ‘Legitimate’ (#뉴스)**
+5. **GSK Optimistic About M&A Prospects Despite Trump Tariff Threats (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-ceo-calls-trumps-pharma-national-security-concerns-legitimate>
+   <https://www.biospace.com/business/gsk-optimistic-about-m-a-prospects-despite-trump-tariff-threats>
 
-4. **Pfizer CEO Calls Trump’s Pharma National Security Concerns ‘Legitimate’ (#뉴스)**
+6. **Top CEO-to-Employee Pay Gaps in 2024 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-ceo-calls-trumps-pharma-national-security-concerns-legitimate>
+   <https://www.biospace.com/business/top-ceo-to-employee-pay-gaps-in-2024>
 
-5. **Novartis CEO Brushes Off Tariffs but Says Trump Pricing Controls Would Be ‘Devastating’ (#뉴스)**
+7. **Top CEO-to-Employee Pay Gaps in 2024 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novartis-ceo-brushes-off-tariffs-but-says-trump-pricing-controls-would-be-devastating>
-
-6. **AstraZeneca Abandons Neuroscience, Prioritizes Weight Loss, Immunology (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/astrazeneca-abandons-neuroscience-prioritizes-weight-loss-immunology>
-
-7. **With Pharma Throwing Billions At US Manufacturing, Where Is The Cash Going? (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/with-pharma-throwing-billions-at-us-manufacturing-where-is-the-cash-going>
+   <https://www.biospace.com/business/top-ceo-to-employee-pay-gaps-in-2024>
 
 
 ---
-*2025년 04월 30일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 05월 01일 바이오스페이스 뉴스 피드에서 생성된 리포트*
