@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 05월 01일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 05월 02일
 
 
 ## 주요 헤드라인
 
-1. **Novartis Strikes on M&A, Leading a Line of Big Pharmas With Cash to Spend (#뉴스)**
+1. **Lilly Unfazed as CVS Picks Novo’s Side in Obesity Market Battle (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novartis-strikes-on-m-a-leading-a-line-of-big-pharmas-with-cash-to-spend>
+   <https://www.biospace.com/business/lilly-unfazed-as-cvs-picks-novos-side-in-obesity-market-battle>
 
-2. **Novartis Strikes on M&A, Leading a Line of Big Pharmas With Cash to Spend (#뉴스)**
+2. **Lilly Unfazed as CVS Picks Novo’s Side in Obesity Market Battle (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novartis-strikes-on-m-a-leading-a-line-of-big-pharmas-with-cash-to-spend>
+   <https://www.biospace.com/business/lilly-unfazed-as-cvs-picks-novos-side-in-obesity-market-battle>
 
-3. **AACR 2025 Tracker (#뉴스)**
+3. **HHS To Require Placebo-Controlled Trials for All New Vaccines in ‘Radical Departure’ From Past (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/aacr-2025-tracker-gsk-boehringer-ingelheim-kick-off-meeting-with-new-data>
+   <https://www.biospace.com/policy/hhs-to-require-placebo-controlled-trials-for-all-new-vaccines-in-radical-departure-from-past>
 
-4. **Novartis Drops up to $1.7B to Bolster Oligo Pipeline With Regulus Buy (#뉴스)**
+4. **HHS To Require Placebo-Controlled Trials for All New Vaccines in ‘Radical Departure’ From Past (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novartis-drops-up-to-1-7b-to-bolster-oligo-pipeline-with-regulus-buy>
+   <https://www.biospace.com/policy/hhs-to-require-placebo-controlled-trials-for-all-new-vaccines-in-radical-departure-from-past>
 
-5. **GSK Optimistic About M&A Prospects Despite Trump Tariff Threats (#뉴스)**
+5. **Tariffs Keep Biogen Execs Busy in Q1 but Impacts Expected To Be Minimal (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/gsk-optimistic-about-m-a-prospects-despite-trump-tariff-threats>
+   <https://www.biospace.com/business/tariffs-keep-biogen-execs-busy-in-q1-but-impacts-expected-to-be-minimal>
 
-6. **Top CEO-to-Employee Pay Gaps in 2024 (#뉴스)**
+6. **Tariffs Keep Biogen Execs Busy in Q1 but Impacts Expected To Be Minimal (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/top-ceo-to-employee-pay-gaps-in-2024>
+   <https://www.biospace.com/business/tariffs-keep-biogen-execs-busy-in-q1-but-impacts-expected-to-be-minimal>
 
-7. **Top CEO-to-Employee Pay Gaps in 2024 (#뉴스)**
+7. **Moderna Misses Q1 Revenue Expectations, Plans Another $1.5B in Cuts (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/top-ceo-to-employee-pay-gaps-in-2024>
+   <https://www.biospace.com/business/moderna-misses-q1-revenue-expectations-plans-another-1-5b-in-cuts>
 
 
 ---
-*2025년 05월 01일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 05월 02일 바이오스페이스 뉴스 피드에서 생성된 리포트*
