@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 05월 13일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 05월 14일
 
 
 ## 주요 헤드라인
 
-1. **Trump’s Drug Pricing Order ‘More Bark Than Bite’ (#뉴스)**
+1. **Galapagos Takes Dramatic U-Turn, Ditching Spinout Plan, Cell Therapy and CEO Stoffels (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/trumps-drug-pricing-order-more-bark-than-bite>
+   <https://www.biospace.com/business/galapagos-takes-dramatic-u-turn-ditching-spinout-plan-cell-therapy-and-ceo-stoffels>
 
-2. **Trump’s Drug Pricing Order ‘More Bark Than Bite’ (#뉴스)**
+2. **Galapagos Takes Dramatic U-Turn, Ditching Spinout Plan, Cell Therapy and CEO Stoffels (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/trumps-drug-pricing-order-more-bark-than-bite>
+   <https://www.biospace.com/business/galapagos-takes-dramatic-u-turn-ditching-spinout-plan-cell-therapy-and-ceo-stoffels>
 
-3. **White House Unwraps Massive Drug Pricing Policy, Touching All Corners of Pharma (#뉴스)**
+3. **Bayer’s Continued Restructuring Claims 2,000 Jobs and Thins Management Layers (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/white-house-unwraps-massive-drug-pricing-policy-touching-all-corners-of-pharma>
+   <https://www.biospace.com/business/bayers-continued-restructuring-claims-2-000-jobs-and-thins-management-layers>
 
-4. **Lilly’s Zepbound Secures “Superior Benefit-Risk Ratio” Over Novo’s Wegovy (#뉴스)**
+4. **Bayer’s Continued Restructuring Claims 2,000 Jobs and Thins Management Layers (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/lillys-zepbound-secures-superior-benefit-risk-ratio-over-novos-wegovy>
+   <https://www.biospace.com/business/bayers-continued-restructuring-claims-2-000-jobs-and-thins-management-layers>
 
-5. **Roche makes $300M China Production Promise After Multibillion US Investment (#뉴스)**
+5. **Roche’s Genentech Earmarks $700M for North Carolina Plant as Billion-Dollar US Pledge Hangs in Balance (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/roche-makes-300m-china-production-promise-after-multibillion-us-investment>
+   <https://www.biospace.com/business/roches-genentech-earmarks-700m-for-north-carolina-plant-as-billion-dollar-us-pledge-hangs-in-balance>
 
-6. **BMS, Sanofi Settle Plavix Suit With Hawaii for $700M (#뉴스)**
+6. **Roche’s Genentech Earmarks $700M for North Carolina Plant as Billion-Dollar US Pledge Hangs in Balance (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/bms-sanofi-settle-plavix-suit-with-hawaii-for-700m>
+   <https://www.biospace.com/business/roches-genentech-earmarks-700m-for-north-carolina-plant-as-billion-dollar-us-pledge-hangs-in-balance>
 
-7. **Radiopharma Powerhouses Push Frontiers With New Indications, Innovation (#뉴스)**
+7. **CMS Prepares for Third Cycle of Drug Negotiations as Trump Intensifies Push To Lower Prices (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/radiopharma-powerhouses-push-frontiers-with-new-indications-innovation>
+   <https://www.biospace.com/policy/cms-prepares-for-third-cycle-of-drug-negotiations-as-trump-intensifies-push-to-lower-prices>
 
 
 ---
-*2025년 05월 13일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 05월 14일 바이오스페이스 뉴스 피드에서 생성된 리포트*
