@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 05월 15일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 05월 16일
 
 
 ## 주요 헤드라인
 
-1. **Novo Doubles Down on Oral Obesity Meds With Septerna Deal Worth up to $2.4B (#뉴스)**
+1. **Bluebird’s Private Equity Buyout Boosts Upfront Cash for Shareholders (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-doubles-down-on-oral-obesity-meds-with-septerna-deal-worth-up-to-2-4b>
+   <https://www.biospace.com/business/bluebirds-private-equity-buyout-boosts-upfront-cash-for-shareholders>
 
-2. **Novo Doubles Down on Oral Obesity Meds With Septerna Deal Worth up to $2.4B (#뉴스)**
+2. **Bluebird’s Private Equity Buyout Boosts Upfront Cash for Shareholders (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-doubles-down-on-oral-obesity-meds-with-septerna-deal-worth-up-to-2-4b>
+   <https://www.biospace.com/business/bluebirds-private-equity-buyout-boosts-upfront-cash-for-shareholders>
 
-3. **GSK, iTeos Abandon TIGIT Therapy, Adding to Long List of Recent Class Failures (#뉴스)**
+3. **RFK Jr. Firm on HHS Cuts, Wobbles on Measles Vaccine (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/gsk-iteos-abandon-tigit-therapy-adding-to-long-list-of-recent-failures>
+   <https://www.biospace.com/policy/rfk-jr-firm-on-hhs-cuts-wobbles-on-measles-vaccine>
 
-4. **Roche Continues US Investments With $550M Diagnostics Push in Lilly’s Backyard (#뉴스)**
+4. **Sanofi Hops Aboard US Manufacturing Blitz With $20B Commitment (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/roche-continues-us-investments-with-550m-diagnostics-push-in-lillys-backyard>
+   <https://www.biospace.com/business/sanofi-hops-aboard-us-manufacturing-blitz-with-20b-commitment>
 
-5. **Trump’s Drug Pricing Policy, Prasad’s CBER Nod, Bayer’s Layoffs and Galapagos’ Next Chapter (#뉴스)**
+5. **Radiopharma Powerhouses Push Frontiers With New Indications, Innovation (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/trumps-drug-pricing-policy-prasads-cber-nod-bayers-layoffs-and-galapagos-next-chapter>
+   <https://www.biospace.com/drug-development/radiopharma-powerhouses-push-frontiers-with-new-indications-innovation>
 
 6. **Radiopharma Powerhouses Push Frontiers With New Indications, Innovation (#뉴스)**
    - Article content not available
    <https://www.biospace.com/drug-development/radiopharma-powerhouses-push-frontiers-with-new-indications-innovation>
 
-7. **Radiopharma Powerhouses Push Frontiers With New Indications, Innovation (#뉴스)**
+7. **Biopharma Targets an HIV Cure as NIH Funding Cuts Threaten To Derail Progress (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/radiopharma-powerhouses-push-frontiers-with-new-indications-innovation>
+   <https://www.biospace.com/drug-development/biopharma-targets-an-hiv-cure-as-nih-funding-cuts-threaten-to-derail-progress>
 
 
 ---
-*2025년 05월 15일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 05월 16일 바이오스페이스 뉴스 피드에서 생성된 리포트*
