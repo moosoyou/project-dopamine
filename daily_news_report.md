@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 05월 16일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 05월 17일
 
 
 ## 주요 헤드라인
 
-1. **Bluebird’s Private Equity Buyout Boosts Upfront Cash for Shareholders (#뉴스)**
+1. **BioMarin Expands Enzyme Expertise With $270M Inozyme Buy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/bluebirds-private-equity-buyout-boosts-upfront-cash-for-shareholders>
+   <https://www.biospace.com/business/biomarin-expands-enzyme-expertise-with-270m-inozyme-buy>
 
-2. **Bluebird’s Private Equity Buyout Boosts Upfront Cash for Shareholders (#뉴스)**
+2. **BioMarin Expands Enzyme Expertise With $270M Inozyme Buy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/bluebirds-private-equity-buyout-boosts-upfront-cash-for-shareholders>
+   <https://www.biospace.com/business/biomarin-expands-enzyme-expertise-with-270m-inozyme-buy>
 
-3. **RFK Jr. Firm on HHS Cuts, Wobbles on Measles Vaccine (#뉴스)**
+3. **Sarepta Seeks to Strengthen Elevidys’ Case With Data in Older Kids (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/rfk-jr-firm-on-hhs-cuts-wobbles-on-measles-vaccine>
+   <https://www.biospace.com/drug-development/sarepta-seeks-to-strengthen-elevidys-case-with-data-in-older-kids>
 
-4. **Sanofi Hops Aboard US Manufacturing Blitz With $20B Commitment (#뉴스)**
+4. **Lilly Makes $1.3B RNA Editing Bet With Rznomics to Build Out Hearing Loss Pipeline (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sanofi-hops-aboard-us-manufacturing-blitz-with-20b-commitment>
+   <https://www.biospace.com/business/lilly-makes-1-3b-rna-editing-bet-with-rznomics-to-build-out-hearing-loss-pipeline>
 
-5. **Radiopharma Powerhouses Push Frontiers With New Indications, Innovation (#뉴스)**
+5. **UPDATED (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/radiopharma-powerhouses-push-frontiers-with-new-indications-innovation>
+   <https://www.biospace.com/business/novo-nordisk-ceo-jørgensen-to-depart-with-danish-pharmas-shares-in-freefall>
 
 6. **Radiopharma Powerhouses Push Frontiers With New Indications, Innovation (#뉴스)**
    - Article content not available
    <https://www.biospace.com/drug-development/radiopharma-powerhouses-push-frontiers-with-new-indications-innovation>
 
-7. **Biopharma Targets an HIV Cure as NIH Funding Cuts Threaten To Derail Progress (#뉴스)**
+7. **Radiopharma Powerhouses Push Frontiers With New Indications, Innovation (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/biopharma-targets-an-hiv-cure-as-nih-funding-cuts-threaten-to-derail-progress>
+   <https://www.biospace.com/drug-development/radiopharma-powerhouses-push-frontiers-with-new-indications-innovation>
 
 
 ---
-*2025년 05월 16일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 05월 17일 바이오스페이스 뉴스 피드에서 생성된 리포트*
