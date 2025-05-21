@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 05월 21일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 05월 22일
 
 
 ## 주요 헤드라인
 
-1. **New Details From Trump’s Drug Pricing Effort Put Branded Drugs in the Crosshairs (#뉴스)**
+1. **In Biotech’s ‘Moribund’ Market, What Does It Take to Survive? (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/new-details-from-trumps-drug-pricing-effort-put-branded-drugs-in-the-crosshairs>
+   <https://www.biospace.com/business/in-biotechs-moribund-market-what-does-it-take-to-survive>
 
-2. **New Details From Trump’s Drug Pricing Effort Put Branded Drugs in the Crosshairs (#뉴스)**
+2. **In Biotech’s ‘Moribund’ Market, What Does It Take to Survive? (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/new-details-from-trumps-drug-pricing-effort-put-branded-drugs-in-the-crosshairs>
+   <https://www.biospace.com/business/in-biotechs-moribund-market-what-does-it-take-to-survive>
 
-3. **CRISPR Success in Single Baby Highlights Rare Disease ‘Crisis’ (#뉴스)**
+3. **Genentech Bets Again on Orionis With Potential $2B+ in Crowded Molecular Glue Space (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/crispr-success-in-single-baby-highlights-rare-disease-crisis>
+   <https://www.biospace.com/business/genentech-bets-again-on-orionis-with-potential-2b-in-crowded-molecular-glue-space>
 
-4. **CRISPR Success in Single Baby Highlights Rare Disease ‘Crisis’ (#뉴스)**
+4. **Genentech Bets Again on Orionis With Potential $2B+ in Crowded Molecular Glue Space (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/crispr-success-in-single-baby-highlights-rare-disease-crisis>
+   <https://www.biospace.com/business/genentech-bets-again-on-orionis-with-potential-2b-in-crowded-molecular-glue-space>
 
-5. **Pfizer’s China Deal Worth up to $6B Eclipses Peers in a Frenzied Market (#뉴스)**
+5. **RFK Claims Ignorance About HHS Research, Clinical Trial Cuts in Hearing (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizers-china-deal-worth-up-to-6b-eclipses-peers-in-a-frenzied-market>
+   <https://www.biospace.com/policy/rfk-claims-ignorance-about-hhs-research-clinical-trial-cuts-in-hearing>
 
-6. **Opinion (#뉴스)**
+6. **Pfizer’s $6B China Deal, Drug Pricing and FDA’s New COVID Vaccine Plan (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/opinion-understanding-what-trumps-mfn-executive-order-can-and-cant-do>
+   <https://www.biospace.com/business/pfizers-6b-china-deal-drug-pricing-and-fdas-new-covid-vaccine-plan>
 
-7. **CRISPR Expands Focus, Pays Up To $95M in Sirius’ siRNA Pact (#뉴스)**
+7. **The Top 5 Most Active Corporate VCs in Pharma (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/crispr-expands-focus-pays-up-to-95m-in-sirius-sirna-pact>
+   <https://www.biospace.com/business/the-top-5-most-active-corporate-vcs-in-pharma>
 
 
 ---
-*2025년 05월 21일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 05월 22일 바이오스페이스 뉴스 피드에서 생성된 리포트*
