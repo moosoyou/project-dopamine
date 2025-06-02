@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 02일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 03일
 
 
 ## 주요 헤드라인
 
-1. **Jazz Is in the “Goldilocks Zone” With New Cancer Data at ASCO25 (#뉴스)**
+1. **Amid Rough Waters, Regeneron Puts Nearly $2B on the Line For Chinese Obesity Drug (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/jazz-is-in-the-goldilocks-zone-with-new-cancer-data-at-asco25>
+   <https://www.biospace.com/business/amid-rough-waters-regeneron-puts-nearly-2b-on-the-line-for-chinese-obesity-drug>
 
-2. **Jazz Is in the “Goldilocks Zone” With New Cancer Data at ASCO25 (#뉴스)**
+2. **Amid Rough Waters, Regeneron Puts Nearly $2B on the Line For Chinese Obesity Drug (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/jazz-is-in-the-goldilocks-zone-with-new-cancer-data-at-asco25>
+   <https://www.biospace.com/business/amid-rough-waters-regeneron-puts-nearly-2b-on-the-line-for-chinese-obesity-drug>
 
-3. **Sanofi, Regeneron Shares Tumble as Dupixent Follow-Up Fails Phase III COPD Test (#뉴스)**
+3. **Arcus Kidney Cancer Drug Casdatifan Advances to Challenge Merck’s Welireg (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sanofi-regeneron-shares-tumble-as-dupixent-follow-up-fails-phase-iii-copd-test>
+   <https://www.biospace.com/drug-development/arcus-kidney-cancer-drug-casdatifan-advances-to-challenge-mercks-welireg>
 
-4. **Summit’s Bispecific Misses Survival Endpoint in Global Phase III Trial but Analysts Remain Optimistic (#뉴스)**
+4. **Bicara Responds to Rival Merus With Early Survival Data at ASCO25 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/summits-bispecific-misses-survival-endpoint-in-global-phase-iii-trial-but-analysts-remain-optimistic>
+   <https://www.biospace.com/drug-development/bicara-responds-to-rival-merus-with-early-survival-data-at-asco25>
 
-5. **Merck CEO Calls Diversity ‘Core’ to Operations as Anti-DEI Measure Is Defeated (#뉴스)**
+5. **Post-Chevron Legal Battles (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/merck-ceo-calls-diversity-core-to-operations-as-anti-dei-measure-is-defeated>
+   <https://www.biospace.com/policy/post-chevron-legal-battles-three-key-cases-to-watch>
 
-6. **Opinion (#뉴스)**
+6. **Post-Chevron Legal Battles (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/opinion-drug-price-transparency-in-us-is-easier-said-than-done>
+   <https://www.biospace.com/policy/post-chevron-legal-battles-three-key-cases-to-watch>
 
-7. **Opinion (#뉴스)**
+7. **Rest Up, Biopharma. Trump’s Drug Pricing Policy Is Coming on Monday (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/opinion-drug-price-transparency-in-us-is-easier-said-than-done>
+   <https://www.biospace.com/policy/rest-up-biopharma-trumps-drug-pricing-policy-is-coming-on-monday>
 
 
 ---
-*2025년 06월 02일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 06월 03일 바이오스페이스 뉴스 피드에서 생성된 리포트*
