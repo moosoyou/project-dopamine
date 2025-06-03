@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 03일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 04일
 
 
 ## 주요 헤드라인
 
-1. **Amid Rough Waters, Regeneron Puts Nearly $2B on the Line For Chinese Obesity Drug (#뉴스)**
+1. **Kura Posts New Data, Secures NDA Acceptance in Acute Myeloid Leukemia Race With Syndax (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/amid-rough-waters-regeneron-puts-nearly-2b-on-the-line-for-chinese-obesity-drug>
+   <https://www.biospace.com/drug-development/kura-posts-new-data-secures-nda-acceptance-in-acute-myeloid-leukemia-race-with-syndax>
 
-2. **Amid Rough Waters, Regeneron Puts Nearly $2B on the Line For Chinese Obesity Drug (#뉴스)**
+2. **Kura Posts New Data, Secures NDA Acceptance in Acute Myeloid Leukemia Race With Syndax (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/amid-rough-waters-regeneron-puts-nearly-2b-on-the-line-for-chinese-obesity-drug>
+   <https://www.biospace.com/drug-development/kura-posts-new-data-secures-nda-acceptance-in-acute-myeloid-leukemia-race-with-syndax>
 
-3. **Arcus Kidney Cancer Drug Casdatifan Advances to Challenge Merck’s Welireg (#뉴스)**
+3. **The Decadent Show of Data at ASCO25 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/arcus-kidney-cancer-drug-casdatifan-advances-to-challenge-mercks-welireg>
+   <https://www.biospace.com/drug-development/the-decadent-show-of-data-at-asco25>
 
-4. **Bicara Responds to Rival Merus With Early Survival Data at ASCO25 (#뉴스)**
+4. **The Decadent Show of Data at ASCO25 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/bicara-responds-to-rival-merus-with-early-survival-data-at-asco25>
+   <https://www.biospace.com/drug-development/the-decadent-show-of-data-at-asco25>
 
-5. **Post-Chevron Legal Battles (#뉴스)**
+5. **Kymera Soars on Early Protein Degrader Data (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/post-chevron-legal-battles-three-key-cases-to-watch>
+   <https://www.biospace.com/drug-development/kymera-soars-on-early-protein-degrader-data>
 
-6. **Post-Chevron Legal Battles (#뉴스)**
+6. **Kymera Soars on Early Protein Degrader Data (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/post-chevron-legal-battles-three-key-cases-to-watch>
+   <https://www.biospace.com/drug-development/kymera-soars-on-early-protein-degrader-data>
 
-7. **Rest Up, Biopharma. Trump’s Drug Pricing Policy Is Coming on Monday (#뉴스)**
+7. **Roche and Jazz Link Drug Combo to Improved Survival in Phase III Lung Cancer Trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/rest-up-biopharma-trumps-drug-pricing-policy-is-coming-on-monday>
+   <https://www.biospace.com/drug-development/roche-and-jazz-link-drug-combo-to-improved-survival-in-phase-iii-lung-cancer-trial>
 
 
 ---
-*2025년 06월 03일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 06월 04일 바이오스페이스 뉴스 피드에서 생성된 리포트*
