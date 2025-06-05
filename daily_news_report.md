@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 05일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 06일
 
 
 ## 주요 헤드라인
 
-1. **Vigil’s TREM2 Antibody for Rare Brain Disease Flunks Phase II Trial (#뉴스)**
+1. **Regenxbio Fails To Best Sarepta’s Elevidys With New Data for DMD Gene Therapy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/vigils-trem2-antibody-for-rare-brain-disease-flunks-phase-ii-trial>
+   <https://www.biospace.com/drug-development/regenxbio-fails-to-best-sareptas-elevidys-with-new-data-for-dmd-gene-therapy>
 
-2. **Vigil’s TREM2 Antibody for Rare Brain Disease Flunks Phase II Trial (#뉴스)**
+2. **Regenxbio Fails To Best Sarepta’s Elevidys With New Data for DMD Gene Therapy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/vigils-trem2-antibody-for-rare-brain-disease-flunks-phase-ii-trial>
+   <https://www.biospace.com/drug-development/regenxbio-fails-to-best-sareptas-elevidys-with-new-data-for-dmd-gene-therapy>
 
-3. **Lilly Inks Deal Worth up to $870M To Develop Long-Acting GLP-1 Obesity Drugs (#뉴스)**
+3. **AI’s Role in Decoding the FDA’s New Regulatory Communications (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-inks-deal-worth-up-to-870m-to-develop-long-acting-glp-1-obesity-drugs>
+   <https://www.biospace.com/drug-development/ais-role-in-decoding-the-fdas-new-regulatory-communications>
 
-4. **Opinion (#뉴스)**
+4. **AI’s Role in Decoding the FDA’s New Regulatory Communications (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/investing-in-research-and-welcoming-global-talent-strengthens-america>
+   <https://www.biospace.com/drug-development/ais-role-in-decoding-the-fdas-new-regulatory-communications>
 
-5. **M&A Ticks Up, ASCO Excites and Vaccines Cause More Drama (#뉴스)**
+5. **uniQure’s Regulatory Progress Sparks Optimism for ‘Desperate’ Huntington’s Space (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/m-a-ticks-up-asco-excites-and-vaccines-cause-more-drama>
+   <https://www.biospace.com/drug-development/uniqures-regulatory-progress-sparks-optimism-for-desperate-huntingtons-space>
 
-6. **Gilead Gears Up To Challenge J&J in $20B Multiple Myeloma CAR-T Market (#뉴스)**
+6. **uniQure’s Regulatory Progress Sparks Optimism for ‘Desperate’ Huntington’s Space (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/gilead-gears-up-to-challenge-j-j-in-20b-multiple-myeloma-car-t-market>
+   <https://www.biospace.com/drug-development/uniqures-regulatory-progress-sparks-optimism-for-desperate-huntingtons-space>
 
-7. **Gilead Gears Up To Challenge J&J in $20B Multiple Myeloma CAR-T Market (#뉴스)**
+7. **Fired HHS Staff Sue RFK Jr., Musk, Claiming Terminations Were Based on ‘Error-Ridden’ Information (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/gilead-gears-up-to-challenge-j-j-in-20b-multiple-myeloma-car-t-market>
+   <https://www.biospace.com/policy/fired-hhs-staff-sue-rfk-jr-musk-claiming-terminations-were-based-on-error-ridden-information>
 
 
 ---
-*2025년 06월 05일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 06월 06일 바이오스페이스 뉴스 피드에서 생성된 리포트*
