@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 06일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 07일
 
 
 ## 주요 헤드라인
 
-1. **Regenxbio Fails To Best Sarepta’s Elevidys With New Data for DMD Gene Therapy (#뉴스)**
+1. **Perspective Therapeutics Brings Energy to the Radiopharma World (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/regenxbio-fails-to-best-sareptas-elevidys-with-new-data-for-dmd-gene-therapy>
+   <https://www.biospace.com/drug-development/perspective-therapeutics-brings-energy-to-the-radiopharma-world>
 
-2. **Regenxbio Fails To Best Sarepta’s Elevidys With New Data for DMD Gene Therapy (#뉴스)**
+2. **Perspective Therapeutics Brings Energy to the Radiopharma World (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/regenxbio-fails-to-best-sareptas-elevidys-with-new-data-for-dmd-gene-therapy>
+   <https://www.biospace.com/drug-development/perspective-therapeutics-brings-energy-to-the-radiopharma-world>
 
-3. **AI’s Role in Decoding the FDA’s New Regulatory Communications (#뉴스)**
+3. **EU Regulators Confirm Rare Vision Loss Risk for Novo’s Semaglutide (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/ais-role-in-decoding-the-fdas-new-regulatory-communications>
+   <https://www.biospace.com/policy/eu-regulators-confirm-rare-vision-loss-risk-for-novos-semaglutide>
 
-4. **AI’s Role in Decoding the FDA’s New Regulatory Communications (#뉴스)**
+4. **EU Regulators Confirm Rare Vision Loss Risk for Novo’s Semaglutide (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/ais-role-in-decoding-the-fdas-new-regulatory-communications>
+   <https://www.biospace.com/policy/eu-regulators-confirm-rare-vision-loss-risk-for-novos-semaglutide>
 
-5. **uniQure’s Regulatory Progress Sparks Optimism for ‘Desperate’ Huntington’s Space (#뉴스)**
+5. **Otsuka Sees ‘Impressive’ Proteinuria Reduction in Phase III IgAN Trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/uniqures-regulatory-progress-sparks-optimism-for-desperate-huntingtons-space>
+   <https://www.biospace.com/drug-development/otsuka-sees-impressive-proteinuria-reduction-in-phase-iii-igan-trial>
 
-6. **uniQure’s Regulatory Progress Sparks Optimism for ‘Desperate’ Huntington’s Space (#뉴스)**
+6. **Desperate Times, Desperate Measures? RFK’s Vaccine Campaign Only Breeds More Distrust (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/uniqures-regulatory-progress-sparks-optimism-for-desperate-huntingtons-space>
+   <https://www.biospace.com/policy/desperate-times-desperate-measures-rfks-vaccine-campaign-only-breeds-more-distrust>
 
-7. **Fired HHS Staff Sue RFK Jr., Musk, Claiming Terminations Were Based on ‘Error-Ridden’ Information (#뉴스)**
+7. **Corcept Claims Survival Benefit in ALS Despite Missed Endpoint (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fired-hhs-staff-sue-rfk-jr-musk-claiming-terminations-were-based-on-error-ridden-information>
+   <https://www.biospace.com/drug-development/corcept-claims-survival-benefit-in-als-despite-missed-endpoint>
 
 
 ---
-*2025년 06월 06일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 06월 07일 바이오스페이스 뉴스 피드에서 생성된 리포트*
