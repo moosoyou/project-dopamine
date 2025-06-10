@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 10일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 11일
 
 
 ## 주요 헤드라인
 
-1. **In ‘Bold’ Move, RFK Jr. ‘Retires’ All 17 Members of CDC’s Vaccine Committee (#뉴스)**
+1. **Deep Dive (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/in-bold-move-rfk-jr-retires-all-17-members-of-cdcs-vaccine-committee>
+   <https://www.biospace.com/business/deep-dive-top-paid-pharma-execs-and-those-who-would-get-the-most-to-leave>
 
-2. **In ‘Bold’ Move, RFK Jr. ‘Retires’ All 17 Members of CDC’s Vaccine Committee (#뉴스)**
+2. **Deep Dive (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/in-bold-move-rfk-jr-retires-all-17-members-of-cdcs-vaccine-committee>
+   <https://www.biospace.com/business/deep-dive-top-paid-pharma-execs-and-those-who-would-get-the-most-to-leave>
 
-3. **Avidity’s siRNA Muscular Dystrophy Drug Improves Mobility, Boosts Muscle Strength (#뉴스)**
+3. **Gilead’s HIV Combo on Hold, With No Impact on FDA’s Pending Lenacapavir Decision (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/aviditys-sirna-muscular-dystrophy-drug-improves-mobility-boosts-muscle-strength>
+   <https://www.biospace.com/drug-development/gileads-hiv-combo-on-hold-with-no-impact-on-fdas-pending-lenacapavir-decision>
 
-4. **Avidity’s siRNA Muscular Dystrophy Drug Improves Mobility, Boosts Muscle Strength (#뉴스)**
+4. **Gilead’s HIV Combo on Hold, With No Impact on FDA’s Pending Lenacapavir Decision (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/aviditys-sirna-muscular-dystrophy-drug-improves-mobility-boosts-muscle-strength>
+   <https://www.biospace.com/drug-development/gileads-hiv-combo-on-hold-with-no-impact-on-fdas-pending-lenacapavir-decision>
 
-5. **ACIP Members Receive Termination Notices as Fears Mount Over RFK Jr.’s Vaccine Machinations (#뉴스)**
+5. **‘More Critical’ Vaccine Advisors Expected Following Kennedy’s ACIP Ouster (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/acip-members-receive-termination-notices-as-fears-mount-over-rfk-jr-s-vaccine-machinations>
+   <https://www.biospace.com/policy/more-critical-vaccine-advisors-expected-following-kennedys-acip-ouster>
 
-6. **ACIP Members Receive Termination Notices as Fears Mount Over RFK Jr.’s Vaccine Machinations (#뉴스)**
+6. **Recursion Downsizes by 20% To Boost Cash Position (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/acip-members-receive-termination-notices-as-fears-mount-over-rfk-jr-s-vaccine-machinations>
+   <https://www.biospace.com/business/recursion-downsizes-by-20-to-boost-cash-position>
 
-7. **Keros To Return $375M to Investors After Shareholder Activism, Safety Signal (#뉴스)**
+7. **Odyssey Ends Quest for Nasdaq, Pulls IPO Application After Nearly 5 Months (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/keros-to-return-375m-to-investors-after-shareholder-activism-safety-signal>
+   <https://www.biospace.com/business/odyssey-ends-quest-for-nasdaq-pulls-ipo-application-after-nearly-5-months>
 
 
 ---
-*2025년 06월 10일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 06월 11일 바이오스페이스 뉴스 피드에서 생성된 리포트*
