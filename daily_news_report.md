@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 16일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 17일
 
 
 ## 주요 헤드라인
 
-1. **AstraZeneca Makes $5.3B AI Bet With China’s CSPC for Chronic Disease Pills (#뉴스)**
+1. **NextCure Joins China-ADC Gold Rush with $745M Simcere Deal (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/astrazeneca-makes-5-3b-ai-bet-with-chinas-cspc-for-chronic-disease-pills>
+   <https://www.biospace.com/business/nextcure-joins-china-adc-gold-rush-with-745m-simcere-deal>
 
-2. **AstraZeneca Makes $5.3B AI Bet With China’s CSPC for Chronic Disease Pills (#뉴스)**
+2. **NextCure Joins China-ADC Gold Rush with $745M Simcere Deal (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/astrazeneca-makes-5-3b-ai-bet-with-chinas-cspc-for-chronic-disease-pills>
+   <https://www.biospace.com/business/nextcure-joins-china-adc-gold-rush-with-745m-simcere-deal>
 
-3. **As New CDC Vaccine Advisors Gear Up for First Meeting, Experts Ask, ‘Where’s Cassidy?’ (#뉴스)**
+3. **Partner-Seeking Biotechs Find Plenty of Hands To Shake as BIO2025 Kicks Off (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/as-new-cdc-vaccine-advisors-gear-up-for-first-meeting-experts-ask-wheres-cassidy>
+   <https://www.biospace.com/business/partner-seeking-biotechs-find-plenty-of-hands-to-shake-as-bio2025-kicks-off>
 
-4. **Biopharma Right of First Negotiation Not a Golden Ticket to M&A, Jefferies Finds (#뉴스)**
+4. **Partner-Seeking Biotechs Find Plenty of Hands To Shake as BIO2025 Kicks Off (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biopharma-right-of-first-negotiation-not-a-golden-ticket-to-m-a-jefferies-finds>
+   <https://www.biospace.com/business/partner-seeking-biotechs-find-plenty-of-hands-to-shake-as-bio2025-kicks-off>
 
-5. **Biopharma Right of First Negotiation Not a Golden Ticket to M&A, Jefferies Finds (#뉴스)**
+5. **Lilly Notches ‘Top-Tier’ Weight Loss Results for Phase I Amylin/Tirzepatide Combo (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biopharma-right-of-first-negotiation-not-a-golden-ticket-to-m-a-jefferies-finds>
+   <https://www.biospace.com/drug-development/lilly-notches-top-tier-weight-loss-results-for-phase-i-amylin-tirzepatide-combo>
 
-6. **As Gene Therapy Endures ‘Cold Winter,’ FDA Leaders Promise Support (#뉴스)**
+6. **Roche, Prothena Push Parkinson’s Drug to Phase III Despite Mid-Stage Fail (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/as-gene-therapy-endures-cold-winter-fda-leaders-promise-support>
+   <https://www.biospace.com/drug-development/roche-prothena-push-parkinsons-drug-to-phase-iii-despite-mid-stage-fail>
 
-7. **As Gene Therapy Endures ‘Cold Winter,’ FDA Leaders Promise Support (#뉴스)**
+7. **Regeneron Backs Off 23andMe, Losing Bid to Former CEO (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/as-gene-therapy-endures-cold-winter-fda-leaders-promise-support>
+   <https://www.biospace.com/business/regeneron-backs-off-23andme-losing-bid-to-former-ceo>
 
 
 ---
-*2025년 06월 16일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 06월 17일 바이오스페이스 뉴스 피드에서 생성된 리포트*
