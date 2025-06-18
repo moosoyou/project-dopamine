@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 18일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 19일
 
 
 ## 주요 헤드라인
 
-1. **FDA Rolls Out Commissioner’s Priority Voucher Program to Speed Drug Reviews (#뉴스)**
+1. **Scholar Rock Jumps on Weight Loss Data for Zepbound/Repurposed Antibody Combo (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fda-rolls-out-commissioners-priority-voucher-program-to-speed-drug-reviews>
+   <https://www.biospace.com/drug-development/scholar-rock-jumps-on-weight-loss-data-for-zepbound-repurposed-antibody-combo>
 
-2. **FDA Rolls Out Commissioner’s Priority Voucher Program to Speed Drug Reviews (#뉴스)**
+2. **Scholar Rock Jumps on Weight Loss Data for Zepbound/Repurposed Antibody Combo (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fda-rolls-out-commissioners-priority-voucher-program-to-speed-drug-reviews>
+   <https://www.biospace.com/drug-development/scholar-rock-jumps-on-weight-loss-data-for-zepbound-repurposed-antibody-combo>
 
-3. **Ventyx’s Parkinson’s Pill Shows ‘Promising’ Results in Mid-Stage Study, Paving Path to Other Neuro Diseases (#뉴스)**
+3. **More Than a One Trick Pony, Lilly Feeds Success Back Into Biotech (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/ventyxs-parkinsons-pill-shows-promising-results-in-mid-stage-study-paving-path-to-other-neuro-diseases>
+   <https://www.biospace.com/business/more-than-a-one-trick-pony-lilly-feeds-success-back-into-biotech>
 
-4. **Lilly Validates Gene Editing Space With $1.3B Verve Buy, But Analysts Are Skeptical (#뉴스)**
+4. **More Than a One Trick Pony, Lilly Feeds Success Back Into Biotech (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-validates-gene-editing-space-with-1-3b-verve-buy-but-analysts-are-skeptical>
+   <https://www.biospace.com/business/more-than-a-one-trick-pony-lilly-feeds-success-back-into-biotech>
 
-5. **Roche, AbbVie’s Venclexta Stumbles Again, This Time in Myelodysplastic Syndromes (#뉴스)**
+5. **More Than One-Third of Biotechs Have Under a Year of Cash Left, EY Finds (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/roche-abbvies-venclexta-stumbles-again-this-time-in-myelodysplastic-syndromes>
+   <https://www.biospace.com/business/more-than-one-third-of-biotechs-have-under-a-year-of-cash-left-ey-finds>
 
-6. **Court Orders Restoration of Canceled NIH Grants, Calls Cuts ‘Appalling’ (#뉴스)**
+6. **More Than One-Third of Biotechs Have Under a Year of Cash Left, EY Finds (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/court-orders-restoration-of-canceled-nih-grants-calls-cuts-appalling>
+   <https://www.biospace.com/business/more-than-one-third-of-biotechs-have-under-a-year-of-cash-left-ey-finds>
 
-7. **As AI Dawns in Precision Oncology, 2025 Expected To Be a ‘Turning Point’ (#뉴스)**
+7. **FDA Chief’s New Voucher Program Could Ease Biotech Investors’ Anxiety (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/as-ai-dawns-in-precision-oncology-2025-expected-to-be-a-turning-point>
+   <https://www.biospace.com/policy/fda-chiefs-new-voucher-program-could-ease-biotech-investors-anxiety>
 
 
 ---
-*2025년 06월 18일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 06월 19일 바이오스페이스 뉴스 피드에서 생성된 리포트*
