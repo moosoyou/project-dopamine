@@ -1,4 +1,4 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 19일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 20일
 
 
 ## 주요 헤드라인
@@ -23,14 +23,14 @@
    - Article content not available
    <https://www.biospace.com/business/more-than-one-third-of-biotechs-have-under-a-year-of-cash-left-ey-finds>
 
-6. **More Than One-Third of Biotechs Have Under a Year of Cash Left, EY Finds (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/more-than-one-third-of-biotechs-have-under-a-year-of-cash-left-ey-finds>
-
-7. **FDA Chief’s New Voucher Program Could Ease Biotech Investors’ Anxiety (#뉴스)**
+6. **FDA Chief’s New Voucher Program Could Ease Biotech Investors’ Anxiety (#뉴스)**
    - Article content not available
    <https://www.biospace.com/policy/fda-chiefs-new-voucher-program-could-ease-biotech-investors-anxiety>
 
+7. **Draig Takes Flight With $140M Series A To Advance Neuropsych Drugs (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/draig-takes-flight-with-140m-series-a-to-advance-neuropsych-drugs>
+
 
 ---
-*2025년 06월 19일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 06월 20일 바이오스페이스 뉴스 피드에서 생성된 리포트*
