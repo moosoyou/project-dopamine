@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 23일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 24일
 
 
 ## 주요 헤드라인
 
-1. **Zealand’s GLP-1/GLP-2 Drug Elicits Over 11% Weight-Loss—With the Potential for More (#뉴스)**
+1. **Lilly Takes Victory Lap on Oral Weight Loss Drug as Analysts Spot Safety Crack (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/zealands-glp-1-glp-2-drug-elicits-over-11-weight-loss-with-the-potential-for-more>
+   <https://www.biospace.com/drug-development/lilly-takes-victory-lap-on-oral-weight-loss-drug-as-analysts-spot-safety-crack>
 
-2. **Zealand’s GLP-1/GLP-2 Drug Elicits Over 11% Weight-Loss—With the Potential for More (#뉴스)**
+2. **Lilly Takes Victory Lap on Oral Weight Loss Drug as Analysts Spot Safety Crack (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/zealands-glp-1-glp-2-drug-elicits-over-11-weight-loss-with-the-potential-for-more>
+   <https://www.biospace.com/drug-development/lilly-takes-victory-lap-on-oral-weight-loss-drug-as-analysts-spot-safety-crack>
 
-3. **Navigating Funding Freezes and AI Frontiers (#뉴스)**
+3. **Exelixis Beats Bayer in Colorectal Cancer as Zanzalintinib Delivers ‘First Pivotal Success’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/navigating-funding-freezes-and-ai-frontiers>
+   <https://www.biospace.com/drug-development/exelixis-beats-bayer-in-colorectal-cancer-as-zanzalintinib-delivers-first-pivotal-success>
 
-4. **More Than a One Trick Pony, Lilly Feeds Success Back Into Biotech (#뉴스)**
+4. **Exelixis Beats Bayer in Colorectal Cancer as Zanzalintinib Delivers ‘First Pivotal Success’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/more-than-a-one-trick-pony-lilly-feeds-success-back-into-biotech>
+   <https://www.biospace.com/drug-development/exelixis-beats-bayer-in-colorectal-cancer-as-zanzalintinib-delivers-first-pivotal-success>
 
-5. **More Than a One Trick Pony, Lilly Feeds Success Back Into Biotech (#뉴스)**
+5. **Novo Leans on CagriSema’s Safety as Amycretin Moves Forward to Phase III (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/more-than-a-one-trick-pony-lilly-feeds-success-back-into-biotech>
+   <https://www.biospace.com/drug-development/novo-leans-on-cagrisemas-safety-as-amycretin-moves-forward-to-phase-iii>
 
-6. **More Than One-Third of Biotechs Have Under a Year of Cash Left, EY Finds (#뉴스)**
+6. **Compass Plots Path to FDA With ‘Meaningful’ Phase III Data for Psilocybin Drug in Depression (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/more-than-one-third-of-biotechs-have-under-a-year-of-cash-left-ey-finds>
+   <https://www.biospace.com/drug-development/compass-plots-path-to-fda-with-meaningful-phase-iii-data-for-psilocybin-drug-in-depression>
 
-7. **More Than One-Third of Biotechs Have Under a Year of Cash Left, EY Finds (#뉴스)**
+7. **Vertex’s Cell Therapy Could Be ‘Functional Cure’ for Diabetes, but Market Prospects Uncertain (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/more-than-one-third-of-biotechs-have-under-a-year-of-cash-left-ey-finds>
+   <https://www.biospace.com/drug-development/vertexs-cell-therapy-could-be-functional-cure-for-diabetes-but-market-prospects-uncertain>
 
 
 ---
-*2025년 06월 23일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 06월 24일 바이오스페이스 뉴스 피드에서 생성된 리포트*
