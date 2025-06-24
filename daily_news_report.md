@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 24일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 25일
 
 
 ## 주요 헤드라인
 
-1. **Lilly Takes Victory Lap on Oral Weight Loss Drug as Analysts Spot Safety Crack (#뉴스)**
+1. **‘People Are Going to Die’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/lilly-takes-victory-lap-on-oral-weight-loss-drug-as-analysts-spot-safety-crack>
+   <https://www.biospace.com/policy/people-are-going-to-die-hhs-hearing-with-kennedy-turns-into-shouting-match>
 
-2. **Lilly Takes Victory Lap on Oral Weight Loss Drug as Analysts Spot Safety Crack (#뉴스)**
+2. **‘People Are Going to Die’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/lilly-takes-victory-lap-on-oral-weight-loss-drug-as-analysts-spot-safety-crack>
+   <https://www.biospace.com/policy/people-are-going-to-die-hhs-hearing-with-kennedy-turns-into-shouting-match>
 
-3. **Exelixis Beats Bayer in Colorectal Cancer as Zanzalintinib Delivers ‘First Pivotal Success’ (#뉴스)**
+3. **Sangamo’s ‘Positive’ Phase I/II Data for Fabry Gene Therapy Opens Path to FDA (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/exelixis-beats-bayer-in-colorectal-cancer-as-zanzalintinib-delivers-first-pivotal-success>
+   <https://www.biospace.com/drug-development/sangamos-positive-phase-i-ii-data-for-fabry-gene-therapy-opens-path-to-fda>
 
-4. **Exelixis Beats Bayer in Colorectal Cancer as Zanzalintinib Delivers ‘First Pivotal Success’ (#뉴스)**
+4. **Sangamo’s ‘Positive’ Phase I/II Data for Fabry Gene Therapy Opens Path to FDA (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/exelixis-beats-bayer-in-colorectal-cancer-as-zanzalintinib-delivers-first-pivotal-success>
+   <https://www.biospace.com/drug-development/sangamos-positive-phase-i-ii-data-for-fabry-gene-therapy-opens-path-to-fda>
 
-5. **Novo Leans on CagriSema’s Safety as Amycretin Moves Forward to Phase III (#뉴스)**
+5. **Revolution Establishes Endless Cash Runway With $2B Royalty Pharma Deal (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/novo-leans-on-cagrisemas-safety-as-amycretin-moves-forward-to-phase-iii>
+   <https://www.biospace.com/business/revolution-establishes-endless-cash-runway-with-2b-royalty-pharma-deal>
 
-6. **Compass Plots Path to FDA With ‘Meaningful’ Phase III Data for Psilocybin Drug in Depression (#뉴스)**
+6. **In latest AI Play, Sanofi Bets $630M+ for Formation Bio’s JAK/SYK Blocker (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/compass-plots-path-to-fda-with-meaningful-phase-iii-data-for-psilocybin-drug-in-depression>
+   <https://www.biospace.com/drug-development/in-latest-ai-play-sanofi-bets-630m-for-formation-bios-jak-syk-blocker>
 
-7. **Vertex’s Cell Therapy Could Be ‘Functional Cure’ for Diabetes, but Market Prospects Uncertain (#뉴스)**
+7. **Lilly’s Antibody Protects Patients From Losing Muscle While Taking Novo’s Wegovy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/vertexs-cell-therapy-could-be-functional-cure-for-diabetes-but-market-prospects-uncertain>
+   <https://www.biospace.com/drug-development/lilly-antibody-protects-patients-from-losing-muscle-while-taking-novos-wegovy>
 
 
 ---
-*2025년 06월 24일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 06월 25일 바이오스페이스 뉴스 피드에서 생성된 리포트*
