@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 25일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 26일
 
 
 ## 주요 헤드라인
 
-1. **‘People Are Going to Die’ (#뉴스)**
+1. **Webinar (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/people-are-going-to-die-hhs-hearing-with-kennedy-turns-into-shouting-match>
+   <https://www.biospace.com/business/webinar-beyond-theory-real-world-ai-wins-in-life-science-r-d-faster-smarter>
 
-2. **‘People Are Going to Die’ (#뉴스)**
+2. **Webinar (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/people-are-going-to-die-hhs-hearing-with-kennedy-turns-into-shouting-match>
+   <https://www.biospace.com/business/webinar-beyond-theory-real-world-ai-wins-in-life-science-r-d-faster-smarter>
 
-3. **Sangamo’s ‘Positive’ Phase I/II Data for Fabry Gene Therapy Opens Path to FDA (#뉴스)**
+3. **What To Watch for as ACIP’s New Era Begins (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sangamos-positive-phase-i-ii-data-for-fabry-gene-therapy-opens-path-to-fda>
+   <https://www.biospace.com/policy/what-to-watch-for-as-acips-new-era-begins>
 
-4. **Sangamo’s ‘Positive’ Phase I/II Data for Fabry Gene Therapy Opens Path to FDA (#뉴스)**
+4. **What To Watch for as ACIP’s New Era Begins (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sangamos-positive-phase-i-ii-data-for-fabry-gene-therapy-opens-path-to-fda>
+   <https://www.biospace.com/policy/what-to-watch-for-as-acips-new-era-begins>
 
-5. **Revolution Establishes Endless Cash Runway With $2B Royalty Pharma Deal (#뉴스)**
+5. **Prescription Drug Sales Will Hit $1.75T By 2030 Thanks to GLP-1s (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/revolution-establishes-endless-cash-runway-with-2b-royalty-pharma-deal>
+   <https://www.biospace.com/business/prescription-drug-sales-will-hit-1-75t-by-2030-thanks-to-glp-1s-evaluate>
 
-6. **In latest AI Play, Sanofi Bets $630M+ for Formation Bio’s JAK/SYK Blocker (#뉴스)**
+6. **Sanofi, Gilead Deepen Protein Degrader Pipelines in Separate Deals With Kymera (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/in-latest-ai-play-sanofi-bets-630m-for-formation-bios-jak-syk-blocker>
+   <https://www.biospace.com/business/sanofi-gilead-deepen-protein-degrader-pipelines-in-separate-deals-with-kymera>
 
-7. **Lilly’s Antibody Protects Patients From Losing Muscle While Taking Novo’s Wegovy (#뉴스)**
+7. **TIGIT Turmoil (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/lilly-antibody-protects-patients-from-losing-muscle-while-taking-novos-wegovy>
+   <https://www.biospace.com/business/tigit-turmoil-how-pharma-burned-billions-on-failed-immuno-oncology-projects>
 
 
 ---
-*2025년 06월 25일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 06월 26일 바이오스페이스 뉴스 피드에서 생성된 리포트*
