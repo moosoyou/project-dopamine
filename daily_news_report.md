@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 27일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 06월 28일
 
 
 ## 주요 헤드라인
 
-1. **Trump’s CDC Pick Says Vaccines Are Safe, Promises To Keep Them Available (#뉴스)**
+1. **Supreme Court Leaves PrEP Drug Coverage Decisions to RFK’s Task Force (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/trumps-cdc-pick-says-vaccines-are-safe-promises-to-keep-them-available>
+   <https://www.biospace.com/business/supreme-court-leaves-prep-drug-coverage-decisions-to-rfks-task-force>
 
-2. **Trump’s CDC Pick Says Vaccines Are Safe, Promises To Keep Them Available (#뉴스)**
+2. **Supreme Court Leaves PrEP Drug Coverage Decisions to RFK’s Task Force (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/trumps-cdc-pick-says-vaccines-are-safe-promises-to-keep-them-available>
+   <https://www.biospace.com/business/supreme-court-leaves-prep-drug-coverage-decisions-to-rfks-task-force>
 
-3. **Lilly-Verve Proxy Filing Reveals Tumult After Departure of FDA’s Marks (#뉴스)**
+3. **ACIP Skips Votes on COVID and Moderna’s mRESVIA but Scrutinzes mRNA Vaccine Safety (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-verve-proxy-filing-reveals-tumult-after-departure-of-fdas-marks>
+   <https://www.biospace.com/policy/acip-skips-votes-on-covid-and-modernas-mresvia-but-scrutinzes-mrna-vaccine-safety>
 
-4. **Lilly-Verve Proxy Filing Reveals Tumult After Departure of FDA’s Marks (#뉴스)**
+4. **ACIP Skips Votes on COVID and Moderna’s mRESVIA but Scrutinzes mRNA Vaccine Safety (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-verve-proxy-filing-reveals-tumult-after-departure-of-fdas-marks>
+   <https://www.biospace.com/policy/acip-skips-votes-on-covid-and-modernas-mresvia-but-scrutinzes-mrna-vaccine-safety>
 
-5. **Longevity Biotech Takes Root on Nasdaq With $180M SPAC Deal (#뉴스)**
+5. **Altimmune Nosedives on Mixed Mid-Stage MASH Data for GLP-1/Glucagon Drug (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/longevity-biotech-takes-roots-on-nasdaq-with-180m-spac-deal>
+   <https://www.biospace.com/drug-development/altimmune-nosedives-on-mixed-mid-stage-mash-data-for-glp-1-glucagon-drug>
 
-6. **Longevity Biotech Takes Root on Nasdaq With $180M SPAC Deal (#뉴스)**
+6. **Alphabet Subsidiary Calico Colors In Up To $570M+ Aging Deal With China’s Mabwell (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/longevity-biotech-takes-roots-on-nasdaq-with-180m-spac-deal>
+   <https://www.biospace.com/business/alphabet-subsidiary-calico-colors-in-up-to-570m-aging-deal-with-chinas-mabwell>
 
-7. **RFK Cuts U.S. Funding From Vaccine Alliance Gavi, Claims Group ‘Ignored the Science’ (#뉴스)**
+7. **Alto Digs Into Exploratory Outcomes as Depression Drug Misses Phase II Endpoint (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/rfk-cuts-u-s-funding-from-vaccine-alliance-gavi-claims-group-ignored-the-science>
+   <https://www.biospace.com/drug-development/alto-digs-into-exploratory-outcomes-as-depression-drug-misses-phase-ii-endpoint>
 
 
 ---
-*2025년 06월 27일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 06월 28일 바이오스페이스 뉴스 피드에서 생성된 리포트*
