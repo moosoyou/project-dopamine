@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 01일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 02일
 
 
 ## 주요 헤드라인
 
-1. **Amgen’s Antibody Improves Overall Survival in Phase III Gastric Cancer Test (#뉴스)**
+1. **Understanding the FDA’s AI Guidance in Pharmacovigilance (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/amgens-antibody-improves-overall-survival-in-phase-iii-gastric-cancer-test>
+   <https://www.biospace.com/drug-development/understanding-the-fdas-ai-guidance-in-pharmacovigilance>
 
-2. **Amgen’s Antibody Improves Overall Survival in Phase III Gastric Cancer Test (#뉴스)**
+2. **Understanding the FDA’s AI Guidance in Pharmacovigilance (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/amgens-antibody-improves-overall-survival-in-phase-iii-gastric-cancer-test>
+   <https://www.biospace.com/drug-development/understanding-the-fdas-ai-guidance-in-pharmacovigilance>
 
-3. **AbbVie Plunks Down $2.1B for Capstan and Its Novel CAR T Therapies (#뉴스)**
+3. **Beckley’s Psychedelic Nasal Spray Clears Phase II Depression Study (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/abbvie-plunks-down-2-1b-for-capstan-and-its-novel-car-t-therapies>
+   <https://www.biospace.com/drug-development/beckleys-psychedelic-nasal-spray-clears-phase-ii-depression-study>
 
-4. **AbbVie Plunks Down $2.1B for Capstan and Its Novel CAR T Therapies (#뉴스)**
+4. **Argenx Makes $1.5B+ Play for UNP’s Macrocyclic Peptides Aimed at ‘Undruggable’ Targets (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/abbvie-plunks-down-2-1b-for-capstan-and-its-novel-car-t-therapies>
+   <https://www.biospace.com/business/argenx-makes-1-5b-play-for-unps-macrocyclic-peptides-aimed-at-undruggable-targets>
 
-5. **Alzheimer’s Deals Surged 780% After Leqembi, Kisunla Broke Approval Stalemate (#뉴스)**
+5. **FDA Signs Off on Neurogene’s ‘Best-Case Scenario’ Pivotal Study Design for Rett Syndrome (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/alzheimers-deals-surged-780-after-leqembi-kisunla-broke-approval-stalemate>
+   <https://www.biospace.com/drug-development/fda-signs-off-on-neurogenes-best-case-scenario-pivotal-study-design-for-rett-syndrome>
 
-6. **INmune Crashes After Missing Cognitive Target in Phase II Alzheimer’s Trial (#뉴스)**
+6. **Protagonist Enters Obesity Fray With Triple-G Pill, Eyeing 2026 Clinical Start (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/inmune-crashes-after-missing-cognitive-target-in-phase-ii-alzheimers-trial>
+   <https://www.biospace.com/drug-development/protagonist-enters-obesity-fray-with-triple-g-pill-eyeing-2026-clinical-start>
 
-7. **100+ CEOs, Biopharma Leaders Sound Alarm on ‘Catastrophic’ Health Cuts (#뉴스)**
+7. **June’s Busy Buyout Binge Bolsters M&A Stats for H1 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/100-ceos-biopharma-leaders-sound-alarm-on-catastrophic-health-cuts>
+   <https://www.biospace.com/business/junes-busy-buyout-binge-bolsters-m-a-stats-for-h1>
 
 
 ---
-*2025년 07월 01일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 07월 02일 바이오스페이스 뉴스 피드에서 생성된 리포트*
