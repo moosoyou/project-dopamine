@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 02일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 03일
 
 
 ## 주요 헤드라인
 
-1. **Understanding the FDA’s AI Guidance in Pharmacovigilance (#뉴스)**
+1. **Organon’s Endometriosis Drug Discontinued After Failing To Improve Pain (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/understanding-the-fdas-ai-guidance-in-pharmacovigilance>
+   <https://www.biospace.com/drug-development/organons-endometriosis-drug-discontinued-after-failing-to-improve-pain>
 
-2. **Understanding the FDA’s AI Guidance in Pharmacovigilance (#뉴스)**
+2. **Organon’s Endometriosis Drug Discontinued After Failing To Improve Pain (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/understanding-the-fdas-ai-guidance-in-pharmacovigilance>
+   <https://www.biospace.com/drug-development/organons-endometriosis-drug-discontinued-after-failing-to-improve-pain>
 
-3. **Beckley’s Psychedelic Nasal Spray Clears Phase II Depression Study (#뉴스)**
+3. **Court Suspends Mass Layoffs at HHS, Rules Staff Cuts Likely Unlawful (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/beckleys-psychedelic-nasal-spray-clears-phase-ii-depression-study>
+   <https://www.biospace.com/policy/court-suspends-mass-layoffs-at-hhs-rules-staff-cuts-likely-unlawful>
 
-4. **Argenx Makes $1.5B+ Play for UNP’s Macrocyclic Peptides Aimed at ‘Undruggable’ Targets (#뉴스)**
+4. **Court Suspends Mass Layoffs at HHS, Rules Staff Cuts Likely Unlawful (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/argenx-makes-1-5b-play-for-unps-macrocyclic-peptides-aimed-at-undruggable-targets>
+   <https://www.biospace.com/policy/court-suspends-mass-layoffs-at-hhs-rules-staff-cuts-likely-unlawful>
 
-5. **FDA Signs Off on Neurogene’s ‘Best-Case Scenario’ Pivotal Study Design for Rett Syndrome (#뉴스)**
+5. **RFK Jr. Eyes Changes to Vaccine Injury Compensation Program (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/fda-signs-off-on-neurogenes-best-case-scenario-pivotal-study-design-for-rett-syndrome>
+   <https://www.biospace.com/policy/rfk-jr-eyes-changes-to-vaccine-injury-compensation-program>
 
-6. **Protagonist Enters Obesity Fray With Triple-G Pill, Eyeing 2026 Clinical Start (#뉴스)**
+6. **CAR T Expands, M&A Ticks Up, Two Psychedelics Read Out, and the Supreme Court Rules on PrEP (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/protagonist-enters-obesity-fray-with-triple-g-pill-eyeing-2026-clinical-start>
+   <https://www.biospace.com/business/car-t-expands-m-a-ticks-up-two-psychedelics-read-out-and-the-supreme-court-rules-on-prep>
 
-7. **June’s Busy Buyout Binge Bolsters M&A Stats for H1 (#뉴스)**
+7. **Gilead Eyes HIV Market Domination With Twice-Yearly Yeztugo as GSK Trails (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/junes-busy-buyout-binge-bolsters-m-a-stats-for-h1>
+   <https://www.biospace.com/business/gilead-eyes-hiv-market-domination-with-twice-yearly-yeztugo-as-gsk-trails>
 
 
 ---
-*2025년 07월 02일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 07월 03일 바이오스페이스 뉴스 피드에서 생성된 리포트*
