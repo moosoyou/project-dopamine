@@ -1,31 +1,31 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 03일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 04일
 
 
 ## 주요 헤드라인
 
-1. **Organon’s Endometriosis Drug Discontinued After Failing To Improve Pain (#뉴스)**
+1. **Sage’s Search for Lifeline Ran Into Defiant Biogen CEO (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/organons-endometriosis-drug-discontinued-after-failing-to-improve-pain>
+   <https://www.biospace.com/business/sages-search-for-lifeline-ran-into-defiant-biogen-ceo>
 
-2. **Organon’s Endometriosis Drug Discontinued After Failing To Improve Pain (#뉴스)**
+2. **Sage’s Search for Lifeline Ran Into Defiant Biogen CEO (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/organons-endometriosis-drug-discontinued-after-failing-to-improve-pain>
+   <https://www.biospace.com/business/sages-search-for-lifeline-ran-into-defiant-biogen-ceo>
 
-3. **Court Suspends Mass Layoffs at HHS, Rules Staff Cuts Likely Unlawful (#뉴스)**
+3. **Late-Stage Stumble for Cosentyx Sets Novartis Back in Autoimmune Condition (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/court-suspends-mass-layoffs-at-hhs-rules-staff-cuts-likely-unlawful>
+   <https://www.biospace.com/drug-development/late-stage-stumble-for-cosentyx-sets-novartis-back-in-autoimmune-condition>
 
-4. **Court Suspends Mass Layoffs at HHS, Rules Staff Cuts Likely Unlawful (#뉴스)**
+4. **Late-Stage Stumble for Cosentyx Sets Novartis Back in Autoimmune Condition (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/court-suspends-mass-layoffs-at-hhs-rules-staff-cuts-likely-unlawful>
+   <https://www.biospace.com/drug-development/late-stage-stumble-for-cosentyx-sets-novartis-back-in-autoimmune-condition>
 
-5. **RFK Jr. Eyes Changes to Vaccine Injury Compensation Program (#뉴스)**
+5. **Kennedy Follows RSV Recommendations of ACIP Members He Fired (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/rfk-jr-eyes-changes-to-vaccine-injury-compensation-program>
+   <https://www.biospace.com/policy/kennedy-follows-rsv-recommendations-of-acip-members-he-fired>
 
-6. **CAR T Expands, M&A Ticks Up, Two Psychedelics Read Out, and the Supreme Court Rules on PrEP (#뉴스)**
+6. **Biotech Leaders, Investors Ask FDA to Maintain Access to Mifepristone (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/car-t-expands-m-a-ticks-up-two-psychedelics-read-out-and-the-supreme-court-rules-on-prep>
+   <https://www.biospace.com/policy/biotech-leaders-investors-ask-fda-to-maintain-access-to-mifepristone>
 
 7. **Gilead Eyes HIV Market Domination With Twice-Yearly Yeztugo as GSK Trails (#뉴스)**
    - Article content not available
@@ -33,4 +33,4 @@
 
 
 ---
-*2025년 07월 03일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 07월 04일 바이오스페이스 뉴스 피드에서 생성된 리포트*
