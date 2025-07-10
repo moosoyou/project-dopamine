@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 10일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 11일
 
 
 ## 주요 헤드라인
 
-1. **AstraZeneca Gains More Gene Therapy AAVs in JCR Deal Worth up to $825M (#뉴스)**
+1. **FDA Publishes Cache of Complete Response Letters in Bid for ‘Radical Transparency’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/astrazeneca-gains-more-gene-therapy-aavs-in-jcr-deal-worth-up-to-825m>
+   <https://www.biospace.com/policy/fda-publishes-cache-of-complete-response-letters-in-bid-for-radical-transparency>
 
-2. **AstraZeneca Gains More Gene Therapy AAVs in JCR Deal Worth up to $825M (#뉴스)**
+2. **FDA Publishes Cache of Complete Response Letters in Bid for ‘Radical Transparency’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/astrazeneca-gains-more-gene-therapy-aavs-in-jcr-deal-worth-up-to-825m>
+   <https://www.biospace.com/policy/fda-publishes-cache-of-complete-response-letters-in-bid-for-radical-transparency>
 
-3. **Supreme Court Suspends Injunction Preventing RFK Jr.'s HHS Cuts (#뉴스)**
+3. **The mRNA Revolution You Haven’t Heard About (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/supreme-court-suspends-injunction-preventing-rfk-jr-s-hhs-cuts>
+   <https://www.biospace.com/drug-development/the-mrna-revolution-you-havent-heard-about-from-cystic-fibrosis-to-personalized-cancer-vaccines>
 
-4. **Trump Threatens 200% Pharma Tariffs—But Gives At Least 1-Year Grace Period (#뉴스)**
+4. **The mRNA Revolution You Haven’t Heard About (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/trump-threatens-200-pharma-tariffs-but-gives-at-least-1-year-grace-period>
+   <https://www.biospace.com/drug-development/the-mrna-revolution-you-havent-heard-about-from-cystic-fibrosis-to-personalized-cancer-vaccines>
 
-5. **Lilly Gets FDA Label Update for Alzheimer’s Drug To Mitigate Safety Concerns (#뉴스)**
+5. **Ultragenyx, Mereo Plummet After Late-Stage Trial for Rare Genetic Disorder Appears To Fall Short (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/lilly-gets-fda-label-update-for-alzheimers-drug-to-mitigate-safety-concerns>
+   <https://www.biospace.com/drug-development/ultragenyx-mereo-plummet-after-late-stage-trial-for-rare-genetic-disorder-appears-to-fall-short>
 
-6. **Second Half Milestones, KalVista’s Surprise Approval, Another RFK Jr. Lawsuit, More (#뉴스)**
+6. **Kennedy Postpones Preventive Care Panel Meeting After ‘Double-Edged Sword’ Supreme Court Win (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/second-half-milestones-kalvistas-surprise-approval-another-rfk-jr-lawsuit-more>
+   <https://www.biospace.com/policy/kennedy-postpones-preventive-care-panel-meeting-after-double-edged-sword-supreme-court-win>
 
-7. **Six Startups Changing The Way We Age (#뉴스)**
+7. **Gilead to Provide New HIV Drug to Lower-Income Countries Through Novel Philanthropic Partnership (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/six-startups-changing-the-way-we-age>
+   <https://www.biospace.com/business/gilead-to-provide-new-hiv-drug-to-lower-income-countries-through-novel-philanthropic-partnership>
 
 
 ---
-*2025년 07월 10일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 07월 11일 바이오스페이스 뉴스 피드에서 생성된 리포트*
