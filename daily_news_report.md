@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 14일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 15일
 
 
 ## 주요 헤드라인
 
-1. **FDA Rejections (#뉴스)**
+1. **The Gaps Between the Administration’s Pro-Innovation Words and Policy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fdas-rejections-we-read-200-crls-so-you-dont-have-to>
+   <https://www.biospace.com/drug-development/the-gaps-between-administrations-pro-innovation-words-and-policy>
 
-2. **FDA Publishes Cache of Complete Response Letters in Bid for ‘Radical Transparency’ (#뉴스)**
+2. **The Gaps Between the Administration’s Pro-Innovation Words and Policy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fda-publishes-cache-of-complete-response-letters-in-bid-for-radical-transparency>
+   <https://www.biospace.com/drug-development/the-gaps-between-administrations-pro-innovation-words-and-policy>
 
-3. **The mRNA Revolution You Haven’t Heard About (#뉴스)**
+3. **AstraZeneca’s Baxdrostat Pushes Blood Pressure Lower in Phase III Trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/the-mrna-revolution-you-havent-heard-about-from-cystic-fibrosis-to-personalized-cancer-vaccines>
+   <https://www.biospace.com/drug-development/astrazenecas-baxdrostat-pushes-blood-pressure-lower-in-phase-iii-trial>
 
-4. **Six Startups Changing The Way We Age (#뉴스)**
+4. **AstraZeneca’s Baxdrostat Pushes Blood Pressure Lower in Phase III Trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/six-startups-changing-the-way-we-age>
+   <https://www.biospace.com/drug-development/astrazenecas-baxdrostat-pushes-blood-pressure-lower-in-phase-iii-trial>
 
-5. **Six Startups Changing The Way We Age (#뉴스)**
+5. **Takeda Establishes Lead in Narcolepsy Race With Back-to-Back Phase III Wins (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/six-startups-changing-the-way-we-age>
+   <https://www.biospace.com/drug-development/takeda-establishes-lead-in-narcolepsy-race-with-back-to-back-phase-iii-wins>
 
-6. **Novo Nordisk’s Termination of Hims & Hers Deal Reignites Compounding Row (#뉴스)**
+6. **After Three Strikes, Relmada Abandons Depression Drug Esmethadone (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-nordisks-termination-of-hims-hers-deal-reignites-compounding-row>
+   <https://www.biospace.com/drug-development/after-three-strikes-relmada-abandons-depression-drug-esmethadone>
 
-7. **Novo Nordisk’s Termination of Hims & Hers Deal Reignites Compounding Row (#뉴스)**
+7. **Obesity in Focus (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-nordisks-termination-of-hims-hers-deal-reignites-compounding-row>
+   <https://www.biospace.com/drug-development/obesity-in-focus-ada-reveals-r-d-priorities-for-blockbusters-in-waiting>
 
 
 ---
-*2025년 07월 14일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 07월 15일 바이오스페이스 뉴스 피드에서 생성된 리포트*
