@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 16일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 17일
 
 
 ## 주요 헤드라인
 
-1. **HHS Begins Formally Laying Off Employees (#뉴스)**
+1. **Sarepta Tags DMD Gene Therapy Elevidys With Black Box Warning, Axes 500 Staff (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/hhs-begins-formally-laying-off-employees>
+   <https://www.biospace.com/business/sarepta-tags-dmd-gene-therapy-elevidys-with-black-box-warning-axes-500-staff>
 
-2. **HHS Begins Formally Laying Off Employees (#뉴스)**
+2. **Sarepta Tags DMD Gene Therapy Elevidys With Black Box Warning, Axes 500 Staff (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/hhs-begins-formally-laying-off-employees>
+   <https://www.biospace.com/business/sarepta-tags-dmd-gene-therapy-elevidys-with-black-box-warning-axes-500-staff>
 
-3. **Gilead, GSK/ViiV, Merck Present New HIV PrEP Frontiers at IAS25 (#뉴스)**
+3. **Webinar (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/gilead-gsk-viiv-merck-present-new-hiv-prep-frontiers-at-ias25>
+   <https://www.biospace.com/drug-development/webinar-pharma-industry-in-crisis>
 
-4. **Gilead, GSK/ViiV, Merck Present New HIV PrEP Frontiers at IAS25 (#뉴스)**
+4. **Webinar (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/gilead-gsk-viiv-merck-present-new-hiv-prep-frontiers-at-ias25>
+   <https://www.biospace.com/drug-development/webinar-pharma-industry-in-crisis>
 
-5. **FDA Commissioner Marty Makary Proposes Lowering Industry User Fees (#뉴스)**
+5. **AstraZeneca’s Amyloidosis Asset Stumbles in Late-Stage Trials (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fda-commissioner-marty-makary-proposes-lowering-industry-user-fees>
+   <https://www.biospace.com/drug-development/astrazenecas-amyloidosis-asset-stumbles-in-late-stage-trials>
 
-6. **Hengrui’s Dual GLP-1/GIP Elicits 17.7% Weight Loss in Phase III (#뉴스)**
+6. **AstraZeneca’s Amyloidosis Asset Stumbles in Late-Stage Trials (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/hengruis-dual-glp-1-gip-elicits-17-7-weight-loss-in-phase-iii>
+   <https://www.biospace.com/drug-development/astrazenecas-amyloidosis-asset-stumbles-in-late-stage-trials>
 
-7. **Acadia Debuts New Team, Pipeline With ‘Biotech Powerhouse’ Ambitions (#뉴스)**
+7. **J&J Targets $50B Oncology Sales By 2030 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/acadia-debuts-new-team-pipeline-with-biotech-powerhouse-ambitions>
+   <https://www.biospace.com/business/j-j-raises-2025-outlook-as-oncology-and-neuroscience-drive-q2-growth>
 
 
 ---
-*2025년 07월 16일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 07월 17일 바이오스페이스 뉴스 피드에서 생성된 리포트*
