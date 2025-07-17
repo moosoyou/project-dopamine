@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 17일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 18일
 
 
 ## 주요 헤드라인
 
-1. **Sarepta Tags DMD Gene Therapy Elevidys With Black Box Warning, Axes 500 Staff (#뉴스)**
+1. **Sarepta Up 18% After Business Overhaul as Analysts Cautiously Optimistic (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sarepta-tags-dmd-gene-therapy-elevidys-with-black-box-warning-axes-500-staff>
+   <https://www.biospace.com/business/sarepta-up-18-after-business-overhaul-as-analysts-cautiously-optimistic>
 
-2. **Sarepta Tags DMD Gene Therapy Elevidys With Black Box Warning, Axes 500 Staff (#뉴스)**
+2. **Sarepta Up 18% After Business Overhaul as Analysts Cautiously Optimistic (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sarepta-tags-dmd-gene-therapy-elevidys-with-black-box-warning-axes-500-staff>
+   <https://www.biospace.com/business/sarepta-up-18-after-business-overhaul-as-analysts-cautiously-optimistic>
 
-3. **Webinar (#뉴스)**
+3. **AI Is Taking Over Drug Safety Monitoring–But There’s One Thing It Can’t Replace (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/webinar-pharma-industry-in-crisis>
+   <https://www.biospace.com/drug-development/ai-is-taking-over-drug-safety-monitoring-but-theres-one-thing-it-cant-replace>
 
-4. **Webinar (#뉴스)**
+4. **Novartis ‘Moving as Fast as Possible’ to Fully Manufacture Key Drugs in US as Tariffs Near (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/webinar-pharma-industry-in-crisis>
+   <https://www.biospace.com/business/novartis-moving-as-fast-as-possible-to-fully-manufacture-key-drugs-in-us-as-tariffs-near>
 
-5. **AstraZeneca’s Amyloidosis Asset Stumbles in Late-Stage Trials (#뉴스)**
+5. **Patients Fight for Access to BrainStorm’s ALS Drug After Expanded Access Data ‘Defy Logic’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/astrazenecas-amyloidosis-asset-stumbles-in-late-stage-trials>
+   <https://www.biospace.com/policy/patients-fight-for-access-to-brainstorms-als-drug-after-expanded-access-data-defy-logic>
 
-6. **AstraZeneca’s Amyloidosis Asset Stumbles in Late-Stage Trials (#뉴스)**
+6. **Patients Fight for Access to BrainStorm’s ALS Drug After Expanded Access Data ‘Defy Logic’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/astrazenecas-amyloidosis-asset-stumbles-in-late-stage-trials>
+   <https://www.biospace.com/policy/patients-fight-for-access-to-brainstorms-als-drug-after-expanded-access-data-defy-logic>
 
-7. **J&J Targets $50B Oncology Sales By 2030 (#뉴스)**
+7. **Audrey Greenberg (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/j-j-raises-2025-outlook-as-oncology-and-neuroscience-drive-q2-growth>
+   <https://www.biospace.com/business/audrey-greenberg-out-to-change-the-world-from-housing-to-healthcare>
 
 
 ---
-*2025년 07월 17일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 07월 18일 바이오스페이스 뉴스 피드에서 생성된 리포트*
