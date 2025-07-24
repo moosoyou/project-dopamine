@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 24일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 25일
 
 
 ## 주요 헤드라인
 
-1. **HHS To Remove Little-Used Thimerosal From All Influenza Vaccines (#뉴스)**
+1. **AstraZeneca’s Claims PIII Win With Nanobody Treatment for Myasthenia Gravis (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/hhs-to-remove-little-used-thimerosal-from-all-influenza-vaccines>
+   <https://www.biospace.com/drug-development/astrazenecas-claims-piii-win-with-nanobody-treatment-for-myasthenia-gravis>
 
-2. **HHS To Remove Little-Used Thimerosal From All Influenza Vaccines (#뉴스)**
+2. **AstraZeneca’s Claims PIII Win With Nanobody Treatment for Myasthenia Gravis (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/hhs-to-remove-little-used-thimerosal-from-all-influenza-vaccines>
+   <https://www.biospace.com/drug-development/astrazenecas-claims-piii-win-with-nanobody-treatment-for-myasthenia-gravis>
 
-3. **Dispatch Bio Launches With $216M To Develop Universal CAR T Therapy for Solid Tumors (#뉴스)**
+3. **Q2 2025 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/dispatch-bio-launches-with-216m-to-develop-universal-car-t-therapy-for-solid-tumors>
+   <https://www.biospace.com/business/q2-2025-biotechs-to-watch-for-this-earnings-season>
 
-4. **Following Sarepta’s Lead, Roche Suspends Elevidys Shipments to Some Ex-US Countries (#뉴스)**
+4. **Genentech Downsizes by 87 as Priorities Shift (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/following-sareptas-lead-roche-suspends-elevidys-shipments-to-some-ex-us-countries>
+   <https://www.biospace.com/business/genentech-downsizes-by-87-as-priorities-shift>
 
-5. **GLP-1s Could Protect Against Neurodegeneration, Study Finds (#뉴스)**
+5. **Zhen Li (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/glp-1s-could-protect-against-neurodegeneration-study-finds>
+   <https://www.biospace.com/business/zhen-li-a-reluctant-engineer-shaping-the-world-of-sirna>
 
 6. **Zhen Li (#뉴스)**
    - Article content not available
    <https://www.biospace.com/business/zhen-li-a-reluctant-engineer-shaping-the-world-of-sirna>
 
-7. **Zhen Li (#뉴스)**
+7. **Advice From Women in Biopharma (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/zhen-li-a-reluctant-engineer-shaping-the-world-of-sirna>
+   <https://www.biospace.com/business/advice-from-women-in-biopharma-resilience-is-a-critical-feature>
 
 
 ---
-*2025년 07월 24일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 07월 25일 바이오스페이스 뉴스 피드에서 생성된 리포트*
