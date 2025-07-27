@@ -1,4 +1,4 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 27일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 28일
 
 
 ## 주요 헤드라인
@@ -15,7 +15,7 @@
    - Article content not available
    <https://www.biospace.com/business/rocket-trims-headcount-and-pipeline-focus-amid-clinical-regulatory-turbulence>
 
-4. **AstraZeneca’s Claims PIII Win With Nanobody Treatment for Myasthenia Gravis (#뉴스)**
+4. **AstraZeneca Claims PIII Win With Nanobody Treatment for Myasthenia Gravis (#뉴스)**
    - Article content not available
    <https://www.biospace.com/drug-development/astrazenecas-claims-piii-win-with-nanobody-treatment-for-myasthenia-gravis>
 
@@ -33,4 +33,4 @@
 
 
 ---
-*2025년 07월 27일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 07월 28일 바이오스페이스 뉴스 피드에서 생성된 리포트*
