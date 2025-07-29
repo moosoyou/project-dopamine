@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 29일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 07월 30일
 
 
 ## 주요 헤드라인
 
-1. **Roche’s Next-Gen Alzheimer’s Antibody Clears or Reduces Amyloid Plaques in Seven Months (#뉴스)**
+1. **AstraZeneca CEO Says World ‘Needs to Share’ in Global Pharma R&D (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/roches-next-gen-alzheimers-antibody-clears-or-reduces-amyloid-plaques-in-seven-months>
+   <https://www.biospace.com/business/astrazeneca-ceo-says-world-needs-to-share-in-global-pharma-r-d>
 
-2. **Roche’s Next-Gen Alzheimer’s Antibody Clears or Reduces Amyloid Plaques in Seven Months (#뉴스)**
+2. **AstraZeneca CEO Says World ‘Needs to Share’ in Global Pharma R&D (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/roches-next-gen-alzheimers-antibody-clears-or-reduces-amyloid-plaques-in-seven-months>
+   <https://www.biospace.com/business/astrazeneca-ceo-says-world-needs-to-share-in-global-pharma-r-d>
 
-3. **Boehringer Links with Irish Drug Delivery Start-Up Re-Vana in $1B+ Eye Deal (#뉴스)**
+3. **Merck Cuts $3B to Support Aggressive Launch Schedule, Late-Stage R&D (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/boehringer-links-with-irish-drug-delivery-start-up-re-vana-in-1b-eye-deal>
+   <https://www.biospace.com/business/merck-cuts-3b-to-support-aggressive-launch-schedule-late-stage-r-d>
 
-4. **Boehringer Links with Irish Drug Delivery Start-Up Re-Vana in $1B+ Eye Deal (#뉴스)**
+4. **Merck Cuts $3B to Support Aggressive Launch Schedule, Late-Stage R&D (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/boehringer-links-with-irish-drug-delivery-start-up-re-vana-in-1b-eye-deal>
+   <https://www.biospace.com/business/merck-cuts-3b-to-support-aggressive-launch-schedule-late-stage-r-d>
 
-5. **GSK Bets Up To $12B for Multi-Program Cancer Pact With Hengrui (#뉴스)**
+5. **Novo Nordisk Names New Leader, Cuts 2025 Sales Guidance By 5% (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/gsk-bets-up-to-12b-for-multi-program-cancer-pact-with-hengrui>
+   <https://www.biospace.com/business/novo-nordisk-names-new-leader-cuts-2025-sales-guidance>
 
-6. **American Medical Association Urges RFK Jr. to Maintain Preventive Task Force (#뉴스)**
+6. **Novo Nordisk Names New Leader, Cuts 2025 Sales Guidance By 5% (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/american-medical-association-urges-rfk-jr-to-maintain-preventive-task-force>
+   <https://www.biospace.com/business/novo-nordisk-names-new-leader-cuts-2025-sales-guidance>
 
-7. **Sarepta Denies Latest Patient Death is Elevidys-Linked as FDA Launches Probe (#뉴스)**
+7. **Senate Democrats Investigating HHS Secretary Kennedy’s ACIP Firing (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sarepta-denies-latest-patient-death-is-elevidys-linked-as-fda-launches-probe>
+   <https://www.biospace.com/policy/senate-democrats-investigating-hhs-secretary-kennedys-acip-firing>
 
 
 ---
-*2025년 07월 29일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 07월 30일 바이오스페이스 뉴스 피드에서 생성된 리포트*
