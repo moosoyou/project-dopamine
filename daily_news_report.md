@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 08월 01일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 08월 02일
 
 
 ## 주요 헤드라인
 
-1. **Trump Asks Big Pharmas to Move on Most Favored Nation Drug Pricing—Or Else (#뉴스)**
+1. **Regulatory Roadblocks Blemish Regeneron’s Otherwise Strong Q2 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/trump-asks-big-pharmas-to-move-on-most-favored-nation-drug-pricing-or-else>
+   <https://www.biospace.com/business/regulatory-roadblocks-blemish-regenerons-otherwise-strong-q2>
 
-2. **Trump Asks Big Pharmas to Move on Most Favored Nation Drug Pricing—Or Else (#뉴스)**
+2. **Regulatory Roadblocks Blemish Regeneron’s Otherwise Strong Q2 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/trump-asks-big-pharmas-to-move-on-most-favored-nation-drug-pricing-or-else>
+   <https://www.biospace.com/business/regulatory-roadblocks-blemish-regenerons-otherwise-strong-q2>
 
-3. **Future of BMS’ Cobenfy Still in Limbo After Phase III Fail (#뉴스)**
+3. **Moderna Wins UK Patent Battle Against Pfizer and BioNTech (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/future-of-bms-cobenfy-still-in-limbo-after-phase-iii-fail>
+   <https://www.biospace.com/business/moderna-wins-uk-patent-battle-against-pfizer-and-biontech>
 
-4. **Future of BMS’ Cobenfy Still in Limbo After Phase III Fail (#뉴스)**
+4. **Moderna Wins UK Patent Battle Against Pfizer and BioNTech (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/future-of-bms-cobenfy-still-in-limbo-after-phase-iii-fail>
+   <https://www.biospace.com/business/moderna-wins-uk-patent-battle-against-pfizer-and-biontech>
 
-5. **Sanofi Confident Tariffs Will Have Limited Impact on Finances in 2025 (#뉴스)**
+5. **Moderna’s Bancel Nay on M&A, Yay on R&D Partnerships (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sanofi-confident-tariffs-will-have-limited-impact-on-finances-in-2025>
+   <https://www.biospace.com/business/modernas-bancel-nay-on-m-a-yay-on-r-d-partnerships>
 
-6. **AbbVie Pats Own Back as Skyrizi and Rinvoq Rake in Billions (#뉴스)**
+6. **After Prasad’s Ouster, Makary Looks for Better Drug, Biologic Alignment at FDA (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/abbvie-pats-own-back-as-skyrizi-and-rinvoq-rake-in-billions>
+   <https://www.biospace.com/policy/after-prasads-ouster-makary-looks-for-better-drug-biologic-alignment-at-fda>
 
-7. **Biogen’s Leqembi Push Getting Easier as CEO Eyes Early-Stage Pipeline Restock (#뉴스)**
+7. **‘Very Impressive’ Amvuttra ATTR-CM Sales Send Alnylam Soaring (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biogens-leqembi-push-getting-easier-as-ceo-eyes-early-stage-pipeline-restock>
+   <https://www.biospace.com/business/very-impressive-amvuttra-attr-cm-sales-send-alnylam-soaring>
 
 
 ---
-*2025년 08월 01일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 08월 02일 바이오스페이스 뉴스 피드에서 생성된 리포트*
