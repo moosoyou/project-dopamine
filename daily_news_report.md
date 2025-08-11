@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 08월 11일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 08월 12일
 
 
 ## 주요 헤드라인
 
-1. **FDA Launches New PreCheck Program to Lower Regulatory Barriers to Pharma Manufacturing (#뉴스)**
+1. **140-Year-Old Boehringer Ingelheim Dives Into Cancer With NSCLC Nod (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fda-launches-new-precheck-program-to-lower-regulatory-barriers-to-pharma-manufacturing>
+   <https://www.biospace.com/drug-development/140-year-old-boehringer-ingelheim-dives-into-cancer-with-nsclc-nod>
 
-2. **FDA Launches New PreCheck Program to Lower Regulatory Barriers to Pharma Manufacturing (#뉴스)**
+2. **140-Year-Old Boehringer Ingelheim Dives Into Cancer With NSCLC Nod (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fda-launches-new-precheck-program-to-lower-regulatory-barriers-to-pharma-manufacturing>
+   <https://www.biospace.com/drug-development/140-year-old-boehringer-ingelheim-dives-into-cancer-with-nsclc-nod>
 
-3. **Dewpoint Slashes Headcount by 70% as Cash Runway Runs Out (#뉴스)**
+3. **Head MAHA Implementor Fired After RFK Jr.’s mRNA Purge (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/dewpoint-slashes-headcount-by-70-as-cash-runway-runs-out>
+   <https://www.biospace.com/policy/head-maha-implementor-fired-after-rfk-jr-s-mrna-purge>
 
-4. **Gilead Confident in PrEP Franchise Even Amid Preventive Task Force Uncertainties (#뉴스)**
+4. **FDA Restricts Patient Pool for Bluebird’s Skysona Amid Safety Concerns (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/gilead-confident-in-prep-franchise-even-amid-preventive-task-force-uncertainties>
+   <https://www.biospace.com/policy/fda-restricts-patient-pool-for-bluebirds-skysona-amid-safety-concerns>
 
-5. **Novartis Continues Hunt for New Assets With Rumored Takeover of RNA Specialist Avidity (#뉴스)**
+5. **The Future of Cell and Gene Therapy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novartis-continues-hunt-for-new-assets-with-rumored-takeover-of-rna-specialist-avidity>
+   <https://www.biospace.com/drug-development/the-future-of-cell-and-gene-therapy-navigating-innovation-regulation-and-manufacturing-challenges>
 
-6. **Lilly Faces Triple Threat of Drug Pricing Pressure as CEO Emphasizes Value (#뉴스)**
+6. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-faces-triple-threat-of-drug-pricing-pressure-as-ceo-emphasizes-value>
+   <https://www.biospace.com/drug-development/opinion-antagonism-to-mrna-technology-is-killing-our-best-shot-at-a-cure-for-cancer>
 
-7. **Big Pharma Provides Lifeline to Chinese Companies Struggling To Survive (#뉴스)**
+7. **Sarepta’s Woes Put the Stalwart AAV Under a Harsh Light (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/big-pharma-provides-lifeline-to-chinese-companies-struggling-to-survive>
+   <https://www.biospace.com/drug-development/sareptas-woes-put-the-stalwart-aav-under-a-harsh-light>
 
 
 ---
-*2025년 08월 11일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 08월 12일 바이오스페이스 뉴스 피드에서 생성된 리포트*
