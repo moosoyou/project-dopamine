@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 08월 18일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 08월 19일
 
 
 ## 주요 헤드라인
 
-1. **Kennedy Revives Childhood Vaccines Safety Group, Led by NIH’s Bhattacharya (#뉴스)**
+1. **Leaked MAHA Strategy Emphasizes Vaccine Overhaul, Streamlined Access to Novel Therapies (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/kennedy-revives-childhood-vaccines-safety-group-led-by-nihs-bhattacharya>
+   <https://www.biospace.com/policy/leaked-maha-strategy-emphasizes-vaccine-overhaul-streamlined-access-to-novel-therapies>
 
-2. **After Scrapping mRNA Contracts, Kennedy Says mRNA Vaccines ‘May Be Very Effective’ for Cancer (#뉴스)**
+2. **Leaked MAHA Strategy Emphasizes Vaccine Overhaul, Streamlined Access to Novel Therapies (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/after-scrapping-mrna-contracts-kennedy-says-mrna-vaccines-may-be-very-effective-for-cancer>
+   <https://www.biospace.com/policy/leaked-maha-strategy-emphasizes-vaccine-overhaul-streamlined-access-to-novel-therapies>
 
-3. **Lilly Aims To Raise Europe Drug Prices in Response to Trumps’ Most Favored Nation Policy (#뉴스)**
+3. **Merck KGaA Drops up to $2B in Skyhawk Collab for RNA-Targeting Tech (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-aims-to-raise-europe-drug-prices-in-response-to-trumps-most-favored-nation-policy>
+   <https://www.biospace.com/business/merck-kgaa-drops-up-to-2b-in-skyhawk-collab-for-rna-targeting-tech>
 
-4. **Eli Lilly Keeps Obesity Pipeline Fresh With $1.3B Superluminal Partnership (#뉴스)**
+4. **Merck KGaA Drops up to $2B in Skyhawk Collab for RNA-Targeting Tech (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/eli-lilly-keeps-obesity-pipeline-fresh-with-1-3b-superluminal-partnership>
+   <https://www.biospace.com/business/merck-kgaa-drops-up-to-2b-in-skyhawk-collab-for-rna-targeting-tech>
 
-5. **RFK Jr. Creates More Vaccine Misinformation With mRNA Cancellations (#뉴스)**
+5. **Novo Teams Up With GoodRx for Lower-Price GLP-1s, Giving DTC Another Shot (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/rfk-jr-creates-more-vaccine-misinformation-with-mrna-cancellations>
+   <https://www.biospace.com/business/novo-teams-up-with-goodrx-for-lower-price-glp-1s-giving-dtc-another-shot>
 
-6. **RFK Jr. Creates More Vaccine Misinformation With mRNA Cancellations (#뉴스)**
+6. **Novo Teams Up With GoodRx for Lower-Price GLP-1s, Giving DTC Another Shot (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/rfk-jr-creates-more-vaccine-misinformation-with-mrna-cancellations>
+   <https://www.biospace.com/business/novo-teams-up-with-goodrx-for-lower-price-glp-1s-giving-dtc-another-shot>
 
-7. **Opinion (#뉴스)**
+7. **Pfizer’s $5.4B GBT Bet Disappoints Again as Sickle Cell Therapy Fails in Phase III (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/opinion-the-high-stakes-tradeoffs-of-a-most-favored-nation-drug-policy>
+   <https://www.biospace.com/drug-development/pfizers-5-4b-gbt-bet-disappoints-again-as-sickle-cell-therapy-fails-in-phase-iii>
 
 
 ---
-*2025년 08월 18일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 08월 19일 바이오스페이스 뉴스 피드에서 생성된 리포트*
