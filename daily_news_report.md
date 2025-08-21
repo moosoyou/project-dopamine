@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 08월 21일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 08월 22일
 
 
 ## 주요 헤드라인
 
-1. **CSL Overhauls Business With Vaccine Spinout, 15% Layoffs (#뉴스)**
+1. **Washington’s Life Sciences Scene Moves Beyond Research Roots (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/csl-overhauls-business-with-vaccine-spinout-15-layoffs>
+   <https://www.biospace.com/business/washingtons-life-sciences-scene-moves-beyond-research-roots>
 
-2. **Opinion (#뉴스)**
+2. **Washington’s Life Sciences Scene Moves Beyond Research Roots (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/washingtons-life-sciences-scene-moves-beyond-research-roots>
+
+3. **Why AI Won’t Save the 90% of Clinical Trials That Still Fail (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/policy/why-ai-wont-save-the-90-of-clinical-trials-that-still-fail>
+
+4. **Why AI Won’t Save the 90% of Clinical Trials That Still Fail (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/policy/why-ai-wont-save-the-90-of-clinical-trials-that-still-fail>
+
+5. **J&J Adds $2B to US Manufacturing Commitment Amid Trump’s Protracted Tariff Threats (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/j-j-adds-2b-to-us-manufacturing-commitment-amid-trumps-protracted-tariff-threats>
+
+6. **Hundreds of HHS Staffers Accuse RFK Jr. of ‘Sowing Public Mistrust’ Against CDC After Shooting at HQ (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/policy/hundreds-of-hhs-staffers-accuse-rfk-jr-of-sowing-public-mistrust-against-cdc-after-shooting-at-q>
+
+7. **Opinion (#뉴스)**
    - Article content not available
    <https://www.biospace.com/policy/opinion-look-to-competition-not-mandates-to-lower-drug-prices>
 
-3. **American Academy of Pediatrics Contradicts CDC, Recommends COVID-19 Shot for Kids (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/policy/american-academy-of-pediatrics-contradicts-cdc-recommends-covid-19-shot-for-kids>
-
-4. **MAHA Report Emphasizes Vaccines, Safety Vexes Viking’s Obesity Win, Novo Gains Momentum (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/maha-report-emphasizes-vaccines-safety-vexes-vikings-obesity-win-novo-gains-momentum>
-
-5. **Tariffs and MFN Policy Power a Broad, Confusing Pharma War (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/policy/tariffs-and-mfn-policy-power-a-broad-confusing-pharma-war>
-
-6. **Tariffs and MFN Policy Power a Broad, Confusing Pharma War (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/policy/tariffs-and-mfn-policy-power-a-broad-confusing-pharma-war>
-
-7. **With Prasad Back at FDA, Capricor To Fight DMD Cardiomyopathy Rejection (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/drug-development/with-prasad-back-at-fda-capricor-to-fight-crl-for-dmd-cardiomyopathy>
-
 
 ---
-*2025년 08월 21일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 08월 22일 바이오스페이스 뉴스 피드에서 생성된 리포트*
