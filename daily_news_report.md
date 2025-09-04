@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 04일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 05일
 
 
 ## 주요 헤드라인
 
-1. **Pfizer CEO Responds to Trump’s COVID Transparency Call Touting Vaccine Success (#뉴스)**
+1. **FDA Drops Another Cache of Heavily Redacted Rejection Letters, Promises Future ‘Real-Time’ Access (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/pfizer-ceo-responds-to-trumps-covid-transparency-call-touting-vaccine-success>
+   <https://www.biospace.com/policy/fda-drops-another-cache-of-heavily-redacted-rejection-letters-promises-future-real-time-access>
 
-2. **Pfizer CEO Responds to Trump’s COVID Transparency Call Touting Vaccine Success (#뉴스)**
+2. **FDA Drops Another Cache of Heavily Redacted Rejection Letters, Promises Future ‘Real-Time’ Access (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/pfizer-ceo-responds-to-trumps-covid-transparency-call-touting-vaccine-success>
+   <https://www.biospace.com/policy/fda-drops-another-cache-of-heavily-redacted-rejection-letters-promises-future-real-time-access>
 
-3. **RFK Jr. Blames US COVID Deaths on Chronic Disease, Announcing CDC Reorganization (#뉴스)**
+3. **ACIP Revamp Continues as Kennedy Eyes Seven New CDC Vaccine Advisors (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/rfk-jr-blames-us-covid-deaths-on-chronic-disease-announcing-cdc-reorganization>
+   <https://www.biospace.com/policy/acip-revamp-continues-as-kennedy-eyes-seven-new-cdc-vaccine-advisors>
 
-4. **RFK Jr. Blames US COVID Deaths on Chronic Disease, Announcing CDC Reorganization (#뉴스)**
+4. **ACIP Revamp Continues as Kennedy Eyes Seven New CDC Vaccine Advisors (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/rfk-jr-blames-us-covid-deaths-on-chronic-disease-announcing-cdc-reorganization>
+   <https://www.biospace.com/policy/acip-revamp-continues-as-kennedy-eyes-seven-new-cdc-vaccine-advisors>
 
-5. **Novartis Doubles Down on Argo Pact With Fresh $5.2B Commitment (#뉴스)**
+5. **The ‘Research Safety Net’ Saving Scientists from Funding Crisis (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novartis-spending-spree-continues-with-5-2b-argo-sirna-pact>
+   <https://www.biospace.com/drug-development/the-research-safety-net-saving-scientists-from-funding-crisis>
 
-6. **Ionis’ Tryngolza Hits ‘Best-Case Scenario’ in Late-Stage Triglyceride Study (#뉴스)**
+6. **AC Immune Downsizes by 30%, Narrows Pipeline Focus (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/ionis-tryngolza-hits-best-case-scenario-in-late-stage-triglyceride-study>
+   <https://www.biospace.com/business/ac-immune-downsizes-by-30-narrows-pipeline-focus>
 
-7. **Cytokinetics Soars on Aficamten’s ‘Best-in-Class’ Performance in Phase III Cardio Study (#뉴스)**
+7. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/cytokinetics-soars-on-aficamtens-best-in-class-performance-in-phase-iii-cardio-study>
+   <https://www.biospace.com/drug-development/opinion-dmd-gene-therapys-inflection-point-and-the-case-for-small-molecules>
 
 
 ---
-*2025년 09월 04일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 09월 05일 바이오스페이스 뉴스 피드에서 생성된 리포트*
