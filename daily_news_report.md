@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 05일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 06일
 
 
 ## 주요 헤드라인
 
-1. **FDA Drops Another Cache of Heavily Redacted Rejection Letters, Promises Future ‘Real-Time’ Access (#뉴스)**
+1. **With Lykos MDMA Rejection Letter Out, MAPS Founder Decries ‘Change of the Goal Posts’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fda-drops-another-cache-of-heavily-redacted-rejection-letters-promises-future-real-time-access>
+   <https://www.biospace.com/drug-development/with-lykos-mdma-rejection-letter-out-maps-founder-decries-change-of-the-goal-posts>
 
-2. **FDA Drops Another Cache of Heavily Redacted Rejection Letters, Promises Future ‘Real-Time’ Access (#뉴스)**
+2. **With Lykos MDMA Rejection Letter Out, MAPS Founder Decries ‘Change of the Goal Posts’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fda-drops-another-cache-of-heavily-redacted-rejection-letters-promises-future-real-time-access>
+   <https://www.biospace.com/drug-development/with-lykos-mdma-rejection-letter-out-maps-founder-decries-change-of-the-goal-posts>
 
-3. **ACIP Revamp Continues as Kennedy Eyes Seven New CDC Vaccine Advisors (#뉴스)**
+3. **Senate Hearing Devolves Into Theater as Kennedy Accused of Breaking Vaccine Promises (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/acip-revamp-continues-as-kennedy-eyes-seven-new-cdc-vaccine-advisors>
+   <https://www.biospace.com/policy/senate-hearing-devolves-into-theater-as-kennedy-accused-of-breaking-vaccine-promises>
 
-4. **ACIP Revamp Continues as Kennedy Eyes Seven New CDC Vaccine Advisors (#뉴스)**
+4. **Senate Hearing Devolves Into Theater as Kennedy Accused of Breaking Vaccine Promises (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/acip-revamp-continues-as-kennedy-eyes-seven-new-cdc-vaccine-advisors>
+   <https://www.biospace.com/policy/senate-hearing-devolves-into-theater-as-kennedy-accused-of-breaking-vaccine-promises>
 
-5. **The ‘Research Safety Net’ Saving Scientists from Funding Crisis (#뉴스)**
+5. **Monarez Blasts Partisan Public Health Policy at CDC Under RFK Jr. (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/the-research-safety-net-saving-scientists-from-funding-crisis>
+   <https://www.biospace.com/policy/monarez-blasts-partisan-public-health-policy-at-cdc-under-rfk-jr>
 
-6. **AC Immune Downsizes by 30%, Narrows Pipeline Focus (#뉴스)**
+6. **Sanofi’s Anti-OX40 Blocker Falls ‘Well Below Expectations’ in Phase III Eczema Study (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ac-immune-downsizes-by-30-narrows-pipeline-focus>
+   <https://www.biospace.com/drug-development/sanofis-anti-ox40-blocker-falls-well-below-expectations-in-phase-iii-eczema-study>
 
-7. **Opinion (#뉴스)**
+7. **Hengrui Licenses Heart Disease Drug to US Startup for up to $1B+ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/opinion-dmd-gene-therapys-inflection-point-and-the-case-for-small-molecules>
+   <https://www.biospace.com/business/hengrui-licenses-heart-disease-drug-to-us-startup-for-up-to-1b>
 
 
 ---
-*2025년 09월 05일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 09월 06일 바이오스페이스 뉴스 피드에서 생성된 리포트*
