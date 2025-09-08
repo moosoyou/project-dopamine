@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 08일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 09일
 
 
 ## 주요 헤드라인
 
-1. **With Lykos MDMA Rejection Letter Out, MAPS Founder Decries ‘Change of the Goal Posts’ (#뉴스)**
+1. **Alkermes One Ups Takeda in Narcolepsy, Clearing Cognitive Impairments in Mid-Stage Trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/with-lykos-mdma-rejection-letter-out-maps-founder-decries-change-of-the-goal-posts>
+   <https://www.biospace.com/drug-development/alkermes-one-ups-takeda-in-narcolepsy-clearing-cognitive-impairments-in-mid-stage-trial>
 
-2. **With Lykos MDMA Rejection Letter Out, MAPS Founder Decries ‘Change of the Goal Posts’ (#뉴스)**
+2. **Alkermes One Ups Takeda in Narcolepsy, Clearing Cognitive Impairments in Mid-Stage Trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/with-lykos-mdma-rejection-letter-out-maps-founder-decries-change-of-the-goal-posts>
+   <https://www.biospace.com/drug-development/alkermes-one-ups-takeda-in-narcolepsy-clearing-cognitive-impairments-in-mid-stage-trial>
 
-3. **Senate Hearing Devolves Into Theater as Kennedy Accused of Breaking Vaccine Promises (#뉴스)**
+3. **FDA Demurs on GLP-1 Compounding Fight, Debuts Consumer ‘Green List’ Instead (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/senate-hearing-devolves-into-theater-as-kennedy-accused-of-breaking-vaccine-promises>
+   <https://www.biospace.com/policy/fda-demurs-on-glp-1-compounding-fight-debuts-consumer-green-list-instead>
 
-4. **Senate Hearing Devolves Into Theater as Kennedy Accused of Breaking Vaccine Promises (#뉴스)**
+4. **FDA Demurs on GLP-1 Compounding Fight, Debuts Consumer ‘Green List’ Instead (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/senate-hearing-devolves-into-theater-as-kennedy-accused-of-breaking-vaccine-promises>
+   <https://www.biospace.com/policy/fda-demurs-on-glp-1-compounding-fight-debuts-consumer-green-list-instead>
 
-5. **Monarez Blasts Partisan Public Health Policy at CDC Under RFK Jr. (#뉴스)**
+5. **Rapport Jumps 180% on ‘Best Case’ Mid-Stage Data for Epilepsy Pill (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/monarez-blasts-partisan-public-health-policy-at-cdc-under-rfk-jr>
+   <https://www.biospace.com/drug-development/rapport-jumps-180-on-best-case-mid-stage-data-for-epilepsy-pill>
 
-6. **Sanofi’s Anti-OX40 Blocker Falls ‘Well Below Expectations’ in Phase III Eczema Study (#뉴스)**
+6. **Summit’s Keytruda Challenger Hits Cross-Country Consistency Problems, Raising US Approval Questions (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sanofis-anti-ox40-blocker-falls-well-below-expectations-in-phase-iii-eczema-study>
+   <https://www.biospace.com/drug-development/summits-keytruda-challenger-hits-cross-country-consistency-problems-raising-us-approval-questions>
 
-7. **Hengrui Licenses Heart Disease Drug to US Startup for up to $1B+ (#뉴스)**
+7. **Servier Bets $450M On Kaerus’ Fragile X Syndrome Therapy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/hengrui-licenses-heart-disease-drug-to-us-startup-for-up-to-1b>
+   <https://www.biospace.com/business/servier-bets-450m-on-kaerus-fragile-x-syndrome-therapy>
 
 
 ---
-*2025년 09월 08일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 09월 09일 바이오스페이스 뉴스 피드에서 생성된 리포트*
