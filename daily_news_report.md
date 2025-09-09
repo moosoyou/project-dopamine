@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 09일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 10일
 
 
 ## 주요 헤드라인
 
-1. **Alkermes One Ups Takeda in Narcolepsy, Clearing Cognitive Impairments in Mid-Stage Trial (#뉴스)**
+1. **Second MAHA Report Emphasizes Chronic Disease, Tilts at Vaccine Reform (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/alkermes-one-ups-takeda-in-narcolepsy-clearing-cognitive-impairments-in-mid-stage-trial>
+   <https://www.biospace.com/policy/second-maha-report-emphasizes-chronic-disease-tilts-at-vaccine-reform>
 
-2. **Alkermes One Ups Takeda in Narcolepsy, Clearing Cognitive Impairments in Mid-Stage Trial (#뉴스)**
+2. **Second MAHA Report Emphasizes Chronic Disease, Tilts at Vaccine Reform (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/alkermes-one-ups-takeda-in-narcolepsy-clearing-cognitive-impairments-in-mid-stage-trial>
+   <https://www.biospace.com/policy/second-maha-report-emphasizes-chronic-disease-tilts-at-vaccine-reform>
 
-3. **FDA Demurs on GLP-1 Compounding Fight, Debuts Consumer ‘Green List’ Instead (#뉴스)**
+3. **Novartis’ Busy BD Team Keeps 2025 Bolt-On Deal Promises (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fda-demurs-on-glp-1-compounding-fight-debuts-consumer-green-list-instead>
+   <https://www.biospace.com/business/novartis-busy-bd-team-keeps-2025-bolt-on-deal-promises>
 
-4. **FDA Demurs on GLP-1 Compounding Fight, Debuts Consumer ‘Green List’ Instead (#뉴스)**
+4. **Novartis’ Busy BD Team Keeps 2025 Bolt-On Deal Promises (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fda-demurs-on-glp-1-compounding-fight-debuts-consumer-green-list-instead>
+   <https://www.biospace.com/business/novartis-busy-bd-team-keeps-2025-bolt-on-deal-promises>
 
-5. **Rapport Jumps 180% on ‘Best Case’ Mid-Stage Data for Epilepsy Pill (#뉴스)**
+5. **BMS, BioNTech Post Geographically Consistent Mid-Stage PD-L1/VEGF Data in SCLC (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/rapport-jumps-180-on-best-case-mid-stage-data-for-epilepsy-pill>
+   <https://www.biospace.com/drug-development/bms-biontech-post-geographically-consistent-mid-stage-pd-l1-vegf-data-in-sclc>
 
-6. **Summit’s Keytruda Challenger Hits Cross-Country Consistency Problems, Raising US Approval Questions (#뉴스)**
+6. **Neuroscience Biotech LB Files for $228M IPO To Support Phase III Plans (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/summits-keytruda-challenger-hits-cross-country-consistency-problems-raising-us-approval-questions>
+   <https://www.biospace.com/business/neuroscience-biotech-lb-files-for-228m-ipo-to-support-phase-iii-plans>
 
-7. **Servier Bets $450M On Kaerus’ Fragile X Syndrome Therapy (#뉴스)**
+7. **Novartis Deals in Cardio Again, Dropping $1.4B To Acquire Tourmaline (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/servier-bets-450m-on-kaerus-fragile-x-syndrome-therapy>
+   <https://www.biospace.com/business/novartis-deals-in-cardio-again-dropping-1-4b-to-acquire-tourmaline>
 
 
 ---
-*2025년 09월 09일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 09월 10일 바이오스페이스 뉴스 피드에서 생성된 리포트*
