@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 10일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 11일
 
 
 ## 주요 헤드라인
 
-1. **Second MAHA Report Emphasizes Chronic Disease, Tilts at Vaccine Reform (#뉴스)**
+1. **Odyssey Rebounds Off Failed IPO With $213M Series D (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/second-maha-report-emphasizes-chronic-disease-tilts-at-vaccine-reform>
+   <https://www.biospace.com/business/odyssey-rebounds-off-failed-ipo-with-213m-series-d>
 
-2. **Second MAHA Report Emphasizes Chronic Disease, Tilts at Vaccine Reform (#뉴스)**
+2. **Odyssey Rebounds Off Failed IPO With $213M Series D (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/second-maha-report-emphasizes-chronic-disease-tilts-at-vaccine-reform>
+   <https://www.biospace.com/business/odyssey-rebounds-off-failed-ipo-with-213m-series-d>
 
-3. **Novartis’ Busy BD Team Keeps 2025 Bolt-On Deal Promises (#뉴스)**
+3. **Novo’s Headcount Rose 81% in Five Years as Revenue Climbed (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novartis-busy-bd-team-keeps-2025-bolt-on-deal-promises>
+   <https://www.biospace.com/business/novos-headcount-rose-81-in-five-years-as-revenue-climbed>
 
-4. **Novartis’ Busy BD Team Keeps 2025 Bolt-On Deal Promises (#뉴스)**
+4. **Novo’s Headcount Rose 81% in Five Years as Revenue Climbed (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novartis-busy-bd-team-keeps-2025-bolt-on-deal-promises>
+   <https://www.biospace.com/business/novos-headcount-rose-81-in-five-years-as-revenue-climbed>
 
-5. **BMS, BioNTech Post Geographically Consistent Mid-Stage PD-L1/VEGF Data in SCLC (#뉴스)**
+5. **Lundbeck Offloads Assets to Three Partners as it Exits 27 Markets, Leaving 602 Jobless (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/bms-biontech-post-geographically-consistent-mid-stage-pd-l1-vegf-data-in-sclc>
+   <https://www.biospace.com/business/lundbeck-offloads-assets-to-three-partners-as-it-exits-27-markets-leaving-602-jobless>
 
-6. **Neuroscience Biotech LB Files for $228M IPO To Support Phase III Plans (#뉴스)**
+6. **Lundbeck Offloads Assets to Three Partners as it Exits 27 Markets, Leaving 602 Jobless (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/neuroscience-biotech-lb-files-for-228m-ipo-to-support-phase-iii-plans>
+   <https://www.biospace.com/business/lundbeck-offloads-assets-to-three-partners-as-it-exits-27-markets-leaving-602-jobless>
 
-7. **Novartis Deals in Cardio Again, Dropping $1.4B To Acquire Tourmaline (#뉴스)**
+7. **Amgen, Kyowa Kirin Bolster Safety Profile for Atopic Dermatitis Hopeful (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novartis-deals-in-cardio-again-dropping-1-4b-to-acquire-tourmaline>
+   <https://www.biospace.com/drug-development/amgen-kyowa-kirin-bolster-safety-profile-for-atopic-dermatitis-hopeful>
 
 
 ---
-*2025년 09월 10일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 09월 11일 바이오스페이스 뉴스 피드에서 생성된 리포트*
