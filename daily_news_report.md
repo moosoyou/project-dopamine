@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 16일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 17일
 
 
 ## 주요 헤드라인
 
-1. **AstraZeneca Suspends $270M UK Commitment Months After Scrapping Vaccine Facility (#뉴스)**
+1. **Doctors Still Prescribing Sarepta’s DMD Gene Therapy After Safety Concerns (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/astrazeneca-suspends-270m-uk-commitment-months-after-scrapping-vaccine-facility>
+   <https://www.biospace.com/business/doctors-still-prescribing-sareptas-dmd-gene-therapy-after-safety-concerns>
 
-2. **AstraZeneca Suspends $270M UK Commitment Months After Scrapping Vaccine Facility (#뉴스)**
+2. **Doctors Still Prescribing Sarepta’s DMD Gene Therapy After Safety Concerns (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/astrazeneca-suspends-270m-uk-commitment-months-after-scrapping-vaccine-facility>
+   <https://www.biospace.com/business/doctors-still-prescribing-sareptas-dmd-gene-therapy-after-safety-concerns>
 
-3. **Rush of Targeted Myasthenia Gravis Therapies Hit Once Sparse Market (#뉴스)**
+3. **Novo’s Amylin Injectable Cagrilintide Hits 11.8% Weight Reduction in Phase III Trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/rush-of-targeted-myasthenia-gravis-therapies-hit-once-sparse-market>
+   <https://www.biospace.com/drug-development/novos-amylin-injectable-cagrilintide-hits-11-8-weight-reduction-in-phase-iii-trial>
 
-4. **EASD 2025 (#뉴스)**
+4. **Novo’s Amylin Injectable Cagrilintide Hits 11.8% Weight Reduction in Phase III Trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/easd-2025-orforglipron-in-focus-the-case-for-cardiovascular-benefits-more>
+   <https://www.biospace.com/drug-development/novos-amylin-injectable-cagrilintide-hits-11-8-weight-reduction-in-phase-iii-trial>
 
-5. **Novo’s Headcount Rose 81% in Five Years as Revenue Climbed (#뉴스)**
+5. **Stealth, Barth Community Await FDA Verdict With ‘Everything at Stake’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novos-headcount-rose-81-in-five-years-as-revenue-climbed>
+   <https://www.biospace.com/drug-development/stealth-barth-community-await-fda-verdict-with-everything-at-stake>
 
-6. **Novo’s Headcount Rose 81% in Five Years as Revenue Climbed (#뉴스)**
+6. **Stealth, Barth Community Await FDA Verdict With ‘Everything at Stake’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novos-headcount-rose-81-in-five-years-as-revenue-climbed>
+   <https://www.biospace.com/drug-development/stealth-barth-community-await-fda-verdict-with-everything-at-stake>
 
-7. **Beyond MariTide (#뉴스)**
+7. **Novo, Lilly Jostle For Market Lead in Obesity With New Regulatory Efforts (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/beyond-maritide-amgen-makes-portfolio-play-amid-scrutiny-of-obesity-prospect>
+   <https://www.biospace.com/drug-development/novo-lilly-jostle-for-market-lead-in-obesity-with-new-regulatory-efforts>
 
 
 ---
-*2025년 09월 16일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 09월 17일 바이오스페이스 뉴스 피드에서 생성된 리포트*
