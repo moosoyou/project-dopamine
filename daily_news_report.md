@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 18일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 19일
 
 
 ## 주요 헤드라인
 
-1. **Republicans Ratchet Up Pressure as Monarez Levels Damning Allegations Against Kennedy (#뉴스)**
+1. **VectorY Bets up to $1.2B+ That Shape’s Brain-Penetrant Capsids Are a Fit (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/republicans-ratchet-up-pressure-as-monarez-levels-damning-allegations-against-kennedy>
+   <https://www.biospace.com/business/vectory-bets-up-to-1-2b-that-shapes-brain-penetrant-capsids-are-a-fit>
 
-2. **Republicans Ratchet Up Pressure as Monarez Levels Damning Allegations Against Kennedy (#뉴스)**
+2. **VectorY Bets up to $1.2B+ That Shape’s Brain-Penetrant Capsids Are a Fit (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/republicans-ratchet-up-pressure-as-monarez-levels-damning-allegations-against-kennedy>
+   <https://www.biospace.com/business/vectory-bets-up-to-1-2b-that-shapes-brain-penetrant-capsids-are-a-fit>
 
-3. **Innate Sheds 30% of Staff, Narrows Pipeline Focus Amid ‘Challenging Funding Environment’ (#뉴스)**
+3. **What Do AI and Hammers Have in Common? (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/innate-sheds-30-of-staff-narrows-pipeline-focus-amid-challenging-funding-environment>
+   <https://www.biospace.com/policy/what-do-ai-and-hammers-have-in-common>
 
-4. **Innate Sheds 30% of Staff, Narrows Pipeline Focus Amid ‘Challenging Funding Environment’ (#뉴스)**
+4. **What Do AI and Hammers Have in Common? (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/innate-sheds-30-of-staff-narrows-pipeline-focus-amid-challenging-funding-environment>
+   <https://www.biospace.com/policy/what-do-ai-and-hammers-have-in-common>
 
-5. **FDA’s Ad Crackdown Targets Novo, Lilly’s Oprah Special on GLP-1s (#뉴스)**
+5. **Novo, BMS Layoffs Hit New Jersey Hard With More Than 500 Left Jobless (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fdas-ad-crackdown-targets-novo-lillys-oprah-special-on-glp-1s>
+   <https://www.biospace.com/business/novo-bms-layoffs-hit-new-jersey-hard-with-more-than-500-left-jobless>
 
-6. **FDA’s Ad Crackdown Targets Novo, Lilly’s Oprah Special on GLP-1s (#뉴스)**
+6. **Roivant, Pfizer’s Therapy Shows ‘Patient-Centered Benefit’ in Rare Inflammatory Condition (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fdas-ad-crackdown-targets-novo-lillys-oprah-special-on-glp-1s>
+   <https://www.biospace.com/drug-development/roivant-pfizers-therapy-shows-patient-centered-benefit-in-rare-inflammatory-condition>
 
-7. **FDA Takes Long Overdue Baby Step Toward Regulating Compounder Drug Ads (#뉴스)**
+7. **Lexicon Backs Phase III Go Decision for Non-Opioid Pain Med With Post-Hoc Analysis (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fda-takes-long-overdue-baby-step-toward-regulating-compounder-drug-ads>
+   <https://www.biospace.com/drug-development/lexicon-backs-phase-iii-go-decision-for-non-opioid-pain-med-with-post-hoc-analysis>
 
 
 ---
-*2025년 09월 18일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 09월 19일 바이오스페이스 뉴스 피드에서 생성된 리포트*
