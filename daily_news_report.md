@@ -1,27 +1,27 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 23일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 24일
 
 
 ## 주요 헤드라인
 
-1. **Pfizer Stages Obesity Comeback With $4.9B Metsera Acquisition (#뉴스)**
+1. **As Kennedy Takes Aim at Childhood Vaccines, a History of Merck’s ProQuad (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-stages-obesity-comeback-with-4-9b-metsera-acquisition>
+   <https://www.biospace.com/policy/as-kennedy-takes-aim-at-childhood-vaccines-a-history-of-mercks-proquad>
 
-2. **Pfizer Stages Obesity Comeback With $4.9B Metsera Acquisition (#뉴스)**
+2. **As Kennedy Takes Aim at Childhood Vaccines, a History of Merck’s ProQuad (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-stages-obesity-comeback-with-4-9b-metsera-acquisition>
+   <https://www.biospace.com/policy/as-kennedy-takes-aim-at-childhood-vaccines-a-history-of-mercks-proquad>
 
-3. **Novartis Looking for Constructive Ways To Bring Down Drug Costs in US (#뉴스)**
+3. **Ionis Heads to FDA as Antisense Therapy Aces Pivotal Study in Rare Neurological Disease (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novartis-looking-for-constructive-ways-to-bring-down-drug-costs-in-us>
+   <https://www.biospace.com/drug-development/ionis-heads-to-fda-as-antisense-therapy-aces-pivotal-study-in-rare-neurological-disease>
 
-4. **Novartis Looking for Constructive Ways To Bring Down Drug Costs in US (#뉴스)**
+4. **To Compete in Obesity, Late Entrants Invest Early in Manufacturing (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novartis-looking-for-constructive-ways-to-bring-down-drug-costs-in-us>
+   <https://www.biospace.com/business/to-compete-in-obesity-late-entrants-invest-early-in-manufacturing>
 
-5. **MapLight Keeps Biopharma’s IPO Flame Alight To Advance Alzheimer’s, Schizophrenia Drugs (#뉴스)**
+5. **Rare Disease Experts See Futility in FDA’s Proposed Framework (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/maplight-keeps-biopharmas-ipo-flame-alight-to-advance-alzheimers-schizophrenia-drugs>
+   <https://www.biospace.com/policy/rare-disease-experts-see-futility-in-fdas-proposed-framework>
 
 6. **Rare Disease Experts See Futility in FDA’s Proposed Framework (#뉴스)**
    - Article content not available
@@ -33,4 +33,4 @@
 
 
 ---
-*2025년 09월 23일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 09월 24일 바이오스페이스 뉴스 피드에서 생성된 리포트*
