@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 25일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 09월 26일
 
 
 ## 주요 헤드라인
 
-1. **Acadia Scraps Prader-Willi Drug After Late-Stage Failure (#뉴스)**
+1. **Immuneering Asset Nearly Doubles Overall Survival in Pancreatic Cancer After 9 Months (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/acadia-scraps-prader-willi-drug-after-late-stage-failure>
+   <https://www.biospace.com/drug-development/immuneering-asset-nearly-doubles-overall-survival-in-pancreatic-cancer-after-9-months>
 
-2. **Acadia Scraps Prader-Willi Drug After Late-Stage Failure (#뉴스)**
+2. **Immuneering Asset Nearly Doubles Overall Survival in Pancreatic Cancer After 9 Months (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/acadia-scraps-prader-willi-drug-after-late-stage-failure>
+   <https://www.biospace.com/drug-development/immuneering-asset-nearly-doubles-overall-survival-in-pancreatic-cancer-after-9-months>
 
-3. **Sanofi Fattens Venture Unit With $625M Infusion for Rare Disease, Neuro Innovation (#뉴스)**
+3. **Lilly Cuts Mid-Stage Obesity Study of Muscle-Sparing Antibody (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sanofi-fattens-venture-unit-with-625m-infusion-for-rare-disease-neuro-innovation>
+   <https://www.biospace.com/drug-development/lilly-cuts-mid-stage-obesity-study-of-muscle-sparing-antibody>
 
-4. **Sanofi Fattens Venture Unit With $625M Infusion for Rare Disease, Neuro Innovation (#뉴스)**
+4. **Harmony Fails Pivotal Fragile X Syndrome Trial, Blames High Placebo Response (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sanofi-fattens-venture-unit-with-625m-infusion-for-rare-disease-neuro-innovation>
+   <https://www.biospace.com/drug-development/harmony-fails-pivotal-fragile-x-syndrome-trial-blames-high-placebo-response>
 
-5. **UniQure ‘Exceeds Expectations’ in Much-Anticipated 3-Year Huntington’s Readout (#뉴스)**
+5. **As Kennedy Takes Aim at Childhood Vaccines, a History of Merck’s ProQuad (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/uniqure-exceeds-expectations-in-much-anticipated-3-year-huntingtons-readout>
+   <https://www.biospace.com/policy/as-kennedy-takes-aim-at-childhood-vaccines-a-history-of-mercks-proquad>
 
-6. **FDA Hits J&J With Warning Letter Over ‘Significant Violations’ at Korean Production Plant (#뉴스)**
+6. **As Kennedy Takes Aim at Childhood Vaccines, a History of Merck’s ProQuad (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/fda-hits-j-j-with-warning-letter-over-significant-violations-at-korean-production-plant>
+   <https://www.biospace.com/policy/as-kennedy-takes-aim-at-childhood-vaccines-a-history-of-mercks-proquad>
 
-7. **Lilly Unveils Second Facility in Manufacturing Push, Naming Texas as Site of New $6.5B Plant (#뉴스)**
+7. **To Compete in Obesity, Late Entrants Invest Early in Manufacturing (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-unveils-second-facility-in-manufacturing-push-naming-texas-as-site-of-new-6-5b-plant>
+   <https://www.biospace.com/business/to-compete-in-obesity-late-entrants-invest-early-in-manufacturing>
 
 
 ---
-*2025년 09월 25일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 09월 26일 바이오스페이스 뉴스 피드에서 생성된 리포트*
