@@ -1,31 +1,31 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 02일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 03일
 
 
 ## 주요 헤드라인
 
-1. **Pfizer’s Drug Pricing Deal With Trump Raises Questions About Access (#뉴스)**
+1. **How Akero’s MASH Success Drove Roche’s $3.5B Takeout of 89bio (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/pfizers-drug-pricing-deal-with-trump-raises-questions-about-access>
+   <https://www.biospace.com/business/how-akeros-mash-success-drove-roches-3-5b-takeout-of-89bio>
 
-2. **Pfizer’s Drug Pricing Deal With Trump Raises Questions About Access (#뉴스)**
+2. **How Akero’s MASH Success Drove Roche’s $3.5B Takeout of 89bio (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/pfizers-drug-pricing-deal-with-trump-raises-questions-about-access>
+   <https://www.biospace.com/business/how-akeros-mash-success-drove-roches-3-5b-takeout-of-89bio>
 
-3. **US Government Shuts Down, FDA Closed for New Applications (#뉴스)**
+3. **Halozyme’s $900M Elektrofi Buyout Brings Two Big Pharma Partners Together (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fda-delays-likely-as-federal-government-hurtles-toward-shutdown>
+   <https://www.biospace.com/business/halozymes-900m-elektrofi-buyout-brings-two-big-pharma-partners-together>
 
-4. **US Government Shuts Down, FDA Closed for New Applications (#뉴스)**
+4. **Trump Delays Pharma Tariffs Yet Again (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fda-delays-likely-as-federal-government-hurtles-toward-shutdown>
+   <https://www.biospace.com/policy/trump-delays-pharma-tariffs-yet-again>
 
-5. **AnaptysBio Plans Business Split To Sharpen Focus on Asset Value (#뉴스)**
+5. **Takeda Exits Cell Therapy Amid Strategic Pivot, Dealing Blow to Once Promising Modality (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/anaptysbio-plans-business-split-to-sharpen-focus-on-asset-value>
+   <https://www.biospace.com/business/takeda-exits-cell-therapy-amid-strategic-pivot-dealing-blow-to-once-promising-modality>
 
-6. **Novo Breaks $598M Heartseed Pact Amid ‘Decisive Restructuring’ by New CEO (#뉴스)**
+6. **Q3 Saw Some of the Highest-Value Biopharma Acquisitions of the Year So Far (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-breaks-598m-heartseed-pact-amid-decisive-restructuring-by-new-ceo>
+   <https://www.biospace.com/business/q3-saw-some-of-the-highest-value-biopharma-acquisitions-of-the-year-so-far>
 
 7. **Q3 Saw Some of the Highest-Value Biopharma Acquisitions of the Year So Far (#뉴스)**
    - Article content not available
@@ -33,4 +33,4 @@
 
 
 ---
-*2025년 10월 02일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 10월 03일 바이오스페이스 뉴스 피드에서 생성된 리포트*
