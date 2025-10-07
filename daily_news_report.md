@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 07일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 08일
 
 
 ## 주요 헤드라인
 
-1. **CDC Adopts ACIP Recommendations on Chickenpox, COVID-19 Vaccines (#뉴스)**
+1. **UPDATE (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/cdc-adopts-acip-recommendations-on-chickenpox-covid-19-vaccines>
+   <https://www.biospace.com/business/maplight-keeps-biopharmas-ipo-flame-alight-to-advance-alzheimers-schizophrenia-drugs>
 
-2. **CDC Adopts ACIP Recommendations on Chickenpox, COVID-19 Vaccines (#뉴스)**
+2. **UPDATE (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/cdc-adopts-acip-recommendations-on-chickenpox-covid-19-vaccines>
+   <https://www.biospace.com/business/maplight-keeps-biopharmas-ipo-flame-alight-to-advance-alzheimers-schizophrenia-drugs>
 
-3. **AstraZeneca Makes Another AI Deal With $555M Algen Alliance (#뉴스)**
+3. **Pfizer Beat Out Two Other Metsera Suitors for Takeover (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/astrazeneca-makes-another-ai-deal-with-555m-algen-alliance>
+   <https://www.biospace.com/business/pfizer-beat-out-two-other-metsera-suitors-for-takeover>
 
-4. **Chiesi, Arbor Weave $2.1B Rare Disease Pact (#뉴스)**
+4. **Pfizer Beat Out Two Other Metsera Suitors for Takeover (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/chiesi-arbor-weave-2-1b-rare-disease-pact>
+   <https://www.biospace.com/business/pfizer-beat-out-two-other-metsera-suitors-for-takeover>
 
-5. **Meeting on the Mesa Arrives Amid Mixed Signals for Cell and Gene Therapy (#뉴스)**
+5. **Skye’s CB1 Inhibitor Shows ‘Intriguing Synergy’ With Wegovy, Despite Mid-Stage Obesity Fail (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/meeting-on-the-mesa-arrives-amid-mixed-signals-for-cell-and-gene-therapy>
+   <https://www.biospace.com/drug-development/skyes-cb1-inhibitor-shows-intriguing-synergy-with-wegovy-despite-mid-stage-obesity-fail>
 
-6. **Meeting on the Mesa Arrives Amid Mixed Signals for Cell and Gene Therapy (#뉴스)**
+6. **Amgen Hops on DTC Train To Offer Repatha at 60% Discount (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/meeting-on-the-mesa-arrives-amid-mixed-signals-for-cell-and-gene-therapy>
+   <https://www.biospace.com/business/amgen-hops-on-dtc-train-to-offer-repatha-at-60-discount>
 
-7. **Opinion (#뉴스)**
+7. **Most Life Sciences Companies Not Planning New Investments After Tariffs (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/opinion-gene-therapys-future-hinges-on-the-economics-of-safety>
+   <https://www.biospace.com/business/most-life-sciences-companies-not-planning-new-investments-after-tariffs-report>
 
 
 ---
-*2025년 10월 07일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 10월 08일 바이오스페이스 뉴스 피드에서 생성된 리포트*
