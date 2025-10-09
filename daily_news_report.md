@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 09일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 10일
 
 
 ## 주요 헤드라인
 
-1. **Sanofi Comes for Novartis’ Radiopharma Crown With ‘Clinically Meaningful’ Pancreatic Tumor Data (#뉴스)**
+1. **Novo Strikes up to $5.2B Deal for Akero in Red-Hot MASH Space (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/novo-strikes-up-to-5-2b-deal-for-akero-in-red-hot-mash-space>
+
+2. **Novo Strikes up to $5.2B Deal for Akero in Red-Hot MASH Space (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/novo-strikes-up-to-5-2b-deal-for-akero-in-red-hot-mash-space>
+
+3. **ACIP Meeting Delayed Indefinitely; COVID-19 Vaccines Continue To Show Benefit in New Study (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/policy/acip-meeting-delayed-indefinitely-covid-19-vaccines-continue-to-show-benefit-in-new-study>
+
+4. **ACIP Meeting Delayed Indefinitely; COVID-19 Vaccines Continue To Show Benefit in New Study (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/policy/acip-meeting-delayed-indefinitely-covid-19-vaccines-continue-to-show-benefit-in-new-study>
+
+5. **Ferring’s Shift to New Business Model Claims 500 Jobs Worldwide (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/ferrings-shift-to-new-business-model-claims-500-jobs-worldwide>
+
+6. **Ferring’s Shift to New Business Model Claims 500 Jobs Worldwide (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/ferrings-shift-to-new-business-model-claims-500-jobs-worldwide>
+
+7. **Sanofi Comes for Novartis’ Radiopharma Crown With ‘Clinically Meaningful’ Pancreatic Tumor Data (#뉴스)**
    - Article content not available
    <https://www.biospace.com/drug-development/sanofi-comes-for-novartis-radiopharma-crown-with-clinically-meaningful-pancreatic-tumor-data>
-
-2. **Sanofi Comes for Novartis’ Radiopharma Crown With ‘Clinically Meaningful’ Pancreatic Tumor Data (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/drug-development/sanofi-comes-for-novartis-radiopharma-crown-with-clinically-meaningful-pancreatic-tumor-data>
-
-3. **Despite mRNA Vaccine Pullback, HHS Awards $48M for Kernal’s mRNA CAR T Program (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/policy/despite-mrna-vaccine-pullback-hhs-awards-48m-for-kernals-mrna-car-t-program>
-
-4. **Shutdown Pauses New Drug Reviews, CDC Issues New COVID Guidance, CGT Meets on Mesa (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/drug-development/shutdown-pauses-new-drug-reviews-cdc-issues-new-covid-guidance-cgt-meets-on-mesa>
-
-5. **How Takeda Built Its Cell Therapy Portfolio, Only To Walk Away (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/how-takeda-built-its-cell-therapy-portfolio-only-to-walk-away>
-
-6. **The 5 Most Powerful Women in Biopharma (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/the-5-most-powerful-women-in-biopharma>
-
-7. **The 5 Most Powerful Women in Biopharma (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/the-5-most-powerful-women-in-biopharma>
 
 
 ---
-*2025년 10월 09일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 10월 10일 바이오스페이스 뉴스 피드에서 생성된 리포트*
