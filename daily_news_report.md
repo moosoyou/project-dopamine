@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 10일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 11일
 
 
 ## 주요 헤드라인
 
-1. **Novo Strikes up to $5.2B Deal for Akero in Red-Hot MASH Space (#뉴스)**
+1. **AstraZeneca Becomes Second Pharma to Strike DTC Deal With Trump Administration (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-strikes-up-to-5-2b-deal-for-akero-in-red-hot-mash-space>
+   <https://www.biospace.com/business/astrazeneca-becomes-second-pharma-to-strike-dtc-deal-with-trump-administration>
 
-2. **Novo Strikes up to $5.2B Deal for Akero in Red-Hot MASH Space (#뉴스)**
+2. **AstraZeneca Becomes Second Pharma to Strike DTC Deal With Trump Administration (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-strikes-up-to-5-2b-deal-for-akero-in-red-hot-mash-space>
+   <https://www.biospace.com/business/astrazeneca-becomes-second-pharma-to-strike-dtc-deal-with-trump-administration>
 
-3. **ACIP Meeting Delayed Indefinitely; COVID-19 Vaccines Continue To Show Benefit in New Study (#뉴스)**
+3. **The BIOSECURE Act Is Back, as Congress Tacks New Version On to Broader Defense Bill (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/acip-meeting-delayed-indefinitely-covid-19-vaccines-continue-to-show-benefit-in-new-study>
+   <https://www.biospace.com/policy/the-biosecure-act-is-back-as-congress-tacks-new-version-on-to-broader-defense-bill>
 
-4. **ACIP Meeting Delayed Indefinitely; COVID-19 Vaccines Continue To Show Benefit in New Study (#뉴스)**
+4. **The BIOSECURE Act Is Back, as Congress Tacks New Version On to Broader Defense Bill (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/acip-meeting-delayed-indefinitely-covid-19-vaccines-continue-to-show-benefit-in-new-study>
+   <https://www.biospace.com/policy/the-biosecure-act-is-back-as-congress-tacks-new-version-on-to-broader-defense-bill>
 
-5. **Ferring’s Shift to New Business Model Claims 500 Jobs Worldwide (#뉴스)**
+5. **BMS Makes $1.5B Cell Therapy Play With Orbital Takeover (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ferrings-shift-to-new-business-model-claims-500-jobs-worldwide>
+   <https://www.biospace.com/business/bms-makes-1-5b-cell-therapy-play-with-orbital-takeover>
 
-6. **Ferring’s Shift to New Business Model Claims 500 Jobs Worldwide (#뉴스)**
+6. **GoodRx Wants In on Direct-to-Consumer TrumpRx Platform (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ferrings-shift-to-new-business-model-claims-500-jobs-worldwide>
+   <https://www.biospace.com/business/goodrx-wants-in-on-direct-to-consumer-trumprx-platform>
 
-7. **Sanofi Comes for Novartis’ Radiopharma Crown With ‘Clinically Meaningful’ Pancreatic Tumor Data (#뉴스)**
+7. **NHS Mulls Greater Pharma Spending to Head Off Trump’s Tariffs (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sanofi-comes-for-novartis-radiopharma-crown-with-clinically-meaningful-pancreatic-tumor-data>
+   <https://www.biospace.com/policy/nhs-mulls-greater-pharma-spending-to-head-off-trumps-tariffs-report>
 
 
 ---
-*2025년 10월 10일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 10월 11일 바이오스페이스 뉴스 피드에서 생성된 리포트*
