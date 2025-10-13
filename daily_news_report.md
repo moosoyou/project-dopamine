@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 13일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 14일
 
 
 ## 주요 헤드라인
 
-1. **AstraZeneca Becomes Second Pharma to Strike DTC Deal With Trump Administration (#뉴스)**
+1. **Regeneron Readies FDA Run for Hearing Loss Gene Therapy That Could ‘Transform Patients’ Lives’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/astrazeneca-becomes-second-pharma-to-strike-dtc-deal-with-trump-administration>
+   <https://www.biospace.com/drug-development/regeneron-readies-fda-run-for-hearing-loss-gene-therapy-that-could-transform-patients-lives>
 
-2. **AstraZeneca Becomes Second Pharma to Strike DTC Deal With Trump Administration (#뉴스)**
+2. **Regeneron Readies FDA Run for Hearing Loss Gene Therapy That Could ‘Transform Patients’ Lives’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/astrazeneca-becomes-second-pharma-to-strike-dtc-deal-with-trump-administration>
+   <https://www.biospace.com/drug-development/regeneron-readies-fda-run-for-hearing-loss-gene-therapy-that-could-transform-patients-lives>
 
-3. **The BIOSECURE Act Is Back, as Congress Tacks New Version On to Broader Defense Bill (#뉴스)**
+3. **Chaos at CDC Continues as Hundreds Fired, Rehired (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/the-biosecure-act-is-back-as-congress-tacks-new-version-on-to-broader-defense-bill>
+   <https://www.biospace.com/policy/chaos-at-cdc-continues-as-hundreds-fired-rehired>
 
-4. **The BIOSECURE Act Is Back, as Congress Tacks New Version On to Broader Defense Bill (#뉴스)**
+4. **Chaos at CDC Continues as Hundreds Fired, Rehired (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/the-biosecure-act-is-back-as-congress-tacks-new-version-on-to-broader-defense-bill>
+   <https://www.biospace.com/policy/chaos-at-cdc-continues-as-hundreds-fired-rehired>
 
-5. **BMS Makes $1.5B Cell Therapy Play With Orbital Takeover (#뉴스)**
+5. **Moderna Claims Early Victory for Cancer Antigen in Melanoma (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/bms-makes-1-5b-cell-therapy-play-with-orbital-takeover>
+   <https://www.biospace.com/drug-development/moderna-claims-early-victory-for-cancer-antigen-in-melanoma>
 
-6. **GoodRx Wants In on Direct-to-Consumer TrumpRx Platform (#뉴스)**
+6. **Moderna Claims Early Victory for Cancer Antigen in Melanoma (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/goodrx-wants-in-on-direct-to-consumer-trumprx-platform>
+   <https://www.biospace.com/drug-development/moderna-claims-early-victory-for-cancer-antigen-in-melanoma>
 
-7. **NHS Mulls Greater Pharma Spending to Head Off Trump’s Tariffs (#뉴스)**
+7. **Novo Retreats From Cell Therapy, Axes Hundreds as Restructuring Rolls On (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/nhs-mulls-greater-pharma-spending-to-head-off-trumps-tariffs-report>
+   <https://www.biospace.com/business/novo-retreats-from-cell-therapy-axes-hundreds-as-restructuring-rolls-on>
 
 
 ---
-*2025년 10월 13일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 10월 14일 바이오스페이스 뉴스 피드에서 생성된 리포트*
