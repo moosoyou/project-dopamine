@@ -1,23 +1,23 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 20일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 21일
 
 
 ## 주요 헤드라인
 
-1. **Novo, Lilly Shares Drop as Trump Promises $150 Ozempic (#뉴스)**
+1. **Akeso, Summit’s PD-1/VEGF Blocker ‘Firmly’ Beats Expectations With Encouraging Survival Data (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-lilly-shares-drop-as-trump-promises-150-ozempic>
+   <https://www.biospace.com/drug-development/akeso-summits-pd-1-vegf-blocker-firmly-beats-expectations-with-encouraging-survival-data>
 
-2. **Novo, Lilly Shares Drop as Trump Promises $150 Ozempic (#뉴스)**
+2. **Akeso, Summit’s PD-1/VEGF Blocker ‘Firmly’ Beats Expectations With Encouraging Survival Data (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-lilly-shares-drop-as-trump-promises-150-ozempic>
+   <https://www.biospace.com/drug-development/akeso-summits-pd-1-vegf-blocker-firmly-beats-expectations-with-encouraging-survival-data>
 
-3. **Kite Makes $1.5B+ Cell Therapy Pact With Pregene as Others Pull Back (#뉴스)**
+3. **Rumors of Eli Lilly Buyout Send Nektar’s Shares Spiking (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/kite-makes-1-5b-cell-therapy-pact-with-pregene-as-others-pull-back>
+   <https://www.biospace.com/business/buyout-buzz-sends-nektars-shares-spiking>
 
-4. **In Affordability Push, EMD Serono Joins TrumpRx While Roche Launches DTC Program (#뉴스)**
+4. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/in-affordability-push-emd-serono-joins-trumprx-while-roche-launches-dtc-program>
+   <https://www.biospace.com/drug-development/opinion-counteracting-complacency-in-multiple-myeloma-were-not-there-yet>
 
 5. **Sarepta’s Not Done With Gene Therapy Yet as LGMD Asset Yields Promising Data (#뉴스)**
    - Article content not available
@@ -33,4 +33,4 @@
 
 
 ---
-*2025년 10월 20일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 10월 21일 바이오스페이스 뉴스 피드에서 생성된 리포트*
