@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 22일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 23일
 
 
 ## 주요 헤드라인
 
-1. **Novo Foundation Replaces Pharma’s Board, Revealing Deep Divisions Over Leadership (#뉴스)**
+1. **Ipsen Puts Up $1.6B To Absorb ImCheck for Mid-Stage Leukemia Antibody (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-foundation-replaces-pharmas-board-revealing-deep-divisions-over-leadership>
+   <https://www.biospace.com/business/ipsen-puts-up-1-6b-to-absorb-imcheck-for-mid-stage-leukemia-antibody>
 
-2. **Novo Foundation Replaces Pharma’s Board, Revealing Deep Divisions Over Leadership (#뉴스)**
+2. **Ipsen Puts Up $1.6B To Absorb ImCheck for Mid-Stage Leukemia Antibody (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-foundation-replaces-pharmas-board-revealing-deep-divisions-over-leadership>
+   <https://www.biospace.com/business/ipsen-puts-up-1-6b-to-absorb-imcheck-for-mid-stage-leukemia-antibody>
 
-3. **Neuphoria’s Social Anxiety Drug Flunks Late-Stage Trial (#뉴스)**
+3. **Trump To Target Trading Partners With Drug Pricing Probe (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/neuphorias-social-anxiety-drug-flunks-late-stage-trial>
+   <https://www.biospace.com/policy/trump-to-target-trading-partners-with-drug-pricing-probe-report>
 
-4. **Neuphoria’s Social Anxiety Drug Flunks Late-Stage Trial (#뉴스)**
+4. **Trump To Target Trading Partners With Drug Pricing Probe (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/neuphorias-social-anxiety-drug-flunks-late-stage-trial>
+   <https://www.biospace.com/policy/trump-to-target-trading-partners-with-drug-pricing-probe-report>
 
-5. **Galapagos Exits Cell Therapy, Cuts 365 Employees (#뉴스)**
+5. **ADC, Bispecifics and Kinase Blockers Steal the Spotlight at ESMO 2025 in Berlin (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/galapagos-exits-cell-therapy-cuts-365-employees>
+   <https://www.biospace.com/drug-development/adc-bispecifics-and-kinase-blockers-steal-the-spotlight-at-esmo-2025-in-berlin>
 
-6. **Exelixis’ Kinase Blocker Sets ‘New Survival Bar’ in Third-Line Colorectal Cancer, Opening Road to FDA (#뉴스)**
+6. **Terns Turns Away From Obesity Pill After ‘Uncompetitive’ Phase II Profile (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/exelixis-kinase-blocker-sets-new-survival-bar-in-third-line-colorectal-cancer-opening-road-to-fda>
+   <https://www.biospace.com/drug-development/terns-turns-away-from-obesity-pill-after-uncompetitive-phase-ii-profile>
 
-7. **Summit Eyes 2025 FDA Application for Ivonescimab Despite Overall Survival Miss (#뉴스)**
+7. **Biotech Markets Turn Positive but Experts Say Don’t Call It a Comeback—Yet (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/summit-eyes-2025-fda-application-for-ivonescimab-despite-overall-survival-miss>
+   <https://www.biospace.com/business/biotech-markets-turn-positive-but-experts-say-dont-call-it-a-comeback-yet>
 
 
 ---
-*2025년 10월 22일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 10월 23일 바이오스페이스 뉴스 피드에서 생성된 리포트*
