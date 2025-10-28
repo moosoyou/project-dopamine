@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 28일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 29일
 
 
 ## 주요 헤드라인
 
-1. **BridgeBio Pops on Late-Stage Limb-Girdle Muscular Dystrophy Data (#뉴스)**
+1. **Novartis CEO Says Trump’s Drug Pricing Deals Don’t Address Root Problem (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/bridgebio-pops-on-late-stage-limb-girdle-muscular-dystrophy-data>
+   <https://www.biospace.com/business/novartis-ceo-says-trumps-drug-pricing-deals-dont-address-root-problem>
 
-2. **BridgeBio Pops on Late-Stage Limb-Girdle Muscular Dystrophy Data (#뉴스)**
+2. **Novartis CEO Says Trump’s Drug Pricing Deals Don’t Address Root Problem (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/bridgebio-pops-on-late-stage-limb-girdle-muscular-dystrophy-data>
+   <https://www.biospace.com/business/novartis-ceo-says-trumps-drug-pricing-deals-dont-address-root-problem>
 
-3. **Deep Dive (#뉴스)**
+3. **BMS, Cabaletta’s CAR T Therapy Spurs Remissions in Small Lupus Trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/deep-dive-chinese-biotech-innovation-cant-be-stopped>
+   <https://www.biospace.com/drug-development/bms-cabalettas-car-t-therapy-spurs-remissions-in-small-lupus-trial>
 
-4. **Deep Dive (#뉴스)**
+4. **BMS, Cabaletta’s CAR T Therapy Spurs Remissions in Small Lupus Trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/deep-dive-chinese-biotech-innovation-cant-be-stopped>
+   <https://www.biospace.com/drug-development/bms-cabalettas-car-t-therapy-spurs-remissions-in-small-lupus-trial>
 
-5. **Intellia Pauses Phase III ATTR Trials for CRISPR Gene Therapy After Life-Threatening Liver Toxicity (#뉴스)**
+5. **BioMarin Abandons Gene Therapy Roctavian, Cuts Revenue Guidance as Voxzogo Faces Competitors (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/intellia-pauses-phase-iii-attr-trials-for-crispr-gene-therapy-after-life-threatening-liver-toxicity>
+   <https://www.biospace.com/business/biomarin-abandons-gene-therapy-roctavian-cuts-revenue-guidance-as-voxzogo-faces-competitors>
 
-6. **Intellia Pauses Phase III ATTR Trials for CRISPR Gene Therapy After Life-Threatening Liver Toxicity (#뉴스)**
+6. **Biogen Seeks To Stand Out in Lupus With New Anti-CD40L Data (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/intellia-pauses-phase-iii-attr-trials-for-crispr-gene-therapy-after-life-threatening-liver-toxicity>
+   <https://www.biospace.com/drug-development/biogen-seeks-to-stand-out-in-lupus-with-new-anti-cd40l-data>
 
-7. **Dyne Primed for Suitors Amid Novartis’ $12B Avidity Acquisition (#뉴스)**
+7. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/dyne-primed-for-suitors-amid-novartis-12b-avidity-acquisition>
+   <https://www.biospace.com/business/opinion-a-flu-season-in-flux-presents-risks-opportunities-for-biopharma>
 
 
 ---
-*2025년 10월 28일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 10월 29일 바이오스페이스 뉴스 피드에서 생성된 리포트*
