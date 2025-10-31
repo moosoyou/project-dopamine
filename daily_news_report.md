@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 10월 31일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 11월 01일
 
 
 ## 주요 헤드라인
 
-1. **Lilly Walks Pricing Tightrope With Upcoming Weight Loss Pill Orforglipron (#뉴스)**
+1. **Novo’s CEO Doesn’t Seem To Mind Being Big Pharma’s Villian (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-walks-pricing-tightrope-with-upcoming-weight-loss-pill-orforglipron>
+   <https://www.biospace.com/business/editorial-novos-ceo-doesnt-seem-to-mind-being-big-pharmas-villian>
 
-2. **Lilly Walks Pricing Tightrope With Upcoming Weight Loss Pill Orforglipron (#뉴스)**
+2. **Novo’s CEO Doesn’t Seem To Mind Being Big Pharma’s Villian (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-walks-pricing-tightrope-with-upcoming-weight-loss-pill-orforglipron>
+   <https://www.biospace.com/business/editorial-novos-ceo-doesnt-seem-to-mind-being-big-pharmas-villian>
 
-3. **Merck Vaccine Sales Drop as US Declines Strike Another Pharma (#뉴스)**
+3. **AbbVie’s Immunology Dyad Dominates Again in Q3 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/merck-vaccine-sales-drop-as-us-declines-strike-another-pharma>
+   <https://www.biospace.com/business/abbvies-immunology-dyad-dominates-again-in-q3>
 
-4. **Merck Vaccine Sales Drop as US Declines Strike Another Pharma (#뉴스)**
+4. **AbbVie’s Immunology Dyad Dominates Again in Q3 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/merck-vaccine-sales-drop-as-us-declines-strike-another-pharma>
+   <https://www.biospace.com/business/abbvies-immunology-dyad-dominates-again-in-q3>
 
-5. **BMS Battles ‘Deeply Ingrained’ Prescribing Habits in Schizophrenia as Cobenfy Misses Q3 Estimates (#뉴스)**
+5. **4DMT Sends Eye Disease Asset’s Asia Rights to Otsuka for $85M Upfront (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/bms-battles-deeply-ingrained-prescribing-habits-in-schizophrenia-as-cobenfy-misses-q3-estimates>
+   <https://www.biospace.com/drug-development/4dmt-sends-eye-disease-assets-asia-rights-to-otsuka-for-85m-upfront>
 
-6. **As Biogen Nears Presymptomatic Alzheimer’s Readout for Leqembi, Can Doctors Be Convinced? (#뉴스)**
+6. **4DMT Sends Eye Disease Asset’s Asia Rights to Otsuka for $85M Upfront (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/as-biogen-nears-presymptomatic-alzheimers-readout-for-leqembi-can-doctors-be-convinced>
+   <https://www.biospace.com/drug-development/4dmt-sends-eye-disease-assets-asia-rights-to-otsuka-for-85m-upfront>
 
-7. **Zepbound Topples Sales King Keytruda as Lilly Reports 54% YoY Revenue Rise for Q3 (#뉴스)**
+7. **Lilly Refines Pain Pipeline Again, Scrapping Mid-Stage Program (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/zepbound-topples-sales-king-keytruda-as-lilly-reports-54-yoy-revenue-rise-for-q3>
+   <https://www.biospace.com/drug-development/lilly-refines-pain-pipeline-again-scrapping-mid-stage-program>
 
 
 ---
-*2025년 10월 31일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 11월 01일 바이오스페이스 뉴스 피드에서 생성된 리포트*
