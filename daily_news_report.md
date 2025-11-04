@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 11월 04일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 11월 05일
 
 
 ## 주요 헤드라인
 
-1. **Roche Piles $55M Into Blood-Brain Barrier Tech With Manifold (#뉴스)**
+1. **Pfizer Fields Novo’s $10B Curveball, With Bourla Promising To Fight for Metsera (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/roche-piles-55m-into-blood-brain-barrier-tech-with-manifold>
+   <https://www.biospace.com/business/pfizer-fields-novos-10b-curveball-with-bourla-promising-to-fight-for-metsera>
 
-2. **Roche Piles $55M Into Blood-Brain Barrier Tech With Manifold (#뉴스)**
+2. **Pfizer Fields Novo’s $10B Curveball, With Bourla Promising To Fight for Metsera (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/roche-piles-55m-into-blood-brain-barrier-tech-with-manifold>
+   <https://www.biospace.com/business/pfizer-fields-novos-10b-curveball-with-bourla-promising-to-fight-for-metsera>
 
-3. **FDA Does ‘About-Face’ on UniQure’s Huntington’s Gene Therapy (#뉴스)**
+3. **Novo Ups Ante in Metsera Buyout Drama With $10B Offer, Beating Pfizer’s New Bid (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/fda-does-about-face-on-uniqures-huntingtons-gene-therapy>
+   <https://www.biospace.com/business/novo-ups-ante-in-metsera-buyout-drama-with-10b-offer-beating-pfizers-new-bid>
 
-4. **UPDATE (#뉴스)**
+4. **Novo Ups Ante in Metsera Buyout Drama With $10B Offer, Beating Pfizer’s New Bid (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-as-promised-sues-to-stop-novos-rival-metsera-bid>
+   <https://www.biospace.com/business/novo-ups-ante-in-metsera-buyout-drama-with-10b-offer-beating-pfizers-new-bid>
 
-5. **An Early-Career Stand Proved This Young Biotech Exec Had What It Takes (#뉴스)**
+5. **Vertex’s New Products Dim as Analysts Eye Kidney Portfolio (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/an-early-career-stand-proved-this-young-biotech-exec-had-what-it-takes>
+   <https://www.biospace.com/business/vertexs-new-products-dim-as-analysts-eye-kidney-portfolio>
 
-6. **An Early-Career Stand Proved This Young Biotech Exec Had What It Takes (#뉴스)**
+6. **Vertex’s New Products Dim as Analysts Eye Kidney Portfolio (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/an-early-career-stand-proved-this-young-biotech-exec-had-what-it-takes>
+   <https://www.biospace.com/business/vertexs-new-products-dim-as-analysts-eye-kidney-portfolio>
 
-7. **5 SMID-Cap Pharmas Poised for M&A Action (#뉴스)**
+7. **Sarepta’s DMD Exon-Skippers Fail Confirmatory Study, Stock Craters (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/5-smid-cap-pharmas-poised-for-m-a-action>
+   <https://www.biospace.com/drug-development/sareptas-dmd-exon-skippers-fail-confirmatory-study-stock-craters>
 
 
 ---
-*2025년 11월 04일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 11월 05일 바이오스페이스 뉴스 피드에서 생성된 리포트*
