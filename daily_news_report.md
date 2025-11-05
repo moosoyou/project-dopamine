@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 11월 05일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 11월 06일
 
 
 ## 주요 헤드라인
 
-1. **Pfizer Fields Novo’s $10B Curveball, With Bourla Promising To Fight for Metsera (#뉴스)**
+1. **Is Metsera Worth The Fuss? (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-fields-novos-10b-curveball-with-bourla-promising-to-fight-for-metsera>
+   <https://www.biospace.com/business/is-metsera-worth-the-fuss>
 
-2. **Pfizer Fields Novo’s $10B Curveball, With Bourla Promising To Fight for Metsera (#뉴스)**
+2. **Is Metsera Worth The Fuss? (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-fields-novos-10b-curveball-with-bourla-promising-to-fight-for-metsera>
+   <https://www.biospace.com/business/is-metsera-worth-the-fuss>
 
-3. **Novo Ups Ante in Metsera Buyout Drama With $10B Offer, Beating Pfizer’s New Bid (#뉴스)**
+3. **FDA Overruled Reviewers in Approving Stealth’s Barth Syndrome Treatment (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-ups-ante-in-metsera-buyout-drama-with-10b-offer-beating-pfizers-new-bid>
+   <https://www.biospace.com/policy/fda-overruled-reviewers-in-approving-stealths-barth-syndrome-treatment>
 
-4. **Novo Ups Ante in Metsera Buyout Drama With $10B Offer, Beating Pfizer’s New Bid (#뉴스)**
+4. **FDA Overruled Reviewers in Approving Stealth’s Barth Syndrome Treatment (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-ups-ante-in-metsera-buyout-drama-with-10b-offer-beating-pfizers-new-bid>
+   <https://www.biospace.com/policy/fda-overruled-reviewers-in-approving-stealths-barth-syndrome-treatment>
 
-5. **Vertex’s New Products Dim as Analysts Eye Kidney Portfolio (#뉴스)**
+5. **Novo Execs Face Skeptical Analysts Amid Metsera Buyout Drama (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/vertexs-new-products-dim-as-analysts-eye-kidney-portfolio>
+   <https://www.biospace.com/business/novo-execs-face-skeptical-analysts-amid-metsera-buyout-drama>
 
-6. **Vertex’s New Products Dim as Analysts Eye Kidney Portfolio (#뉴스)**
+6. **Pfizer and Novo Battle Over Metsera, Tidmarsh Fights FDA Exit, UniQure and Sarepta Face Setbacks (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/vertexs-new-products-dim-as-analysts-eye-kidney-portfolio>
+   <https://www.biospace.com/drug-development/pfizer-and-novo-battle-over-metsera-tidmarsh-fights-fda-exit-uniqure-and-sarepta-face-setbacks>
 
-7. **Sarepta’s DMD Exon-Skippers Fail Confirmatory Study, Stock Craters (#뉴스)**
+7. **Biohaven Cuts R&D Spending by 60% After FDA Rejection of Drug for Rare Neurodegenerative Disease (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sareptas-dmd-exon-skippers-fail-confirmatory-study-stock-craters>
+   <https://www.biospace.com/business/biohaven-cuts-r-d-spending-by-60-after-fda-rejection-of-drug-for-rare-neurodegenerative-disease>
 
 
 ---
-*2025년 11월 05일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 11월 06일 바이오스페이스 뉴스 피드에서 생성된 리포트*
