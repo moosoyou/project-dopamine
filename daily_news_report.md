@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 11월 06일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 11월 07일
 
 
 ## 주요 헤드라인
 
-1. **Is Metsera Worth The Fuss? (#뉴스)**
+1. **White House Strikes GLP-1 Pricing Deal With Lilly, Novo (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/is-metsera-worth-the-fuss>
+   <https://www.biospace.com/business/white-house-strikes-glp-1-pricing-deal-with-lilly-novo>
 
-2. **Is Metsera Worth The Fuss? (#뉴스)**
+2. **White House Strikes GLP-1 Pricing Deal With Lilly, Novo (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/is-metsera-worth-the-fuss>
+   <https://www.biospace.com/business/white-house-strikes-glp-1-pricing-deal-with-lilly-novo>
 
-3. **FDA Overruled Reviewers in Approving Stealth’s Barth Syndrome Treatment (#뉴스)**
+3. **Moderna Posts Fourth-Straight Earnings Drop but the Bleeding Is Slowing (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fda-overruled-reviewers-in-approving-stealths-barth-syndrome-treatment>
+   <https://www.biospace.com/business/moderna-posts-fourth-straight-earnings-drop-but-the-bleeding-is-slowing>
 
-4. **FDA Overruled Reviewers in Approving Stealth’s Barth Syndrome Treatment (#뉴스)**
+4. **Moderna Posts Fourth-Straight Earnings Drop but the Bleeding Is Slowing (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/fda-overruled-reviewers-in-approving-stealths-barth-syndrome-treatment>
+   <https://www.biospace.com/business/moderna-posts-fourth-straight-earnings-drop-but-the-bleeding-is-slowing>
 
-5. **Novo Execs Face Skeptical Analysts Amid Metsera Buyout Drama (#뉴스)**
+5. **Lilly’s Amylin Agonist Headed to Phase III After Eliciting up to 20% Weight Loss (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-execs-face-skeptical-analysts-amid-metsera-buyout-drama>
+   <https://www.biospace.com/drug-development/lillys-amylin-agonist-headed-to-phase-iii-after-eliciting-up-to-20-weight-loss>
 
-6. **Pfizer and Novo Battle Over Metsera, Tidmarsh Fights FDA Exit, UniQure and Sarepta Face Setbacks (#뉴스)**
+6. **AstraZeneca Builds Obesity Pipeline On ‘Medical Aspect,’ Not Aesthetics (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/pfizer-and-novo-battle-over-metsera-tidmarsh-fights-fda-exit-uniqure-and-sarepta-face-setbacks>
+   <https://www.biospace.com/business/astrazeneca-builds-obesity-pipeline-on-medical-aspect-not-aesthetics>
 
-7. **Biohaven Cuts R&D Spending by 60% After FDA Rejection of Drug for Rare Neurodegenerative Disease (#뉴스)**
+7. **Novartis’ Pluvicto Heavywork Proves Radiopharma Can Succeed (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biohaven-cuts-r-d-spending-by-60-after-fda-rejection-of-drug-for-rare-neurodegenerative-disease>
+   <https://www.biospace.com/business/novartis-pluvicto-heavywork-proves-radiopharma-can-succeed>
 
 
 ---
-*2025년 11월 06일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 11월 07일 바이오스페이스 뉴스 피드에서 생성된 리포트*
