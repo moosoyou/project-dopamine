@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 11월 12일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 11월 13일
 
 
 ## 주요 헤드라인
 
-1. **Amgen, Merck, Novo, More Take Cardiovascular Benefits to New Heights at AHA 2025 (#뉴스)**
+1. **Biohaven Seeks $150 Million From Wall Street Following FDA Rejection (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/amgen-merck-novo-more-take-cardiovascular-benefits-to-new-heights-at-aha-2025>
+   <https://www.biospace.com/business/biohaven-seeks-150-million-from-wall-street-following-fda-rejection>
 
-2. **Amgen, Merck, Novo, More Take Cardiovascular Benefits to New Heights at AHA 2025 (#뉴스)**
+2. **Biohaven Seeks $150 Million From Wall Street Following FDA Rejection (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/amgen-merck-novo-more-take-cardiovascular-benefits-to-new-heights-at-aha-2025>
+   <https://www.biospace.com/business/biohaven-seeks-150-million-from-wall-street-following-fda-rejection>
 
-3. **Neurocrine’s Depression Drug Delivers ‘Surprise’ Phase II Miss (#뉴스)**
+3. **Five Trends That Got Everyone Talking in Pharma and Biotech This Year (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/neurocrines-depression-drug-delivers-surprise-phase-ii-miss>
+   <https://www.biospace.com/drug-development/five-trends-that-got-everyone-talking-in-pharma-and-biotech-this-year>
 
-4. **Neurocrine’s Depression Drug Delivers ‘Surprise’ Phase II Miss (#뉴스)**
+4. **Five Trends That Got Everyone Talking in Pharma and Biotech This Year (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/neurocrines-depression-drug-delivers-surprise-phase-ii-miss>
+   <https://www.biospace.com/drug-development/five-trends-that-got-everyone-talking-in-pharma-and-biotech-this-year>
 
-5. **Cogent Hits ‘Unprecedented’ Efficacy in Rare Stomach Cancer, Clearing Path to FDA (#뉴스)**
+5. **Metagenomi Chops 25% of Workforce, CEO To Advance Hemophilia A Program (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/cogent-hits-unprecedented-efficacy-in-rare-stomach-cancer-clearing-path-to-fda>
+   <https://www.biospace.com/business/metagenomi-chops-25-of-workforce-ceo-to-advance-hemophilia-a-program>
 
-6. **Drugmakers Push FDA To Extend Support to Existing Facilities (#뉴스)**
+6. **Metagenomi Chops 25% of Workforce, CEO To Advance Hemophilia A Program (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/drugmakers-push-fda-to-extend-support-to-existing-facilities>
+   <https://www.biospace.com/business/metagenomi-chops-25-of-workforce-ceo-to-advance-hemophilia-a-program>
 
-7. **Kezar Loses 70% of Staff After FDA Cancels Meeting on Autoimmune Asset (#뉴스)**
+7. **Altimmune Poised for $1B+ Opportunity as MASH Drug Aces Phase IIb (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/kezar-loses-70-of-staff-after-fda-cancels-meeting-on-autoimmune-asset>
+   <https://www.biospace.com/drug-development/altimmune-poised-for-1b-opportunity-as-mash-drug-aces-phase-iib>
 
 
 ---
-*2025년 11월 12일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 11월 13일 바이오스페이스 뉴스 피드에서 생성된 리포트*
