@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 11월 24일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 11월 25일
 
 
 ## 주요 헤드라인
 
-1. **J&J, Contineum Fail ‘Risky’ Mid-Stage Multiple Sclerosis Trial (#뉴스)**
+1. **J&J’s Anti-Tau Bet Falls Flat in Mid-Stage Alzheimer’s Trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/j-j-contineum-fail-risky-mid-stage-multiple-sclerosis-trial>
+   <https://www.biospace.com/drug-development/j-js-anti-tau-bet-falls-flat-in-mid-stage-alzheimers-trial>
 
-2. **UPDATE (#뉴스)**
+2. **J&J’s Anti-Tau Bet Falls Flat in Mid-Stage Alzheimer’s Trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/gsks-tesaro-sues-anaptysbio-seeks-to-terminate-current-jemperli-contract>
+   <https://www.biospace.com/drug-development/j-js-anti-tau-bet-falls-flat-in-mid-stage-alzheimers-trial>
 
-3. **Moderna Cans 3 mRNA Vaccines, Secures $1.5B Loan in Quest for 10% Growth (#뉴스)**
+3. **Biogen’s Leqembi Rises After Novo GLP-1 Fails in Alzheimer’s (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/moderna-cans-3-mrna-vaccines-secures-1-5b-loan-in-quest-for-10-growth>
+   <https://www.biospace.com/drug-development/biogens-leqembi-rises-after-novo-glp-1-fails-in-alzheimers>
 
-4. **Eli Lilly Enters Uncharted Territory as Market Cap Nears $1T (#뉴스)**
+4. **Biogen’s Leqembi Rises After Novo GLP-1 Fails in Alzheimer’s (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/eli-lilly-enters-uncharted-territory-as-market-cap-nears-1t>
+   <https://www.biospace.com/drug-development/biogens-leqembi-rises-after-novo-glp-1-fails-in-alzheimers>
 
-5. **Eli Lilly Enters Uncharted Territory as Market Cap Nears $1T (#뉴스)**
+5. **Novo’s GLP-1 Fails to Slow Alzheimer’s, Sending Shares Down 10% (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/eli-lilly-enters-uncharted-territory-as-market-cap-nears-1t>
+   <https://www.biospace.com/drug-development/novos-glp-1-fails-to-slow-alzheimers-sending-shares-down-10>
 
-6. **As GLP-1s Hit Bargain Bin Prices, What’s the Future of the Obesity Market? (#뉴스)**
+6. **Novo’s GLP-1 Fails to Slow Alzheimer’s, Sending Shares Down 10% (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/as-glp-1s-hit-bargain-bin-prices-whats-the-future-of-the-obesity-market>
+   <https://www.biospace.com/drug-development/novos-glp-1-fails-to-slow-alzheimers-sending-shares-down-10>
 
-7. **As GLP-1s Hit Bargain Bin Prices, What’s the Future of the Obesity Market? (#뉴스)**
+7. **NervGen’s Peptide Achieves Nervous System Repair in Phase II Spinal Cord Injury Study (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/as-glp-1s-hit-bargain-bin-prices-whats-the-future-of-the-obesity-market>
+   <https://www.biospace.com/drug-development/nervgens-peptide-achieves-nervous-system-repair-in-phase-ii-spinal-cord-injury-study>
 
 
 ---
-*2025년 11월 24일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 11월 25일 바이오스페이스 뉴스 피드에서 생성된 리포트*
