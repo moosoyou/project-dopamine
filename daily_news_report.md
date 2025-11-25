@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 11월 25일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 11월 26일
 
 
 ## 주요 헤드라인
 
-1. **J&J’s Anti-Tau Bet Falls Flat in Mid-Stage Alzheimer’s Trial (#뉴스)**
+1. **Avidity Played Hardball to Land Favorable Terms in $12B Novartis Deal (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/j-js-anti-tau-bet-falls-flat-in-mid-stage-alzheimers-trial>
+   <https://www.biospace.com/business/avidity-played-hardball-to-land-favorable-terms-in-12b-novartis-deal>
 
-2. **J&J’s Anti-Tau Bet Falls Flat in Mid-Stage Alzheimer’s Trial (#뉴스)**
+2. **Avidity Played Hardball to Land Favorable Terms in $12B Novartis Deal (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/j-js-anti-tau-bet-falls-flat-in-mid-stage-alzheimers-trial>
+   <https://www.biospace.com/business/avidity-played-hardball-to-land-favorable-terms-in-12b-novartis-deal>
 
-3. **Biogen’s Leqembi Rises After Novo GLP-1 Fails in Alzheimer’s (#뉴스)**
+3. **Novo Bounces Back With ‘Competitive’ Mid-Stage Weight Loss Data for Amycretin (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/biogens-leqembi-rises-after-novo-glp-1-fails-in-alzheimers>
+   <https://www.biospace.com/drug-development/novo-bounces-back-with-competitive-mid-stage-weight-loss-data-for-amycretin>
 
-4. **Biogen’s Leqembi Rises After Novo GLP-1 Fails in Alzheimer’s (#뉴스)**
+4. **Lilly Redefines the Pharma Mega-Blockbuster (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/biogens-leqembi-rises-after-novo-glp-1-fails-in-alzheimers>
+   <https://www.biospace.com/business/lilly-redefines-the-pharma-mega-blockbuster>
 
-5. **Novo’s GLP-1 Fails to Slow Alzheimer’s, Sending Shares Down 10% (#뉴스)**
+5. **ASH25 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/novos-glp-1-fails-to-slow-alzheimers-sending-shares-down-10>
+   <https://www.biospace.com/drug-development/late-stage-data-for-j-js-tecvayli-darzalex-combo-could-shift-paradigm-in-myeloma>
 
-6. **Novo’s GLP-1 Fails to Slow Alzheimer’s, Sending Shares Down 10% (#뉴스)**
+6. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/novos-glp-1-fails-to-slow-alzheimers-sending-shares-down-10>
+   <https://www.biospace.com/drug-development/opinion-cell-and-gene-therapy-will-transform-lives-if-we-let-it>
 
-7. **NervGen’s Peptide Achieves Nervous System Repair in Phase II Spinal Cord Injury Study (#뉴스)**
+7. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/nervgens-peptide-achieves-nervous-system-repair-in-phase-ii-spinal-cord-injury-study>
+   <https://www.biospace.com/drug-development/opinion-cell-and-gene-therapy-will-transform-lives-if-we-let-it>
 
 
 ---
-*2025년 11월 25일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 11월 26일 바이오스페이스 뉴스 피드에서 생성된 리포트*
