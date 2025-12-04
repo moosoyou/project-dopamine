@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 12월 04일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 12월 05일
 
 
 ## 주요 헤드라인
 
-1. **New UK/EU Rules and AI Adoption Define CRO Priorities for 2026 (#뉴스)**
+1. **Former CDC, FDA Chiefs Decry Vaccine Policy Changes as ACIP Meeting Begins (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/new-uk-eu-rules-and-ai-adoption-define-cro-priorities-for-2026>
+   <https://www.biospace.com/policy/former-fda-cdc-chiefs-decry-vaccine-policy-changes-as-acip-meeting-begins>
 
-2. **New UK/EU Rules and AI Adoption Define CRO Priorities for 2026 (#뉴스)**
+2. **Former CDC, FDA Chiefs Decry Vaccine Policy Changes as ACIP Meeting Begins (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/new-uk-eu-rules-and-ai-adoption-define-cro-priorities-for-2026>
+   <https://www.biospace.com/policy/former-fda-cdc-chiefs-decry-vaccine-policy-changes-as-acip-meeting-begins>
 
-3. **Capricor Heads Back to FDA With Pivotal Results for DMD Cardiomyopathy Therapy (#뉴스)**
+3. **Crescent, Kelun-Biotech Swap Therapies in ADC-Bispecific Deal Worth Up To $1.25B (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/capricor-heads-back-to-fda-with-pivotal-results-for-dmd-cardiomyopathy-therapy>
+   <https://www.biospace.com/business/crescent-kelun-biotech-swap-therapies-in-adc-bispecific-deal-worth-up-to-1-25b>
 
-4. **Capricor Heads Back to FDA With Pivotal Results for DMD Cardiomyopathy Therapy (#뉴스)**
+4. **Crescent, Kelun-Biotech Swap Therapies in ADC-Bispecific Deal Worth Up To $1.25B (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/capricor-heads-back-to-fda-with-pivotal-results-for-dmd-cardiomyopathy-therapy>
+   <https://www.biospace.com/business/crescent-kelun-biotech-swap-therapies-in-adc-bispecific-deal-worth-up-to-1-25b>
 
-5. **BMS Delays Cobenfy Alzheimer’s Psychosis Data After ‘Irregularities’ in Phase III Study (#뉴스)**
+5. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/bms-delays-cobenfy-alzheimers-psychosis-data-after-irregularities-in-phase-iii-study>
+   <https://www.biospace.com/business/opinion-even-early-stage-biotechs-cant-ignore-tariffs>
 
-6. **Harmony’s Dravet Drug Halves Monthly Seizures in Late-Stage Study (#뉴스)**
+6. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/harmonys-dravet-drug-halves-monthly-seizures-in-late-stage-study>
+   <https://www.biospace.com/business/opinion-even-early-stage-biotechs-cant-ignore-tariffs>
 
-7. **Prasad’s Leaked FDA Memo, Alzheimer’s Ups and Downs, Next-Gen Obesity Drugs (#뉴스)**
+7. **Lilly, Novo GLP-1 Pricing Plans Clear Runway For Future Competitors (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/prasads-leaked-fda-memo-alzheimers-ups-and-downs-next-gen-obesity-drugs>
+   <https://www.biospace.com/business/lilly-novo-glp-1-pricing-plans-clear-runway-for-future-competitors>
 
 
 ---
-*2025년 12월 04일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 12월 05일 바이오스페이스 뉴스 피드에서 생성된 리포트*
