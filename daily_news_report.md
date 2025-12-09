@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 12월 09일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 12월 10일
 
 
 ## 주요 헤드라인
 
-1. **As FDA Deploys Agentic AI, Pharma Begins Testing the Next Frontier of Intelligent Automation (#뉴스)**
+1. **Terns Climbs 10% As ‘Unprecedented’ Leukemia Data Beats Novartis’ Scemblix (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/as-fda-deploys-agentic-ai-pharma-begins-testing-the-next-frontier-of-intelligent-automation>
+   <https://www.biospace.com/drug-development/terns-climbs-10-as-unprecedented-leukemia-data-beats-novartis-scemblix>
 
-2. **As FDA Deploys Agentic AI, Pharma Begins Testing the Next Frontier of Intelligent Automation (#뉴스)**
+2. **Terns Climbs 10% As ‘Unprecedented’ Leukemia Data Beats Novartis’ Scemblix (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/as-fda-deploys-agentic-ai-pharma-begins-testing-the-next-frontier-of-intelligent-automation>
+   <https://www.biospace.com/drug-development/terns-climbs-10-as-unprecedented-leukemia-data-beats-novartis-scemblix>
 
-3. **Wave Soars on Early Results for Obesity Treatment That Could ‘Disrupt’ the Landscape (#뉴스)**
+3. **Novartis Unites With Relation in $1.7B Inflammatory Skin Disease Pact (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/wave-soars-on-early-results-for-obesity-treatment-that-could-disrupt-the-landscape>
+   <https://www.biospace.com/business/novartis-unites-with-relation-in-1-7b-inflammatory-skin-disease-pact>
 
-4. **Wave Soars on Early Results for Obesity Treatment That Could ‘Disrupt’ the Landscape (#뉴스)**
+4. **Structure Stock Soars as Oral GLP-1 Generates ‘Highly Competitive’ Weight Loss (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/wave-soars-on-early-results-for-obesity-treatment-that-could-disrupt-the-landscape>
+   <https://www.biospace.com/drug-development/structure-stock-soars-as-oral-glp-1-generates-highly-competitive-weight-loss>
 
-5. **ASH25 (#뉴스)**
+5. **Assembly’s Antivirals Show ‘Striking’ Drop in Lesions, Viral Shedding in Early Genital Herpes Study (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/ash25-car-t-leaders-gilead-j-j-show-in-multiple-myeloma-fulcrum-rises-on-sickle-cell-data>
+   <https://www.biospace.com/drug-development/assemblys-antivirals-show-striking-drop-in-lesions-viral-shedding-in-early-genital-herpes-study>
 
-6. **ASH25 (#뉴스)**
+6. **With Chinese Assets in Hand, Pharma Is Wondering What Else Can Be Learned (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/ash25-car-t-leaders-gilead-j-j-show-in-multiple-myeloma-fulcrum-rises-on-sickle-cell-data>
+   <https://www.biospace.com/business/with-chinese-assets-in-hand-pharma-is-wondering-what-else-can-be-learned>
 
-7. **Dyne’s Exon Skipper Delivers ‘Best Ever’ Functional Outcomes in Early DMD Study (#뉴스)**
+7. **With Chinese Assets in Hand, Pharma Is Wondering What Else Can Be Learned (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/dynes-exon-skipper-delivers-best-ever-functional-outcomes-in-early-dmd-study>
+   <https://www.biospace.com/business/with-chinese-assets-in-hand-pharma-is-wondering-what-else-can-be-learned>
 
 
 ---
-*2025년 12월 09일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 12월 10일 바이오스페이스 뉴스 피드에서 생성된 리포트*
