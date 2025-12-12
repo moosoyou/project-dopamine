@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 12월 12일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 12월 13일
 
 
 ## 주요 헤드라인
 
-1. **AC Immune’s Parkinson’s Immunotherapy Appears to Slow Disease Progression (#뉴스)**
+1. **‘Au Revoir TIGIT’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/ac-immunes-parkinsons-immunotherapy-appears-to-slow-disease-progression>
+   <https://www.biospace.com/drug-development/au-revoir-tigit-gilead-arcus-cut-gastro-cancer-drug-after-late-stage-failure>
 
-2. **AC Immune’s Parkinson’s Immunotherapy Appears to Slow Disease Progression (#뉴스)**
+2. **‘Au Revoir TIGIT’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/ac-immunes-parkinsons-immunotherapy-appears-to-slow-disease-progression>
+   <https://www.biospace.com/drug-development/au-revoir-tigit-gilead-arcus-cut-gastro-cancer-drug-after-late-stage-failure>
 
-3. **Lilly’s Retatrutide Scores Triple Trial Triumph With 26% Weight Loss, But New Safety Signal Emerges (#뉴스)**
+3. **CDC Highlights Efficacy of COVID-19 Shots in Kids Amid FDA Probe of Alleged Deaths (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/lillys-retatrutide-scores-triple-trial-triumph-with-26-weight-loss-but-new-safety-signal-emerges>
+   <https://www.biospace.com/drug-development/cdc-highlights-efficacy-of-covid-19-shots-in-kids-amid-fda-probe-of-alleged-deaths>
 
-4. **Lilly’s Retatrutide Scores Triple Trial Triumph With 26% Weight Loss, But New Safety Signal Emerges (#뉴스)**
+4. **Absence of Bureaucracy at FDA Is Shooting Pharma in the Foot (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/lillys-retatrutide-scores-triple-trial-triumph-with-26-weight-loss-but-new-safety-signal-emerges>
+   <https://www.biospace.com/policy/absence-of-bureaucracy-at-fda-is-shooting-pharma-in-the-foot>
 
-5. **Pfizer Builds Case for Tukysa as ‘New Standard Regimen’ in First-Line Metastatic Breast Cancer (#뉴스)**
+5. **Pfizer Is Not a Done Dealmaker After Metsera Buy, With $6B More To Spend (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/pfizer-builds-case-for-tukysa-as-new-standard-regimen-in-first-line-metastatic-breast-cancer>
+   <https://www.biospace.com/business/pfizer-is-not-a-done-dealmaker-after-metsera-buy-with-6b-more-to-spend>
 
-6. **Zealand Bets up to $2.5B in Metabolic Pact With Chinese Biotech (#뉴스)**
+6. **Pfizer Is Not a Done Dealmaker After Metsera Buy, With $6B More To Spend (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/zealand-bets-up-to-2-5b-in-metabolic-pact-with-chinese-biotech>
+   <https://www.biospace.com/business/pfizer-is-not-a-done-dealmaker-after-metsera-buy-with-6b-more-to-spend>
 
-7. **Roche’s Oral SERD Cuts Death Risk by 30% in Early-Stage Breast Cancer (#뉴스)**
+7. **Japanese Pharmas Looking Beyond Borders for M&A to US, EU (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/roches-oral-serd-cuts-death-risk-by-30-in-early-stage-breast-cancer>
+   <https://www.biospace.com/business/japanese-pharmas-looking-beyond-borders-for-m-a-to-us-eu>
 
 
 ---
-*2025년 12월 12일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 12월 13일 바이오스페이스 뉴스 피드에서 생성된 리포트*
