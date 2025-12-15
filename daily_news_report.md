@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 12월 15일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 12월 16일
 
 
 ## 주요 헤드라인
 
-1. **‘Au Revoir TIGIT’ (#뉴스)**
+1. **Immunome Heads to the FDA With Desmoid Tumor Drug After Phase III Sweep (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/au-revoir-tigit-gilead-arcus-cut-gastro-cancer-drug-after-late-stage-failure>
+   <https://www.biospace.com/drug-development/immunome-heads-to-the-fda-with-desmoid-tumor-drug-after-phase-iii-sweep>
 
-2. **‘Au Revoir TIGIT’ (#뉴스)**
+2. **Immunome Heads to the FDA With Desmoid Tumor Drug After Phase III Sweep (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/au-revoir-tigit-gilead-arcus-cut-gastro-cancer-drug-after-late-stage-failure>
+   <https://www.biospace.com/drug-development/immunome-heads-to-the-fda-with-desmoid-tumor-drug-after-phase-iii-sweep>
 
-3. **CDC Highlights Efficacy of COVID-19 Shots in Kids Amid FDA Probe of Alleged Deaths (#뉴스)**
+3. **Sanofi Taps Dren Again in up to $1.7B Autoimmune Partnership (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/cdc-highlights-efficacy-of-covid-19-shots-in-kids-amid-fda-probe-of-alleged-deaths>
+   <https://www.biospace.com/business/sanofi-taps-dren-again-in-up-to-1-7b-autoimmune-partnership>
 
-4. **Absence of Bureaucracy at FDA Is Shooting Pharma in the Foot (#뉴스)**
+4. **Sanofi Taps Dren Again in up to $1.7B Autoimmune Partnership (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/absence-of-bureaucracy-at-fda-is-shooting-pharma-in-the-foot>
+   <https://www.biospace.com/business/sanofi-taps-dren-again-in-up-to-1-7b-autoimmune-partnership>
 
-5. **Pfizer Is Not a Done Dealmaker After Metsera Buy, With $6B More To Spend (#뉴스)**
+5. **Argenyx’s Vyvgart Flops Phase III Thyroid Eye Disease Test, Raising Risk for Ongoing Trials (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-is-not-a-done-dealmaker-after-metsera-buy-with-6b-more-to-spend>
+   <https://www.biospace.com/drug-development/argenyxs-vyvgart-flops-phase-iii-thyroid-eye-disease-test-raising-risk-for-ongoing-trials>
 
-6. **Pfizer Is Not a Done Dealmaker After Metsera Buy, With $6B More To Spend (#뉴스)**
+6. **Argenyx’s Vyvgart Flops Phase III Thyroid Eye Disease Test, Raising Risk for Ongoing Trials (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-is-not-a-done-dealmaker-after-metsera-buy-with-6b-more-to-spend>
+   <https://www.biospace.com/drug-development/argenyxs-vyvgart-flops-phase-iii-thyroid-eye-disease-test-raising-risk-for-ongoing-trials>
 
-7. **Japanese Pharmas Looking Beyond Borders for M&A to US, EU (#뉴스)**
+7. **Sanofi’s MS Drug Fails Phase III Trial, While FDA Again Delays Approval Application (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/japanese-pharmas-looking-beyond-borders-for-m-a-to-us-eu>
+   <https://www.biospace.com/drug-development/sanofis-ms-drug-fails-phase-iii-trial-while-fda-again-delays-approval-application>
 
 
 ---
-*2025년 12월 15일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 12월 16일 바이오스페이스 뉴스 피드에서 생성된 리포트*
