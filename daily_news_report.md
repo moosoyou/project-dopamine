@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 12월 16일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 12월 17일
 
 
 ## 주요 헤드라인
 
-1. **Immunome Heads to the FDA With Desmoid Tumor Drug After Phase III Sweep (#뉴스)**
+1. **Pfizer CEO Blasts HHS’ Anti-Vaccine Policies as Revenue Outlook Dims (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/immunome-heads-to-the-fda-with-desmoid-tumor-drug-after-phase-iii-sweep>
+   <https://www.biospace.com/business/pfizer-ceo-blasts-hhs-anti-vaccine-policies-as-revenue-outlook-dims>
 
-2. **Immunome Heads to the FDA With Desmoid Tumor Drug After Phase III Sweep (#뉴스)**
+2. **Pfizer CEO Blasts HHS’ Anti-Vaccine Policies as Revenue Outlook Dims (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/immunome-heads-to-the-fda-with-desmoid-tumor-drug-after-phase-iii-sweep>
+   <https://www.biospace.com/business/pfizer-ceo-blasts-hhs-anti-vaccine-policies-as-revenue-outlook-dims>
 
-3. **Sanofi Taps Dren Again in up to $1.7B Autoimmune Partnership (#뉴스)**
+3. **Kyverna’s CAR T Therapy Delivers ‘Impressive’ Mobility Benefits in Stiff Person Syndrome (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sanofi-taps-dren-again-in-up-to-1-7b-autoimmune-partnership>
+   <https://www.biospace.com/drug-development/kyvernas-car-t-therapy-delivers-impressive-mobility-benefits-in-stiff-person-syndrome>
 
-4. **Sanofi Taps Dren Again in up to $1.7B Autoimmune Partnership (#뉴스)**
+4. **Ambros Launches With $125M To Bring Italian Non-Opioid Pain Drug to America (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sanofi-taps-dren-again-in-up-to-1-7b-autoimmune-partnership>
+   <https://www.biospace.com/business/ambros-launches-with-125m-to-bring-italian-non-opioid-pain-drug-to-america>
 
-5. **Argenyx’s Vyvgart Flops Phase III Thyroid Eye Disease Test, Raising Risk for Ongoing Trials (#뉴스)**
+5. **5 of 2025’s Defining Clinical Wins (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/argenyxs-vyvgart-flops-phase-iii-thyroid-eye-disease-test-raising-risk-for-ongoing-trials>
+   <https://www.biospace.com/drug-development/5-of-2025s-defining-clinical-wins>
 
-6. **Argenyx’s Vyvgart Flops Phase III Thyroid Eye Disease Test, Raising Risk for Ongoing Trials (#뉴스)**
+6. **5 of 2025’s Defining Clinical Wins (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/argenyxs-vyvgart-flops-phase-iii-thyroid-eye-disease-test-raising-risk-for-ongoing-trials>
+   <https://www.biospace.com/drug-development/5-of-2025s-defining-clinical-wins>
 
-7. **Sanofi’s MS Drug Fails Phase III Trial, While FDA Again Delays Approval Application (#뉴스)**
+7. **Absence of Bureaucracy at FDA Is Shooting Pharma in the Foot (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sanofis-ms-drug-fails-phase-iii-trial-while-fda-again-delays-approval-application>
+   <https://www.biospace.com/policy/absence-of-bureaucracy-at-fda-is-shooting-pharma-in-the-foot>
 
 
 ---
-*2025년 12월 16일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 12월 17일 바이오스페이스 뉴스 피드에서 생성된 리포트*
