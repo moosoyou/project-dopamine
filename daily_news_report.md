@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 12월 17일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 12월 18일
 
 
 ## 주요 헤드라인
 
-1. **Pfizer CEO Blasts HHS’ Anti-Vaccine Policies as Revenue Outlook Dims (#뉴스)**
+1. **CDC Formally Adopts Delayed Hepatitis B Vaccine Dose (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-ceo-blasts-hhs-anti-vaccine-policies-as-revenue-outlook-dims>
+   <https://www.biospace.com/policy/cdcs-vaccine-advisers-again-delay-hep-b-vote>
 
-2. **Pfizer CEO Blasts HHS’ Anti-Vaccine Policies as Revenue Outlook Dims (#뉴스)**
+2. **CDC Formally Adopts Delayed Hepatitis B Vaccine Dose (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-ceo-blasts-hhs-anti-vaccine-policies-as-revenue-outlook-dims>
+   <https://www.biospace.com/policy/cdcs-vaccine-advisers-again-delay-hep-b-vote>
 
-3. **Kyverna’s CAR T Therapy Delivers ‘Impressive’ Mobility Benefits in Stiff Person Syndrome (#뉴스)**
+3. **Nektar Digs Into Mid-Stage Data to Establish Alopecia Efficacy of Rezpeg (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/kyvernas-car-t-therapy-delivers-impressive-mobility-benefits-in-stiff-person-syndrome>
+   <https://www.biospace.com/drug-development/nektar-digs-into-mid-stage-data-to-establish-alopecia-efficacy-of-rezpeg>
 
-4. **Ambros Launches With $125M To Bring Italian Non-Opioid Pain Drug to America (#뉴스)**
+4. **Addition Debuts With $100M to Advance One-Time Therapies for Rare, Chronic Diseases (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ambros-launches-with-125m-to-bring-italian-non-opioid-pain-drug-to-america>
+   <https://www.biospace.com/business/addition-debuts-with-100m-to-advance-one-time-therapies-for-rare-chronic-diseases>
 
-5. **5 of 2025’s Defining Clinical Wins (#뉴스)**
+5. **Pharmas Write Big M&A Checks Again as Patent Urgency Seizes C-Suites (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/5-of-2025s-defining-clinical-wins>
+   <https://www.biospace.com/business/pharmas-write-big-m-a-checks-again-as-patent-urgency-seizes-c-suites>
 
-6. **5 of 2025’s Defining Clinical Wins (#뉴스)**
+6. **Pharmas Write Big M&A Checks Again as Patent Urgency Seizes C-Suites (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/5-of-2025s-defining-clinical-wins>
+   <https://www.biospace.com/business/pharmas-write-big-m-a-checks-again-as-patent-urgency-seizes-c-suites>
 
-7. **Absence of Bureaucracy at FDA Is Shooting Pharma in the Foot (#뉴스)**
+7. **6 Biotechs That Could Be Big Pharma’s Next M&A Target (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/absence-of-bureaucracy-at-fda-is-shooting-pharma-in-the-foot>
+   <https://www.biospace.com/business/6-biotechs-that-could-be-big-pharmas-next-m-a-target>
 
 
 ---
-*2025년 12월 17일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 12월 18일 바이오스페이스 뉴스 피드에서 생성된 리포트*
