@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2025년 12월 23일
+# 바이오스페이스 일일 뉴스 리포트 - 2025년 12월 24일
 
 
 ## 주요 헤드라인
 
-1. **Trump Administration Reaches Pricing Agreements with 9 More Drugmakers (#뉴스)**
+1. **Neurocrine’s Valbenazine Fails Phase III Neurodevelopmental Disorder Trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/trump-administration-reaches-pricing-agreements-with-9-more-drugmakers>
+   <https://www.biospace.com/drug-development/neurocrines-valbenazine-fails-phase-iii-neurodevelopmental-disorder-trial>
 
-2. **Trump Administration Reaches Pricing Agreements with 9 More Drugmakers (#뉴스)**
+2. **Neurocrine’s Valbenazine Fails Phase III Neurodevelopmental Disorder Trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/trump-administration-reaches-pricing-agreements-with-9-more-drugmakers>
+   <https://www.biospace.com/drug-development/neurocrines-valbenazine-fails-phase-iii-neurodevelopmental-disorder-trial>
 
-3. **Radiopharma-Focused Aktis Squeezes in IPO to End Biotech Drought (#뉴스)**
+3. **Investment Banker Accused of Leaking Pharma M&A Secrets in $41M Insider Trading Scheme (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/radiopharma-focused-aktis-squeezes-in-ipo-to-end-biotech-drought>
+   <https://www.biospace.com/business/investment-banker-accused-of-leaking-pharma-m-a-secrets-in-41m-insider-trading-scheme>
 
-4. **Radiopharma-Focused Aktis Squeezes in IPO to End Biotech Drought (#뉴스)**
+4. **Investment Banker Accused of Leaking Pharma M&A Secrets in $41M Insider Trading Scheme (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/radiopharma-focused-aktis-squeezes-in-ipo-to-end-biotech-drought>
+   <https://www.biospace.com/business/investment-banker-accused-of-leaking-pharma-m-a-secrets-in-41m-insider-trading-scheme>
 
-5. **AstraZeneca’s ATR Inhibitor Fails to Improve Survival in Phase III Lung Cancer Trial (#뉴스)**
+5. **Pfizer Reports Patient Death in Long-Term Trial of Hympavzi for Hemophilia A (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/astrazenecas-atr-inhibitor-fails-to-improve-survival-in-phase-iii-lung-cancer-trial>
+   <https://www.biospace.com/drug-development/pfizer-reports-patient-death-in-long-term-trial-of-hympavzi-for-hemophilia-a>
 
-6. **AstraZeneca Finds Another Jewel in China With up to $2B For KRAS Inhibitor (#뉴스)**
+6. **2025 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/astrazeneca-finds-another-jewel-in-china-with-up-to-2b-for-kras-inhibitor>
+   <https://www.biospace.com/business/2025-the-year-trump-pushed-manufacturing-into-the-spotlight>
 
-7. **BioSpace Editors’ Top 5 Biggest News Stories of the Year (#뉴스)**
+7. **ICYMI (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biospace-editors-top-5-biggest-news-stories-of-the-year>
+   <https://www.biospace.com/business/icymi-5-biospace-features-from-2025-that-stand-the-test-of-time>
 
 
 ---
-*2025년 12월 23일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2025년 12월 24일 바이오스페이스 뉴스 피드에서 생성된 리포트*
