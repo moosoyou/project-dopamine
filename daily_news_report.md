@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 01월 02일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 01월 03일
 
 
 ## 주요 헤드라인
 
-1. **Neurocrine’s Valbenazine Fails Phase III Neurodevelopmental Disorder Trial (#뉴스)**
+1. **Big Pharma Dealmakers Joined by Spunky Group of Biotech Buyers in Q4 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/neurocrines-valbenazine-fails-phase-iii-neurodevelopmental-disorder-trial>
+   <https://www.biospace.com/business/big-pharma-dealmakers-joined-by-spunky-group-of-biotech-buyers-in-q4>
 
-2. **Neurocrine’s Valbenazine Fails Phase III Neurodevelopmental Disorder Trial (#뉴스)**
+2. **Big Pharma Dealmakers Joined by Spunky Group of Biotech Buyers in Q4 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/neurocrines-valbenazine-fails-phase-iii-neurodevelopmental-disorder-trial>
+   <https://www.biospace.com/business/big-pharma-dealmakers-joined-by-spunky-group-of-biotech-buyers-in-q4>
 
-3. **Investment Banker Accused of Leaking Pharma M&A Secrets in $41M Insider Trading Scheme (#뉴스)**
+3. **Biohaven Notches Another Psychiatric Failure Months After Key FDA Rejection (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/investment-banker-accused-of-leaking-pharma-m-a-secrets-in-41m-insider-trading-scheme>
+   <https://www.biospace.com/drug-development/biohaven-notches-another-psychiatric-failure-months-after-key-fda-rejection>
 
-4. **Investment Banker Accused of Leaking Pharma M&A Secrets in $41M Insider Trading Scheme (#뉴스)**
+4. **Biohaven Notches Another Psychiatric Failure Months After Key FDA Rejection (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/investment-banker-accused-of-leaking-pharma-m-a-secrets-in-41m-insider-trading-scheme>
+   <https://www.biospace.com/drug-development/biohaven-notches-another-psychiatric-failure-months-after-key-fda-rejection>
 
-5. **Pfizer Reports Patient Death in Long-Term Trial of Hympavzi for Hemophilia A (#뉴스)**
+5. **Ultragenyx Loses $1B in Market Value as Bone Drug Fails To Reduce Fractures (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/pfizer-reports-patient-death-in-long-term-trial-of-hympavzi-for-hemophilia-a>
+   <https://www.biospace.com/drug-development/ultragenyx-loses-1b-in-market-value-as-bone-drug-fails-to-reduce-fractures>
 
-6. **2025 (#뉴스)**
+6. **Pfizer Leads Industry-Wide Surge in Drug Prices for 2026 Despite Political Pressure (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/2025-the-year-trump-pushed-manufacturing-into-the-spotlight>
+   <https://www.biospace.com/business/pfizer-leads-industry-wide-surge-in-drug-prices-for-2026-despite-political-pressure>
 
-7. **ICYMI (#뉴스)**
+7. **Five Biggest Biopharma Takeovers of 2025 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/icymi-5-biospace-features-from-2025-that-stand-the-test-of-time>
+   <https://www.biospace.com/business/five-biggest-biopharma-takeovers-of-2025>
 
 
 ---
-*2026년 01월 02일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 01월 03일 바이오스페이스 뉴스 피드에서 생성된 리포트*
