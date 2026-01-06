@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 01월 06일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 01월 07일
 
 
 ## 주요 헤드라인
 
-1. **Lilly’s Path to $94B in Revenue Rests on Oral Obesity Market and Other 2026 Milestones (#뉴스)**
+1. **Deep Dive (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lillys-path-to-94b-in-revenue-rests-on-oral-obesity-market-and-other-2026-milestones>
+   <https://www.biospace.com/drug-development/deep-dive-huntingtons-at-a-crossroads>
 
-2. **Lilly’s Path to $94B in Revenue Rests on Oral Obesity Market and Other 2026 Milestones (#뉴스)**
+2. **Deep Dive (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lillys-path-to-94b-in-revenue-rests-on-oral-obesity-market-and-other-2026-milestones>
+   <https://www.biospace.com/drug-development/deep-dive-huntingtons-at-a-crossroads>
 
-3. **J&J Stops Mid-stage Eczema Trial as $1.25B Asset Misses Efficacy Mark (#뉴스)**
+3. **Arrowhead Enters Obesity Chat by Doubling Tirzepatide’s Weight Loss in Combo Study (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/j-j-stops-mid-stage-eczema-trial-as-1-25b-asset-misses-efficacy-mark>
+   <https://www.biospace.com/drug-development/arrowhead-enters-obesity-chat-by-doubling-tirzepatides-weight-loss-in-combo-study>
 
-4. **J&J Stops Mid-stage Eczema Trial as $1.25B Asset Misses Efficacy Mark (#뉴스)**
+4. **Arrowhead Enters Obesity Chat by Doubling Tirzepatide’s Weight Loss in Combo Study (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/j-j-stops-mid-stage-eczema-trial-as-1-25b-asset-misses-efficacy-mark>
+   <https://www.biospace.com/drug-development/arrowhead-enters-obesity-chat-by-doubling-tirzepatides-weight-loss-in-combo-study>
 
-5. **Takeda’s Commitment to Trial Representation is Shaping the Future of Clinical Research (#뉴스)**
+5. **Vaccine Investors Keep Their Heads Down as Trump Cuts Shot Schedule (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/takedas-commitment-to-trial-representation-is-shaping-the-future-of-clinical-research>
+   <https://www.biospace.com/policy/vaccine-investors-keep-their-heads-down-as-trump-cuts-shot-schedule>
 
-6. **5 Clinical Readouts to Watch in H1 2026 (#뉴스)**
+6. **Zenas Plummets After Late-Stage Data Fall Short of Amgen in Inflammatory Disease (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/5-clinical-readouts-to-watch-in-h1-2026>
+   <https://www.biospace.com/drug-development/zenas-plummets-after-late-stage-data-fall-short-of-amgen-in-inflammatory-disease>
 
-7. **Big Pharma Dealmakers Joined by Spunky Group of Biotech Buyers in Q4 (#뉴스)**
+7. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/big-pharma-dealmakers-joined-by-spunky-group-of-biotech-buyers-in-q4>
+   <https://www.biospace.com/drug-development/opinion-automated-manufacturing-will-meet-car-t-demand>
 
 
 ---
-*2026년 01월 06일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 01월 07일 바이오스페이스 뉴스 피드에서 생성된 리포트*
