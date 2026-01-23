@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 01월 23일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 01월 24일
 
 
 ## 주요 헤드라인
 
-1. **Lexicon Opens Path to $1B+ Opportunity as FDA Greenlights Phase III for Non-Opioid Pill (#뉴스)**
+1. **Sanofi Stumbles Again in Eczema—But Plans FDA Filing for OX40 Blocker Anyway (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/lexicon-opens-path-to-1b-opportunity-as-fda-greenlights-phase-iii-for-non-opioid-pill>
+   <https://www.biospace.com/drug-development/sanofi-stumbles-again-in-eczema-but-plans-fda-filing-for-ox40-blocker-anyway>
 
-2. **Lexicon Opens Path to $1B+ Opportunity as FDA Greenlights Phase III for Non-Opioid Pill (#뉴스)**
+2. **Sanofi Stumbles Again in Eczema—But Plans FDA Filing for OX40 Blocker Anyway (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/lexicon-opens-path-to-1b-opportunity-as-fda-greenlights-phase-iii-for-non-opioid-pill>
+   <https://www.biospace.com/drug-development/sanofi-stumbles-again-in-eczema-but-plans-fda-filing-for-ox40-blocker-anyway>
 
-3. **‘Almost Like a Religion’ (#뉴스)**
+3. **Spending Bill Clears House, Keeping Priority Review Voucher Hopes Alive (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/almost-like-a-religion-pfizer-ceo-slams-rfk-jr-s-anti-science-vaccine-policies>
+   <https://www.biospace.com/policy/rare-pediatric-disease-vouchers-pbm-reform-up-for-vote-in-house>
 
-4. **From Sound Bites to Signals (#뉴스)**
+4. **Spending Bill Clears House, Keeping Priority Review Voucher Hopes Alive (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/from-sound-bites-to-signals-editors-parse-executive-and-investor-chatter-at-jpm>
+   <https://www.biospace.com/policy/rare-pediatric-disease-vouchers-pbm-reform-up-for-vote-in-house>
 
-5. **JPM26 (#뉴스)**
+5. **Rare Disease Vouchers Caught in Political Abyss. It Didn’t Have To Be This Way (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/jpm26-filling-c-suites-union-square-and-elevators-with-pink>
+   <https://www.biospace.com/policy/rare-disease-vouchers-caught-in-political-abyss-it-didnt-have-to-be-this-way>
 
-6. **JPM26 (#뉴스)**
+6. **Rare Disease Vouchers Caught in Political Abyss. It Didn’t Have To Be This Way (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/jpm26-filling-c-suites-union-square-and-elevators-with-pink>
+   <https://www.biospace.com/policy/rare-disease-vouchers-caught-in-political-abyss-it-didnt-have-to-be-this-way>
 
-7. **JPM26 (#뉴스)**
+7. **China’s Corxel Nabs $287M Series D1 to Bankroll GLP-1 Pill (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/jpm26-kalvistas-hae-win-is-a-tale-of-two-markets>
+   <https://www.biospace.com/business/chinas-corxel-nabs-287m-series-d1-to-bankroll-glp-1-pill>
 
 
 ---
-*2026년 01월 23일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 01월 24일 바이오스페이스 뉴스 피드에서 생성된 리포트*
