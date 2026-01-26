@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 01월 26일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 01월 27일
 
 
 ## 주요 헤드라인
 
-1. **Sanofi Stumbles Again in Eczema—But Plans FDA Filing for OX40 Blocker Anyway (#뉴스)**
+1. **Revolution Knows Its Worth As Merck Backs Off—For Now (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sanofi-stumbles-again-in-eczema-but-plans-fda-filing-for-ox40-blocker-anyway>
+   <https://www.biospace.com/business/revolution-knows-its-worth-as-merck-backs-off-for-now>
 
-2. **Sanofi Stumbles Again in Eczema—But Plans FDA Filing for OX40 Blocker Anyway (#뉴스)**
+2. **Revolution Knows Its Worth As Merck Backs Off—For Now (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sanofi-stumbles-again-in-eczema-but-plans-fda-filing-for-ox40-blocker-anyway>
+   <https://www.biospace.com/business/revolution-knows-its-worth-as-merck-backs-off-for-now>
 
-3. **Spending Bill Clears House, Keeping Priority Review Voucher Hopes Alive (#뉴스)**
+3. **Sarepta’s DMD Gene Therapy Staves Off Disease Three Years After Treatment (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/rare-pediatric-disease-vouchers-pbm-reform-up-for-vote-in-house>
+   <https://www.biospace.com/drug-development/sareptas-dmd-gene-therapy-staves-off-disease-three-years-after-treatment>
 
-4. **Spending Bill Clears House, Keeping Priority Review Voucher Hopes Alive (#뉴스)**
+4. **Sarepta’s DMD Gene Therapy Staves Off Disease Three Years After Treatment (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/rare-pediatric-disease-vouchers-pbm-reform-up-for-vote-in-house>
+   <https://www.biospace.com/drug-development/sareptas-dmd-gene-therapy-staves-off-disease-three-years-after-treatment>
 
-5. **Rare Disease Vouchers Caught in Political Abyss. It Didn’t Have To Be This Way (#뉴스)**
+5. **Corcept’s Ovarian Cancer Drug Hits ‘Robust’ Efficacy in Phase III, Setting Up Challenge to Merck, AbbVie (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/rare-disease-vouchers-caught-in-political-abyss-it-didnt-have-to-be-this-way>
+   <https://www.biospace.com/drug-development/corcepts-ovarian-cancer-drug-hits-robust-efficacy-in-phase-iii-setting-up-challenge-to-merck-abbvie>
 
-6. **Rare Disease Vouchers Caught in Political Abyss. It Didn’t Have To Be This Way (#뉴스)**
+6. **Corcept’s Ovarian Cancer Drug Hits ‘Robust’ Efficacy in Phase III, Setting Up Challenge to Merck, AbbVie (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/rare-disease-vouchers-caught-in-political-abyss-it-didnt-have-to-be-this-way>
+   <https://www.biospace.com/drug-development/corcepts-ovarian-cancer-drug-hits-robust-efficacy-in-phase-iii-setting-up-challenge-to-merck-abbvie>
 
-7. **China’s Corxel Nabs $287M Series D1 to Bankroll GLP-1 Pill (#뉴스)**
+7. **5 Investigational Therapies That Could Change the Parkinson’s Landscape (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/chinas-corxel-nabs-287m-series-d1-to-bankroll-glp-1-pill>
+   <https://www.biospace.com/drug-development/5-investigational-therapies-that-could-change-the-parkinsons-landscape>
 
 
 ---
-*2026년 01월 26일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 01월 27일 바이오스페이스 뉴스 피드에서 생성된 리포트*
