@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 01월 27일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 01월 28일
 
 
 ## 주요 헤드라인
 
-1. **Revolution Knows Its Worth As Merck Backs Off—For Now (#뉴스)**
+1. **Roche’s 22% Weight Loss Benefit Seals GLP-1’s Phase III Plans, Boosts Zealand Combo (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/revolution-knows-its-worth-as-merck-backs-off-for-now>
+   <https://www.biospace.com/drug-development/roches-22-weight-loss-benefit-seals-glp-1s-phase-iii-plans-boosts-zealand-combo>
 
-2. **Revolution Knows Its Worth As Merck Backs Off—For Now (#뉴스)**
+2. **Roche’s 22% Weight Loss Benefit Seals GLP-1’s Phase III Plans, Boosts Zealand Combo (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/revolution-knows-its-worth-as-merck-backs-off-for-now>
+   <https://www.biospace.com/drug-development/roches-22-weight-loss-benefit-seals-glp-1s-phase-iii-plans-boosts-zealand-combo>
 
-3. **Sarepta’s DMD Gene Therapy Staves Off Disease Three Years After Treatment (#뉴스)**
+3. **Baseline Debuts To Challenge GLP-1 Giant Lilly in Alcohol Use Disorder (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sareptas-dmd-gene-therapy-staves-off-disease-three-years-after-treatment>
+   <https://www.biospace.com/business/baseline-debuts-to-challenge-glp-1-giant-lilly-in-alcohol-use-disorder>
 
-4. **Sarepta’s DMD Gene Therapy Staves Off Disease Three Years After Treatment (#뉴스)**
+4. **CytoDyn’s Former CEO Gets Jail Time, $5.3M+ Fine for Securities Fraud (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sareptas-dmd-gene-therapy-staves-off-disease-three-years-after-treatment>
+   <https://www.biospace.com/policy/cytodyns-former-ceo-gets-jail-time-5-3m-fine-for-securities-fraud>
 
-5. **Corcept’s Ovarian Cancer Drug Hits ‘Robust’ Efficacy in Phase III, Setting Up Challenge to Merck, AbbVie (#뉴스)**
+5. **JPM26 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/corcepts-ovarian-cancer-drug-hits-robust-efficacy-in-phase-iii-setting-up-challenge-to-merck-abbvie>
+   <https://www.biospace.com/business/jpm26-biopharma-projected-positivity-in-san-francisco-now-its-time-to-execute>
 
-6. **Corcept’s Ovarian Cancer Drug Hits ‘Robust’ Efficacy in Phase III, Setting Up Challenge to Merck, AbbVie (#뉴스)**
+6. **Big Pharma Tight-Lipped on Details of API Stockpile Deals (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/corcepts-ovarian-cancer-drug-hits-robust-efficacy-in-phase-iii-setting-up-challenge-to-merck-abbvie>
+   <https://www.biospace.com/policy/big-pharma-tight-lipped-on-details-of-api-stockpile-deals>
 
-7. **5 Investigational Therapies That Could Change the Parkinson’s Landscape (#뉴스)**
+7. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/5-investigational-therapies-that-could-change-the-parkinsons-landscape>
+   <https://www.biospace.com/drug-development/opinion-to-accelerate-rare-disease-progress-take-a-sandbox-approach>
 
 
 ---
-*2026년 01월 27일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 01월 28일 바이오스페이스 뉴스 피드에서 생성된 리포트*
