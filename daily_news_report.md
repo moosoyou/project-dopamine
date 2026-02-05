@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 02월 05일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 02월 06일
 
 
 ## 주요 헤드라인
 
-1. **Lilly Eyes Pipeline in a Product as GLP-1s Move Into I&I (#뉴스)**
+1. **TrumpRx Website Set To Launch Thursday Evening After Delay (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/lilly-eyes-pipeline-in-a-product-as-glp-1s-move-into-i-i>
+   <https://www.biospace.com/policy/trumprx-website-set-to-launch-thursday-evening-after-delay>
 
-2. **Lilly Eyes Pipeline in a Product as GLP-1s Move Into I&I (#뉴스)**
+2. **TrumpRx Website Set To Launch Thursday Evening After Delay (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/lilly-eyes-pipeline-in-a-product-as-glp-1s-move-into-i-i>
+   <https://www.biospace.com/policy/trumprx-website-set-to-launch-thursday-evening-after-delay>
 
-3. **AbbVie’s I&I Portfolio Sells $30 Billion but Execs Again Underline Other Areas (#뉴스)**
+3. **Novo Will Never Beat Lilly. Why Does It Have To? (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/abbvies-i-i-portfolio-sells-30-billion-but-execs-again-underline-other-areas>
+   <https://www.biospace.com/business/novo-will-never-beat-lilly-why-does-it-have-to>
 
-4. **Novo Goes ‘All In’ on Wegovy Pill but Analysts Worry It’s Not Enough (#뉴스)**
+4. **Novo Will Never Beat Lilly. Why Does It Have To? (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-goes-all-in-on-wegovy-pill-but-analysts-worry-its-not-enough>
+   <https://www.biospace.com/business/novo-will-never-beat-lilly-why-does-it-have-to>
 
-5. **Amgen Wants MariTide To Change Obesity Paradigm With Longer Dosing Periods (#뉴스)**
+5. **BMS Beats Again Despite Eliquis and Cobenfy Disappointments (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/amgen-wants-maritide-to-change-obesity-paradigm-with-longer-dosing-periods>
+   <https://www.biospace.com/business/bms-beats-again-despite-eliquis-and-cobenfy-disappointments>
 
-6. **Pfizer’s Early Metsera Data Leaves Analysts Wanting More (#뉴스)**
+6. **BMS Beats Again Despite Eliquis and Cobenfy Disappointments (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizers-early-metsera-data-leaves-analysts-wanting-more>
+   <https://www.biospace.com/business/bms-beats-again-despite-eliquis-and-cobenfy-disappointments>
 
-7. **Pfizer’s Early Metsera Data Leaves Analysts Wanting More (#뉴스)**
+7. **IPO Tracker 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizers-early-metsera-data-leaves-analysts-wanting-more>
+   <https://www.biospace.com/business/ipo-tracker-2026-eikon-clocks-largest-ipo-since-2024-generate-follows-as-ipo-tap-opens>
 
 
 ---
-*2026년 02월 05일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 02월 06일 바이오스페이스 뉴스 피드에서 생성된 리포트*
