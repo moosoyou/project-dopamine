@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 02월 11일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 02월 12일
 
 
 ## 주요 헤드라인
 
-1. **Evommune Soars as Dermatitis Treatment Rivals Dupixent in Mid-Stage Trial (#뉴스)**
+1. **In Vivo Is Having a Moment as Cell and Gene Therapy Sector Gathers in San Diego (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/evommune-soars-as-dermatitis-treatment-rivals-dupixent-in-mid-stage-trial>
+   <https://www.biospace.com/drug-development/in-vivo-is-having-a-moment-as-cell-and-gene-therapy-sector-gathers-in-san-diego>
 
-2. **Evommune Soars as Dermatitis Treatment Rivals Dupixent in Mid-Stage Trial (#뉴스)**
+2. **In Vivo Is Having a Moment as Cell and Gene Therapy Sector Gathers in San Diego (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/evommune-soars-as-dermatitis-treatment-rivals-dupixent-in-mid-stage-trial>
+   <https://www.biospace.com/drug-development/in-vivo-is-having-a-moment-as-cell-and-gene-therapy-sector-gathers-in-san-diego>
 
-3. **Kailera, Hengrui Push Oral GLP-1/GIP Pill to Phase 3 After Clearing Mid-Stage China Study (#뉴스)**
+3. **PharmaEssentia Shores up Supply with $46M Investment in Puerto Rico Plant (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/kailera-hengrui-push-oral-glp-1-gip-pill-to-phase-3-after-clearing-mid-stage-china-study>
+   <https://www.biospace.com/business/pharmaessentia-shores-up-supply-with-46m-investment-in-puerto-rico-plant>
 
-4. **Kailera, Hengrui Push Oral GLP-1/GIP Pill to Phase 3 After Clearing Mid-Stage China Study (#뉴스)**
+4. **Gilead To Stay ‘Proactive And Disciplined’ With Deals But M&A Not Urgent Priority (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/kailera-hengrui-push-oral-glp-1-gip-pill-to-phase-3-after-clearing-mid-stage-china-study>
+   <https://www.biospace.com/business/gilead-to-stay-proactive-and-disciplined-with-deals-but-m-a-not-urgent-priority>
 
-5. **AstraZeneca Teases ‘Very Competitive’ Weight-Loss Pill—But Stays Mum on Details (#뉴스)**
+5. **Nektar’s Rezpeg Differentiates in Atopic Dermatitis With Durable, Deep Responses in Mid-Stage (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/astrazeneca-teases-very-competitive-weight-loss-pill-but-stays-mum-on-details>
+   <https://www.biospace.com/drug-development/nektars-rezpeg-differentiates-in-atopic-dermatitis-with-durable-deep-responses-in-mid-stage>
 
-6. **HER2’s Digital Rebirth Is Unlocking the Full Potential of ADCs (#뉴스)**
+6. **‘We’re Scientists’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/her2s-digital-rebirth-is-unlocking-the-full-potential-of-adcs>
+   <https://www.biospace.com/business/were-scientists-pelage-takes-hair-loss-beyond-lotions-and-potions>
 
-7. **Facing Talent Crunch, Radiopharma Field Casts a Wide Net (#뉴스)**
+7. **‘We’re Scientists’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/facing-talent-crunch-radiopharma-field-casts-a-wide-net>
+   <https://www.biospace.com/business/were-scientists-pelage-takes-hair-loss-beyond-lotions-and-potions>
 
 
 ---
-*2026년 02월 11일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 02월 12일 바이오스페이스 뉴스 피드에서 생성된 리포트*
