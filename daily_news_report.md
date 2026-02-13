@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 02월 13일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 02월 14일
 
 
 ## 주요 헤드라인
 
-1. **Flu Vaccine Rejection Imperils Moderna’s Breakeven Plans (#뉴스)**
+1. **Moderna’s FDA Challenges Stymie Breakeven Goal in ‘Fresh and Fluid’ Situation (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/flu-vaccine-rejection-imperils-modernas-breakeven-plans>
+   <https://www.biospace.com/business/modernas-fda-challenges-stymie-breakeven-goal-in-fresh-and-fluid-situation>
 
-2. **Flu Vaccine Rejection Imperils Moderna’s Breakeven Plans (#뉴스)**
+2. **Moderna’s FDA Challenges Stymie Breakeven Goal in ‘Fresh and Fluid’ Situation (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/flu-vaccine-rejection-imperils-modernas-breakeven-plans>
+   <https://www.biospace.com/business/modernas-fda-challenges-stymie-breakeven-goal-in-fresh-and-fluid-situation>
 
-3. **‘Highly Impressive’ Data Propels BridgeBio’s Achondroplasia Drug Forward (#뉴스)**
+3. **Vertex, CRISPR Set Lofty Goal for Casgevy Gene Therapy as Patient Starts Ramp (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/highly-impressive-data-propels-bridgebios-achondroplasia-drug-forward>
+   <https://www.biospace.com/business/vertex-crispr-set-lofty-goal-for-casgevy-gene-therapy-as-patient-starts-ramp>
 
-4. **Sanofi Shares Decline as Paul Hudson Removed as CEO, Making Way For Merck KGaA’s Belén Garijo (#뉴스)**
+4. **Vertex, CRISPR Set Lofty Goal for Casgevy Gene Therapy as Patient Starts Ramp (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sanofi-shares-decline-as-paul-hudson-removed-as-ceo-making-way-for-merck-kgaas-belen-garijo>
+   <https://www.biospace.com/business/vertex-crispr-set-lofty-goal-for-casgevy-gene-therapy-as-patient-starts-ramp>
 
-5. **HHS Backs Prasad Amid Moderna Flu Shot Blowback (#뉴스)**
+5. **Lilly Prepares $1B+ Orforglipron Stock Ahead of Approval as Novo Brings Wegovy Pill Overseas (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/hhs-backs-prasad-amid-moderna-flu-shot-blowback>
+   <https://www.biospace.com/business/lilly-prepares-1b-orforglipron-stock-ahead-of-approval-as-novo-brings-wegovy-pill-overseas>
 
-6. **Digital Pathology, AI and the Future of ADCs and HER2 Cancer Treatment (#뉴스)**
+6. **Lilly Prepares $1B+ Orforglipron Stock Ahead of Approval as Novo Brings Wegovy Pill Overseas (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/digital-pathology-ai-and-the-future-of-adcs-and-her2-cancer-treatment>
+   <https://www.biospace.com/business/lilly-prepares-1b-orforglipron-stock-ahead-of-approval-as-novo-brings-wegovy-pill-overseas>
 
-7. **BioMarin Bet on Amicus To Ease Voxzogo’s Decline. Will It Work? (#뉴스)**
+7. **All Eyes on Vertex’s Kidney Franchise, as Painkiller Journavx Tops Half a Million Scripts (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biomarin-bet-on-amicus-to-ease-voxzogos-decline-will-it-work>
+   <https://www.biospace.com/business/all-eyes-on-vertexs-kidney-franchise-as-painkiller-journavx-tops-half-a-million-scripts>
 
 
 ---
-*2026년 02월 13일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 02월 14일 바이오스페이스 뉴스 피드에서 생성된 리포트*
