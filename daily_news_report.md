@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 02월 16일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 02월 17일
 
 
 ## 주요 헤드라인
 
-1. **Moderna’s FDA Challenges Stymie Breakeven Goal in ‘Fresh and Fluid’ Situation (#뉴스)**
+1. **Moderna’s mRNA Tech Could Boost Flu Shot Efficacy. Americans Will Have To Wait (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/modernas-fda-challenges-stymie-breakeven-goal-in-fresh-and-fluid-situation>
+   <https://www.biospace.com/drug-development/modernas-mrna-tech-could-boost-flu-shot-efficacy-americans-will-have-to-wait>
 
-2. **Moderna’s FDA Challenges Stymie Breakeven Goal in ‘Fresh and Fluid’ Situation (#뉴스)**
+2. **Moderna’s mRNA Tech Could Boost Flu Shot Efficacy. Americans Will Have To Wait (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/modernas-fda-challenges-stymie-breakeven-goal-in-fresh-and-fluid-situation>
+   <https://www.biospace.com/drug-development/modernas-mrna-tech-could-boost-flu-shot-efficacy-americans-will-have-to-wait>
 
-3. **Vertex, CRISPR Set Lofty Goal for Casgevy Gene Therapy as Patient Starts Ramp (#뉴스)**
+3. **CDC Left Leaderless Again After Acting Director Departs HHS (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/vertex-crispr-set-lofty-goal-for-casgevy-gene-therapy-as-patient-starts-ramp>
+   <https://www.biospace.com/policy/cdc-left-leaderless-again-after-acting-director-departs-hhs>
 
-4. **Vertex, CRISPR Set Lofty Goal for Casgevy Gene Therapy as Patient Starts Ramp (#뉴스)**
+4. **CDC Left Leaderless Again After Acting Director Departs HHS (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/vertex-crispr-set-lofty-goal-for-casgevy-gene-therapy-as-patient-starts-ramp>
+   <https://www.biospace.com/policy/cdc-left-leaderless-again-after-acting-director-departs-hhs>
 
-5. **Lilly Prepares $1B+ Orforglipron Stock Ahead of Approval as Novo Brings Wegovy Pill Overseas (#뉴스)**
+5. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-prepares-1b-orforglipron-stock-ahead-of-approval-as-novo-brings-wegovy-pill-overseas>
+   <https://www.biospace.com/business/opinion-2026-could-mark-a-turning-point-for-american-innovation>
 
-6. **Lilly Prepares $1B+ Orforglipron Stock Ahead of Approval as Novo Brings Wegovy Pill Overseas (#뉴스)**
+6. **BioMarin Bet on Amicus To Ease Voxzogo’s Decline. Will It Work? (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-prepares-1b-orforglipron-stock-ahead-of-approval-as-novo-brings-wegovy-pill-overseas>
+   <https://www.biospace.com/business/biomarin-bet-on-amicus-to-ease-voxzogos-decline-will-it-work>
 
-7. **All Eyes on Vertex’s Kidney Franchise, as Painkiller Journavx Tops Half a Million Scripts (#뉴스)**
+7. **BioMarin Bet on Amicus To Ease Voxzogo’s Decline. Will It Work? (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/all-eyes-on-vertexs-kidney-franchise-as-painkiller-journavx-tops-half-a-million-scripts>
+   <https://www.biospace.com/business/biomarin-bet-on-amicus-to-ease-voxzogos-decline-will-it-work>
 
 
 ---
-*2026년 02월 16일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 02월 17일 바이오스페이스 뉴스 피드에서 생성된 리포트*
