@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 02월 24일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 02월 25일
 
 
 ## 주요 헤드라인
 
-1. **Merck Reorganizes Human Health Work Into Two New Units (#뉴스)**
+1. **Roche Seeks Antibiotic Partner as Rising Manufacturing Costs Drive Supply Rethink (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/merck-reorganizes-human-health-work-into-two-new-units>
+   <https://www.biospace.com/business/roche-seeks-antibiotic-partner-as-rising-manufacturing-costs-drive-supply-rethink>
 
-2. **Merck Reorganizes Human Health Work Into Two New Units (#뉴스)**
+2. **Roche Seeks Antibiotic Partner as Rising Manufacturing Costs Drive Supply Rethink (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/merck-reorganizes-human-health-work-into-two-new-units>
+   <https://www.biospace.com/business/roche-seeks-antibiotic-partner-as-rising-manufacturing-costs-drive-supply-rethink>
 
-3. **Kennedy Ally Departs CDC Amid Leadership Shake-Up (#뉴스)**
+3. **Novo Returns to Pre-Wegovy Valuation as Lilly Makes History as First Ever $1T Pharma (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/kennedy-ally-departs-cdc-amid-leadership-shake-up>
+   <https://www.biospace.com/business/novo-returns-to-pre-wegovy-valuation-as-lilly-makes-history-as-first-ever-1t-pharma>
 
-4. **Kennedy Ally Departs CDC Amid Leadership Shake-Up (#뉴스)**
+4. **Novo Returns to Pre-Wegovy Valuation as Lilly Makes History as First Ever $1T Pharma (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/kennedy-ally-departs-cdc-amid-leadership-shake-up>
+   <https://www.biospace.com/business/novo-returns-to-pre-wegovy-valuation-as-lilly-makes-history-as-first-ever-1t-pharma>
 
-5. **REGENXBIO Secures Legal Win in Gene Therapy Patent Battle Vs. Sarepta (#뉴스)**
+5. **Gossamer Nosedives as Late-Stage Failure Plunges PAH Program Into Uncertainty (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/regenxbio-secures-legal-win-in-gene-therapy-patent-battle-vs-sarepta>
+   <https://www.biospace.com/drug-development/gossamer-nosedives-as-late-stage-failure-plunges-pah-program-into-uncertainty>
 
-6. **Novo’s CagriSema Falls to Lilly’s Zepbound in Daring Head-to-Head Test (#뉴스)**
+6. **Corsera Eyes Two-Pronged Approach To Tackle Leading Cardiovascular Killer (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/novos-cagrisema-falls-to-lillys-zepbound-in-daring-head-to-head-test>
+   <https://www.biospace.com/business/corsera-eyes-two-pronged-approach-to-tackle-leading-cardiovascular-killer>
 
-7. **Sickle Cell Gene Therapies Casgevy and Lyfgenia Still Lacking Traction 2 Years In (#뉴스)**
+7. **Corsera Eyes Two-Pronged Approach To Tackle Leading Cardiovascular Killer (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sickle-cell-gene-therapies-casgevy-and-lyfgenia-still-lacking-traction-2-years-in>
+   <https://www.biospace.com/business/corsera-eyes-two-pronged-approach-to-tackle-leading-cardiovascular-killer>
 
 
 ---
-*2026년 02월 24일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 02월 25일 바이오스페이스 뉴스 피드에서 생성된 리포트*
