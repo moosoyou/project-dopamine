@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 02월 26일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 02월 27일
 
 
 ## 주요 헤드라인
 
-1. **Novo Leans Into Oral Route With Weight Loss Partnership Worth up to $2.1B (#뉴스)**
+1. **After Sarepta’s Annus Horribilis, Elevidys Sales Expected To Continue Downward Spiral (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-leans-into-oral-route-with-weight-loss-partnership-worth-up-to-2-1b>
+   <https://www.biospace.com/business/after-sareptas-annus-horribilis-elevidys-sales-expected-to-continue-downward-spiral>
 
-2. **Novo Leans Into Oral Route With Weight Loss Partnership Worth up to $2.1B (#뉴스)**
+2. **After Sarepta’s Annus Horribilis, Elevidys Sales Expected To Continue Downward Spiral (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novo-leans-into-oral-route-with-weight-loss-partnership-worth-up-to-2-1b>
+   <https://www.biospace.com/business/after-sareptas-annus-horribilis-elevidys-sales-expected-to-continue-downward-spiral>
 
-3. **Trump Calls on Congress To Codify Most Favored Nation Drug Pricing in SOTU (#뉴스)**
+3. **ALS Advances Unite Patients and Pharma on Novel Targets, Biomarker Breakthroughs (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/trump-calls-on-congress-to-codify-most-favored-nation-drug-pricing-in-sotu>
+   <https://www.biospace.com/drug-development/als-advances-unite-patients-and-pharma-on-novel-targets-biomarker-breakthroughs>
 
-4. **Trump Calls on Congress To Codify Most Favored Nation Drug Pricing in SOTU (#뉴스)**
+4. **Lilly Tops Novo in Weight Loss Again, This Time on the Oral Front (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/trump-calls-on-congress-to-codify-most-favored-nation-drug-pricing-in-sotu>
+   <https://www.biospace.com/drug-development/lilly-tops-novo-in-weight-loss-again-this-time-on-the-oral-front>
 
-5. **Postponed ACIP Meeting Rescheduled for Mid-March (#뉴스)**
+5. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/acip-meeting-delayed-as-turbulence-rocks-cdc-us-vaccine-policy>
+   <https://www.biospace.com/drug-development/opinion-new-painkillers-critical-to-fight-opioid-epidemic-broader-pain-crisis>
 
-6. **Harbour Cofunds Cancer Startup, Hands Off Clinical-Stage Antibody (#뉴스)**
+6. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/harbour-co-founds-cancer-startup-hands-off-clinical-stage-antibody>
+   <https://www.biospace.com/drug-development/opinion-new-painkillers-critical-to-fight-opioid-epidemic-broader-pain-crisis>
 
-7. **Patient Death Forces Partial Freeze on MacroGenics’ Gynecologic Cancer Study (#뉴스)**
+7. **Sarepta CEO Doug Ingram To Step Down as Muscular Dystrophy Mission Hits Home (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/patient-death-forces-partial-freeze-on-macrogenics-gynecologic-cancer-study>
+   <https://www.biospace.com/business/sarepta-ceo-doug-ingram-to-step-down-as-muscular-dystrophy-mission-hits-home>
 
 
 ---
-*2026년 02월 26일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 02월 27일 바이오스페이스 뉴스 피드에서 생성된 리포트*
