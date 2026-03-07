@@ -1,4 +1,4 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 03월 07일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 03월 08일
 
 
 ## 주요 헤드라인
@@ -15,9 +15,9 @@
    - Article content not available
    <https://www.biospace.com/drug-development/roche-zealands-amylin-weight-loss-drug-fails-to-clear-lillys-bar>
 
-4. **Roche, Zealand’s Amylin Weight Loss Drug Fails To Clear Lilly’s Bar (#뉴스)**
+4. **Psychedelics Are Placeholders for More Traditional Depression Therapies (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/roche-zealands-amylin-weight-loss-drug-fails-to-clear-lillys-bar>
+   <https://www.biospace.com/drug-development/psychedelics-are-placeholders-for-more-traditional-depression-therapies-analysts>
 
 5. **Psychedelics Are Placeholders for More Traditional Depression Therapies (#뉴스)**
    - Article content not available
@@ -33,4 +33,4 @@
 
 
 ---
-*2026년 03월 07일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 03월 08일 바이오스페이스 뉴스 피드에서 생성된 리포트*
