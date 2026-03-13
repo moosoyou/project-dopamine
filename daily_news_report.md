@@ -1,31 +1,31 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 03월 13일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 03월 14일
 
 
 ## 주요 헤드라인
 
-1. **Novo Holdings’ Assets Fell 34% in 2025 As Its Namesake Drugmaker Struggled (#뉴스)**
+1. **Biotechs Report Regulatory Headaches, High-Stakes Catalysts During Q4 Earnings (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/biotechs-report-regulatory-headaches-high-stakes-catalysts-during-q4-earnings>
+
+2. **Biotechs Report Regulatory Headaches, High-Stakes Catalysts During Q4 Earnings (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/biotechs-report-regulatory-headaches-high-stakes-catalysts-during-q4-earnings>
+
+3. **Solid Adds to Differentiated Profile With New Data for Duchenne Gene Therapy (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/drug-development/solid-adds-to-differentiated-profile-with-new-data-for-duchenne-gene-therapy>
+
+4. **Solid Adds to Differentiated Profile With New Data for Duchenne Gene Therapy (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/drug-development/solid-adds-to-differentiated-profile-with-new-data-for-duchenne-gene-therapy>
+
+5. **Rare Disease Sales To Soar to $400B+ By 2032 as Small Molecules Resurgent (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/rare-disease-sales-to-soar-to-400b-by-2032-as-small-molecules-resurgent-evaluate>
+
+6. **Novo Holdings’ Assets Fell 34% in 2025 As Its Namesake Drugmaker Struggled (#뉴스)**
    - Article content not available
    <https://www.biospace.com/business/novo-holdings-assets-fell-34-in-2025-as-its-namesake-drugmaker-struggled>
-
-2. **Novo Holdings’ Assets Fell 34% in 2025 As Its Namesake Drugmaker Struggled (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/novo-holdings-assets-fell-34-in-2025-as-its-namesake-drugmaker-struggled>
-
-3. **Lilly Flags ‘Concerning’ Impurities in Compounded Tirzepatide (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/lilly-flags-concerning-impurities-in-compounded-tirzepatide>
-
-4. **BridgeBio Builds Case for Early 2027 Launch of Dystrophy Drug (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/drug-development/bridgebio-builds-case-for-early-2027-launch-of-dystrophy-drug>
-
-5. **MDA 2026 (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/drug-development/mda-2026-biogen-sarepta-edgewise-address-muscle-disorders>
-
-6. **J&J, AbbVie CEOs See Pay Spike to More Than $30M (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/j-j-abbvie-ceos-see-pay-spike-to-more-than-30m>
 
 7. **Pharma Is Ravenous for M&A Action but Late-Stage Supply Dwindles (#뉴스)**
    - Article content not available
@@ -33,4 +33,4 @@
 
 
 ---
-*2026년 03월 13일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 03월 14일 바이오스페이스 뉴스 피드에서 생성된 리포트*
