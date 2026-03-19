@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 03월 19일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 03월 20일
 
 
 ## 주요 헤드라인
 
-1. **TerraPower Commits $450M to Build Radioisotope Production Plant (#뉴스)**
+1. **AstraZeneca Building Shanghai Production Plant to Support Cell Therapy Strategy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/terrapower-commits-450m-to-build-radioisotope-production-plant>
+   <https://www.biospace.com/business/astrazeneca-building-shanghai-production-plant-to-support-cell-therapy-strategy>
 
-2. **TerraPower Commits $450M to Build Radioisotope Production Plant (#뉴스)**
+2. **AstraZeneca Building Shanghai Production Plant to Support Cell Therapy Strategy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/terrapower-commits-450m-to-build-radioisotope-production-plant>
+   <https://www.biospace.com/business/astrazeneca-building-shanghai-production-plant-to-support-cell-therapy-strategy>
 
-3. **Protagonist’s First Approval Spells Trouble for Pharma’s Immunology Heavyweights (#뉴스)**
+3. **Sarepta Plans FDA Run for Duchenne Exon Skippers Despite Confirmatory Trial Failure (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/protagonists-first-approval-spells-trouble-for-pharmas-immunology-heavyweights>
+   <https://www.biospace.com/drug-development/sarepta-plans-fda-run-for-duchenne-exon-skippers-despite-confirmatory-trial-failure>
 
-4. **Protagonist’s First Approval Spells Trouble for Pharma’s Immunology Heavyweights (#뉴스)**
+4. **Sarepta Plans FDA Run for Duchenne Exon Skippers Despite Confirmatory Trial Failure (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/protagonists-first-approval-spells-trouble-for-pharmas-immunology-heavyweights>
+   <https://www.biospace.com/drug-development/sarepta-plans-fda-run-for-duchenne-exon-skippers-despite-confirmatory-trial-failure>
 
-5. **Lilly-Backed China Startup Debuts With $68.7M Seed to Advance Next-Gen T Cell Engagers (#뉴스)**
+5. **Lilly Builds Differentiated Profile for Triple-G Agonist With Late-Stage Diabetes Data (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-backed-china-startup-debuts-with-68-7m-seed-to-advance-next-gen-t-cell-engagers>
+   <https://www.biospace.com/drug-development/lilly-builds-differentiated-profile-for-triple-g-agonist-with-late-stage-diabetes-data>
 
-6. **R1 Leads Busy Fundraising Day With $77.5M Series A Raise for Kidney Disease (#뉴스)**
+6. **Gossamer Nearly Halves Workforce in Savings Push After Late-Stage Hypertension Fail (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/r1-leads-busy-fundraising-day-with-77-5m-series-a-raise-for-kidney-disease>
+   <https://www.biospace.com/business/gossamer-nearly-halves-workforce-in-savings-push-after-late-stage-hypertension-fail>
 
-7. **J&J Reigns as Top Pharma by Revenue While Lilly Leapfrogs on Strong Obesity Sales (#뉴스)**
+7. **Revolution, Ascendis Named Top Buyout Targets as Industry Awaits The Big One (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/j-j-reigns-as-top-pharma-by-revenue-while-lilly-leapfrogs-on-strong-obesity-sales>
+   <https://www.biospace.com/business/as-analysts-await-pharma-on-pharma-megadeals-biotechs-offer-attractive-alternatives-for-the-cautious>
 
 
 ---
-*2026년 03월 19일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 03월 20일 바이오스페이스 뉴스 피드에서 생성된 리포트*
