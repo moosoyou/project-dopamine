@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 03월 20일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 03월 21일
 
 
 ## 주요 헤드라인
 
-1. **AstraZeneca Building Shanghai Production Plant to Support Cell Therapy Strategy (#뉴스)**
+1. **HHS Denies Disbandment of CDC Vaccine Advisory Group in Wake of Court Ruling (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/astrazeneca-building-shanghai-production-plant-to-support-cell-therapy-strategy>
+   <https://www.biospace.com/policy/hhs-denies-disbandment-of-cdc-vaccine-advisory-group-in-wake-of-court-ruling>
 
-2. **AstraZeneca Building Shanghai Production Plant to Support Cell Therapy Strategy (#뉴스)**
+2. **HHS Denies Disbandment of CDC Vaccine Advisory Group in Wake of Court Ruling (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/astrazeneca-building-shanghai-production-plant-to-support-cell-therapy-strategy>
+   <https://www.biospace.com/policy/hhs-denies-disbandment-of-cdc-vaccine-advisory-group-in-wake-of-court-ruling>
 
-3. **Sarepta Plans FDA Run for Duchenne Exon Skippers Despite Confirmatory Trial Failure (#뉴스)**
+3. **Biopharma Could Provide a Haven for Investment as Middle East Conflict Roils Global Markets (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sarepta-plans-fda-run-for-duchenne-exon-skippers-despite-confirmatory-trial-failure>
+   <https://www.biospace.com/business/biopharma-could-provide-a-haven-for-investment-as-middle-east-conflict-roils-global-markets>
 
-4. **Sarepta Plans FDA Run for Duchenne Exon Skippers Despite Confirmatory Trial Failure (#뉴스)**
+4. **Biopharma Could Provide a Haven for Investment as Middle East Conflict Roils Global Markets (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sarepta-plans-fda-run-for-duchenne-exon-skippers-despite-confirmatory-trial-failure>
+   <https://www.biospace.com/business/biopharma-could-provide-a-haven-for-investment-as-middle-east-conflict-roils-global-markets>
 
-5. **Lilly Builds Differentiated Profile for Triple-G Agonist With Late-Stage Diabetes Data (#뉴스)**
+5. **Roche Ends Run for Muscular Atrophy Drug, Leaving Door Open for Competitors (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/lilly-builds-differentiated-profile-for-triple-g-agonist-with-late-stage-diabetes-data>
+   <https://www.biospace.com/drug-development/roche-ends-run-for-muscular-atrophy-drug-leaving-door-open-for-competitors>
 
-6. **Gossamer Nearly Halves Workforce in Savings Push After Late-Stage Hypertension Fail (#뉴스)**
+6. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/gossamer-nearly-halves-workforce-in-savings-push-after-late-stage-hypertension-fail>
+   <https://www.biospace.com/drug-development/opinion-the-barrier-to-als-precision-drugs-isnt-science-its-the-valley-of-death>
 
-7. **Revolution, Ascendis Named Top Buyout Targets as Industry Awaits The Big One (#뉴스)**
+7. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/as-analysts-await-pharma-on-pharma-megadeals-biotechs-offer-attractive-alternatives-for-the-cautious>
+   <https://www.biospace.com/drug-development/opinion-the-barrier-to-als-precision-drugs-isnt-science-its-the-valley-of-death>
 
 
 ---
-*2026년 03월 20일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 03월 21일 바이오스페이스 뉴스 피드에서 생성된 리포트*
