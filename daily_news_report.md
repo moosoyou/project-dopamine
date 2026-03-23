@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 03월 23일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 03월 24일
 
 
 ## 주요 헤드라인
 
-1. **HHS Denies Disbandment of CDC Vaccine Advisory Group in Wake of Court Ruling (#뉴스)**
+1. **Tang Seizes Control of Aurinia, Taking CEO Post in Total Transformation of C-Suite (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/hhs-denies-disbandment-of-cdc-vaccine-advisory-group-in-wake-of-court-ruling>
+   <https://www.biospace.com/business/tang-seizes-control-of-aurinia-taking-ceo-post-in-total-transformation-of-c-suite>
 
-2. **HHS Denies Disbandment of CDC Vaccine Advisory Group in Wake of Court Ruling (#뉴스)**
+2. **Tang Seizes Control of Aurinia, Taking CEO Post in Total Transformation of C-Suite (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/hhs-denies-disbandment-of-cdc-vaccine-advisory-group-in-wake-of-court-ruling>
+   <https://www.biospace.com/business/tang-seizes-control-of-aurinia-taking-ceo-post-in-total-transformation-of-c-suite>
 
-3. **Biopharma Could Provide a Haven for Investment as Middle East Conflict Roils Global Markets (#뉴스)**
+3. **Pfizer ‘Confident’ in Valneva-Partnered Lyme Vaccine Despite Missed Primary Endpoint (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biopharma-could-provide-a-haven-for-investment-as-middle-east-conflict-roils-global-markets>
+   <https://www.biospace.com/drug-development/pfizer-confident-in-valneva-partnered-lyme-vaccine-despite-missed-primary-endpoint>
 
-4. **Biopharma Could Provide a Haven for Investment as Middle East Conflict Roils Global Markets (#뉴스)**
+4. **Pfizer ‘Confident’ in Valneva-Partnered Lyme Vaccine Despite Missed Primary Endpoint (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biopharma-could-provide-a-haven-for-investment-as-middle-east-conflict-roils-global-markets>
+   <https://www.biospace.com/drug-development/pfizer-confident-in-valneva-partnered-lyme-vaccine-despite-missed-primary-endpoint>
 
-5. **Roche Ends Run for Muscular Atrophy Drug, Leaving Door Open for Competitors (#뉴스)**
+5. **Backed by Sanofi, Pfizer, Earendil Bags $787M for AI-Driven Biologics Design (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/roche-ends-run-for-muscular-atrophy-drug-leaving-door-open-for-competitors>
+   <https://www.biospace.com/business/backed-by-sanofi-pfizer-earendil-bags-787m-for-ai-driven-biologics-design>
 
-6. **Opinion (#뉴스)**
+6. **Oryon Splashes Onto Parkinson’s Scene With $42M for Cell Therapy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/opinion-the-barrier-to-als-precision-drugs-isnt-science-its-the-valley-of-death>
+   <https://www.biospace.com/business/oryon-splashes-onto-parkinsons-scene-with-42m-for-cell-therapy>
 
-7. **Opinion (#뉴스)**
+7. **Validated Mechanisms, Strong Data Beat Hype in Longevity Investing (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/opinion-the-barrier-to-als-precision-drugs-isnt-science-its-the-valley-of-death>
+   <https://www.biospace.com/drug-development/validated-mechanisms-strong-data-beat-hype-in-longevity-investing>
 
 
 ---
-*2026년 03월 23일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 03월 24일 바이오스페이스 뉴스 피드에서 생성된 리포트*
