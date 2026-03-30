@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 03월 30일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 03월 31일
 
 
 ## 주요 헤드라인
 
-1. **After Speaking out of Turn, Malone Steps Down From Vaccine Committee (#뉴스)**
+1. **After Missing Kezar Buyout in 2024, Tang Returns as CEO of Aurinia With $50M Offer (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/after-speaking-out-of-turn-malone-steps-down-from-vaccine-committee>
+   <https://www.biospace.com/business/after-missing-kezar-buyout-in-2024-tang-returns-as-ceo-of-aurinia-with-50m-offer>
 
-2. **After Speaking out of Turn, Malone Steps Down From Vaccine Committee (#뉴스)**
+2. **After Missing Kezar Buyout in 2024, Tang Returns as CEO of Aurinia With $50M Offer (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/after-speaking-out-of-turn-malone-steps-down-from-vaccine-committee>
+   <https://www.biospace.com/business/after-missing-kezar-buyout-in-2024-tang-returns-as-ceo-of-aurinia-with-50m-offer>
 
-3. **Eisai, Alzheon Drill Down on Promising Results in High-Risk Alzheimer’s Subset (#뉴스)**
+3. **IPO Tracker 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/eisai-alzheon-drill-down-on-promising-results-in-high-risk-alzheimers-subset>
+   <https://www.biospace.com/business/ipo-tracker-2026-eikon-clocks-largest-ipo-since-2024-generate-follows-as-ipo-tap-opens>
 
-4. **Wave Stock Cut in Half on Underwhelming Higher Dose Obesity Data (#뉴스)**
+4. **IPO Tracker 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/wave-stock-cut-in-half-on-underwhelming-higher-dose-obesity-data>
+   <https://www.biospace.com/business/ipo-tracker-2026-eikon-clocks-largest-ipo-since-2024-generate-follows-as-ipo-tap-opens>
 
-5. **Beam’s Base Editor Advances to Pivotal Development on Back of ‘Impressive’ AATD Data (#뉴스)**
+5. **Kardigan Blood Pressure Drug Proves Hypothesis Despite Split Phase 2 Readout (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/beams-base-editor-advances-to-pivotal-development-on-back-of-impressive-aatd-data>
+   <https://www.biospace.com/drug-development/kardigan-blood-pressure-drug-proves-hypothesis-despite-split-phase-2-readout>
 
-6. **Pharma R&D Spend Drops 3.6% as Pipeline Prioritizations Take Shape (#뉴스)**
+6. **Biogen’s Lupus Drug Reduces Disease Activity, Further Deresking I&I Pipeline (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pharma-r-d-spend-drops-3-6-as-pipeline-prioritizations-take-shape>
+   <https://www.biospace.com/drug-development/biogens-lupus-drug-reduces-disease-activity-further-de-risking-i-i-pipeline>
 
-7. **Pharma R&D Spend Drops 3.6% as Pipeline Prioritizations Take Shape (#뉴스)**
+7. **Lilly, Baseline Investigate GLP-1s’ Potential in Substance Use as Interest Mounts (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pharma-r-d-spend-drops-3-6-as-pipeline-prioritizations-take-shape>
+   <https://www.biospace.com/drug-development/lilly-baseline-investigate-glp-1s-potential-in-substance-use-as-interest-mounts>
 
 
 ---
-*2026년 03월 30일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 03월 31일 바이오스페이스 뉴스 피드에서 생성된 리포트*
