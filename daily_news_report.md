@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 03월 31일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 01일
 
 
 ## 주요 헤드라인
 
-1. **After Missing Kezar Buyout in 2024, Tang Returns as CEO of Aurinia With $50M Offer (#뉴스)**
+1. **Biogen Secures ‘Running Start’ in Kidney Disease With $5.6B Apellis Buy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/after-missing-kezar-buyout-in-2024-tang-returns-as-ceo-of-aurinia-with-50m-offer>
+   <https://www.biospace.com/business/biogen-secures-running-start-in-kidney-disease-with-5-6b-apellis-buy>
 
-2. **After Missing Kezar Buyout in 2024, Tang Returns as CEO of Aurinia With $50M Offer (#뉴스)**
+2. **Biogen Secures ‘Running Start’ in Kidney Disease With $5.6B Apellis Buy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/after-missing-kezar-buyout-in-2024-tang-returns-as-ceo-of-aurinia-with-50m-offer>
+   <https://www.biospace.com/business/biogen-secures-running-start-in-kidney-disease-with-5-6b-apellis-buy>
 
-3. **IPO Tracker 2026 (#뉴스)**
+3. **PepGen Loses Half of Share Price on Mixed Data in Rare Muscle-Wasting Disease (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ipo-tracker-2026-eikon-clocks-largest-ipo-since-2024-generate-follows-as-ipo-tap-opens>
+   <https://www.biospace.com/drug-development/pepgen-loses-half-of-share-price-on-mixed-data-in-rare-muscle-wasting-disease>
 
-4. **IPO Tracker 2026 (#뉴스)**
+4. **PepGen Loses Half of Share Price on Mixed Data in Rare Muscle-Wasting Disease (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ipo-tracker-2026-eikon-clocks-largest-ipo-since-2024-generate-follows-as-ipo-tap-opens>
+   <https://www.biospace.com/drug-development/pepgen-loses-half-of-share-price-on-mixed-data-in-rare-muscle-wasting-disease>
 
-5. **Kardigan Blood Pressure Drug Proves Hypothesis Despite Split Phase 2 Readout (#뉴스)**
+5. **AAD 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/kardigan-blood-pressure-drug-proves-hypothesis-despite-split-phase-2-readout>
+   <https://www.biospace.com/drug-development/aad-2026-sanofi-incyte-roivant-and-alumis-make-headway-into-skin-diseases>
 
-6. **Biogen’s Lupus Drug Reduces Disease Activity, Further Deresking I&I Pipeline (#뉴스)**
+6. **Viridian Turns Red as Thyroid Eye Disease Data Disappoint (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/biogens-lupus-drug-reduces-disease-activity-further-de-risking-i-i-pipeline>
+   <https://www.biospace.com/drug-development/viridian-turns-red-as-thyroid-eye-disease-data-disappoint>
 
-7. **Lilly, Baseline Investigate GLP-1s’ Potential in Substance Use as Interest Mounts (#뉴스)**
+7. **Merck’s Cholesterol Pill Delivers ‘Antibody-Like Efficacy’ After Earning FDA Voucher (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/lilly-baseline-investigate-glp-1s-potential-in-substance-use-as-interest-mounts>
+   <https://www.biospace.com/drug-development/mercks-cholesterol-pill-delivers-antibody-like-efficacy-after-earning-fda-voucher>
 
 
 ---
-*2026년 03월 31일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 04월 01일 바이오스페이스 뉴스 피드에서 생성된 리포트*
