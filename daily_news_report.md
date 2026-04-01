@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 01일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 02일
 
 
 ## 주요 헤드라인
 
-1. **Biogen Secures ‘Running Start’ in Kidney Disease With $5.6B Apellis Buy (#뉴스)**
+1. **11 Startups Selected for National Life Sciences Accelerator Program (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biogen-secures-running-start-in-kidney-disease-with-5-6b-apellis-buy>
+   <https://www.biospace.com/business/11-startups-selected-for-national-life-sciences-accelerator-program>
 
-2. **Biogen Secures ‘Running Start’ in Kidney Disease With $5.6B Apellis Buy (#뉴스)**
+2. **Biopharma M&A Heats Up, Rare Diseases Win Three Approvals, Wave Crashes (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biogen-secures-running-start-in-kidney-disease-with-5-6b-apellis-buy>
+   <https://www.biospace.com/business/biopharma-m-a-heats-up-rare-diseases-win-three-approvals-wave-crashes>
 
-3. **PepGen Loses Half of Share Price on Mixed Data in Rare Muscle-Wasting Disease (#뉴스)**
+3. **Ambrosia Eyes Next-Generation Small Molecule GLP-1s With $100M Series B (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/pepgen-loses-half-of-share-price-on-mixed-data-in-rare-muscle-wasting-disease>
+   <https://www.biospace.com/business/ambrosia-eyes-next-generation-small-molecule-glp-1s-with-100m-series-b>
 
-4. **PepGen Loses Half of Share Price on Mixed Data in Rare Muscle-Wasting Disease (#뉴스)**
+4. **Trump’s MFN Pricing Expected To Delay More European Drug Launches (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/pepgen-loses-half-of-share-price-on-mixed-data-in-rare-muscle-wasting-disease>
+   <https://www.biospace.com/business/trumps-mfn-pricing-expected-to-delay-more-european-drug-launches>
 
-5. **AAD 2026 (#뉴스)**
+5. **Trump’s MFN Pricing Expected To Delay More European Drug Launches (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/aad-2026-sanofi-incyte-roivant-and-alumis-make-headway-into-skin-diseases>
+   <https://www.biospace.com/business/trumps-mfn-pricing-expected-to-delay-more-european-drug-launches>
 
-6. **Viridian Turns Red as Thyroid Eye Disease Data Disappoint (#뉴스)**
+6. **Biotech IPOs Rebound as AI Takes a More Central Role in Drug Development (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/viridian-turns-red-as-thyroid-eye-disease-data-disappoint>
+   <https://www.biospace.com/business/biotech-ipos-rebound-as-ai-takes-a-more-central-role-in-drug-development>
 
-7. **Merck’s Cholesterol Pill Delivers ‘Antibody-Like Efficacy’ After Earning FDA Voucher (#뉴스)**
+7. **Biotech IPOs Rebound as AI Takes a More Central Role in Drug Development (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/mercks-cholesterol-pill-delivers-antibody-like-efficacy-after-earning-fda-voucher>
+   <https://www.biospace.com/business/biotech-ipos-rebound-as-ai-takes-a-more-central-role-in-drug-development>
 
 
 ---
-*2026년 04월 01일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 04월 02일 바이오스페이스 뉴스 피드에서 생성된 리포트*
