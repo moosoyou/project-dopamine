@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 06일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 07일
 
 
 ## 주요 헤드라인
 
-1. **BioNTech Starts Shuttering Singapore mRNA Manufacturing Site Amid Pipeline Pivot (#뉴스)**
+1. **Pharma Pipeline Stalls for First Time in Decades (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biontech-starts-shuttering-singapore-mrna-manufacturing-site-amid-pipeline-pivot>
+   <https://www.biospace.com/drug-development/pharma-pipeline-stalls-for-first-time-in-decades-citeline>
 
-2. **BioNTech Starts Shuttering Singapore mRNA Manufacturing Site Amid Pipeline Pivot (#뉴스)**
+2. **Pharma Pipeline Stalls for First Time in Decades (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biontech-starts-shuttering-singapore-mrna-manufacturing-site-amid-pipeline-pivot>
+   <https://www.biospace.com/drug-development/pharma-pipeline-stalls-for-first-time-in-decades-citeline>
 
-3. **Trump Hits Drugmakers With 100% Tariff but Carve-outs Soften the Blow (#뉴스)**
+3. **AI Giant Anthropic Leans Into Life Sciences With $400M Coefficient Bio Catch (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/trump-hits-drugmakers-with-100-tariff-but-carve-outs-soften-the-blow>
+   <https://www.biospace.com/business/ai-giant-anthropic-leans-into-life-sciences-with-400m-coefficient-bio-catch>
 
-4. **Trump Hits Drugmakers With 100% Tariff but Carve-outs Soften the Blow (#뉴스)**
+4. **Trump’s MFN Pricing Expected To Delay More European Drug Launches (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/trump-hits-drugmakers-with-100-tariff-but-carve-outs-soften-the-blow>
+   <https://www.biospace.com/business/trumps-mfn-pricing-expected-to-delay-more-european-drug-launches>
 
-5. **Pharma’s M&A Train Is on Track for Record Highs With More Deals To Come (#뉴스)**
+5. **Trump’s MFN Pricing Expected To Delay More European Drug Launches (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pharmas-m-a-train-is-on-track-for-record-highs-with-more-deals-to-come-analysts>
+   <https://www.biospace.com/business/trumps-mfn-pricing-expected-to-delay-more-european-drug-launches>
 
-6. **Approvals in Hand, Lilly and Novo Obesity Pills Will Battle It Out on Hairline Differences (#뉴스)**
+6. **Biotech IPOs Rebound as AI Takes a More Central Role in Drug Development (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/approvals-in-hand-lilly-and-novo-obesity-pills-will-battle-it-out-on-hairline-differences>
+   <https://www.biospace.com/business/biotech-ipos-rebound-as-ai-takes-a-more-central-role-in-drug-development>
 
-7. **Editorial (#뉴스)**
+7. **Biotech IPOs Rebound as AI Takes a More Central Role in Drug Development (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/editorial-pharmas-reluctance-to-serve-europe-to-dodge-mfn-drug-pricing-is-chilling>
+   <https://www.biospace.com/business/biotech-ipos-rebound-as-ai-takes-a-more-central-role-in-drug-development>
 
 
 ---
-*2026년 04월 06일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 04월 07일 바이오스페이스 뉴스 피드에서 생성된 리포트*
