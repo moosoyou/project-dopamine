@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 07일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 08일
 
 
 ## 주요 헤드라인
 
-1. **Pharma Pipeline Stalls for First Time in Decades (#뉴스)**
+1. **Gilead Swallows Another Partner, Paying up to $5B for ADC Specialist Tubulis (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/pharma-pipeline-stalls-for-first-time-in-decades-citeline>
+   <https://www.biospace.com/business/gilead-swallows-another-partner-paying-up-to-5-b-for-adc-specialist-tubulis>
 
-2. **Pharma Pipeline Stalls for First Time in Decades (#뉴스)**
+2. **Gilead Swallows Another Partner, Paying up to $5B for ADC Specialist Tubulis (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/pharma-pipeline-stalls-for-first-time-in-decades-citeline>
+   <https://www.biospace.com/business/gilead-swallows-another-partner-paying-up-to-5-b-for-adc-specialist-tubulis>
 
-3. **AI Giant Anthropic Leans Into Life Sciences With $400M Coefficient Bio Catch (#뉴스)**
+3. **AbbVie Puts Humira on TrumpRx at Steep Discount as Tariff Threat Solidifies (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ai-giant-anthropic-leans-into-life-sciences-with-400m-coefficient-bio-catch>
+   <https://www.biospace.com/policy/abbvie-puts-humira-on-trumprx-at-steep-discount-as-tariff-threat-solidifies>
 
-4. **Trump’s MFN Pricing Expected To Delay More European Drug Launches (#뉴스)**
+4. **AbbVie Puts Humira on TrumpRx at Steep Discount as Tariff Threat Solidifies (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/trumps-mfn-pricing-expected-to-delay-more-european-drug-launches>
+   <https://www.biospace.com/policy/abbvie-puts-humira-on-trumprx-at-steep-discount-as-tariff-threat-solidifies>
 
-5. **Trump’s MFN Pricing Expected To Delay More European Drug Launches (#뉴스)**
+5. **Sanofi Bispecific Scores in Asthma, Rhinosinusitis, but Eczema Bet Doesn’t Pay Off (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/trumps-mfn-pricing-expected-to-delay-more-european-drug-launches>
+   <https://www.biospace.com/drug-development/sanofi-bispecific-scores-in-asthma-rhinosinusitis-but-eczema-bet-doesnt-pay-off>
 
-6. **Biotech IPOs Rebound as AI Takes a More Central Role in Drug Development (#뉴스)**
+6. **Amgen Seeks ‘Return to Growth’ for Tepezza as More Convenient Formulation Aces Phase 3 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biotech-ipos-rebound-as-ai-takes-a-more-central-role-in-drug-development>
+   <https://www.biospace.com/drug-development/amgen-seeks-return-to-growth-for-tepezza-as-more-convenient-formulation-aces-phase-3>
 
-7. **Biotech IPOs Rebound as AI Takes a More Central Role in Drug Development (#뉴스)**
+7. **Editorial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biotech-ipos-rebound-as-ai-takes-a-more-central-role-in-drug-development>
+   <https://www.biospace.com/business/editorial-pharmas-reluctance-to-serve-europe-to-dodge-mfn-drug-pricing-is-chilling>
 
 
 ---
-*2026년 04월 07일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 04월 08일 바이오스페이스 뉴스 피드에서 생성된 리포트*
