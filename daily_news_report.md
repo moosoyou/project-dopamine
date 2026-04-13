@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 13일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 14일
 
 
 ## 주요 헤드라인
 
-1. **With oral obesity race underway, all eyes are on Lilly’s Foundayo launch (#뉴스)**
+1. **BioNTech, DualityBio tout ‘clinically meaningful’ efficacy for ADC in mid-stage endometrial cancer trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/with-oral-obesity-race-underway-all-eyes-are-on-lillys-foundayo-launch>
+   <https://www.biospace.com/drug-development/biontech-dualitybio-tout-clinically-meaningful-efficacy-for-adc-in-mid-stage-endometrial-cancer-trial>
 
-2. **With oral obesity race underway, all eyes are on Lilly’s Foundayo launch (#뉴스)**
+2. **BioNTech, DualityBio tout ‘clinically meaningful’ efficacy for ADC in mid-stage endometrial cancer trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/with-oral-obesity-race-underway-all-eyes-are-on-lillys-foundayo-launch>
+   <https://www.biospace.com/drug-development/biontech-dualitybio-tout-clinically-meaningful-efficacy-for-adc-in-mid-stage-endometrial-cancer-trial>
 
-3. **Opinion (#뉴스)**
+3. **USP adds Tamiflu, Trulicity to vulnerable list as upstream analysis reshapes supply concerns (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/opinion-for-ai-to-have-impact-the-industry-must-align-on-data>
+   <https://www.biospace.com/business/usp-adds-tamiflu-trulicity-to-vulnerable-list-as-upstream-analysis-reshapes-supply-concerns>
 
-4. **Opinion (#뉴스)**
+4. **USP adds Tamiflu, Trulicity to vulnerable list as upstream analysis reshapes supply concerns (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/opinion-for-ai-to-have-impact-the-industry-must-align-on-data>
+   <https://www.biospace.com/business/usp-adds-tamiflu-trulicity-to-vulnerable-list-as-upstream-analysis-reshapes-supply-concerns>
 
-5. **GSK again pulls application for leucovorin, touted by FDA as potential autism treatment (#뉴스)**
+5. **Allogene stock sails after CAR T clears residual lymphoma in early data cut (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/gsk-again-pulls-application-for-leucovorin-touted-by-fda-as-potential-autism-treatment>
+   <https://www.biospace.com/drug-development/allogene-stock-sails-after-car-t-clears-residual-lymphoma-in-early-data-cut>
 
-6. **IPO Tracker 2026 (#뉴스)**
+6. **Allogene stock sails after CAR T clears residual lymphoma in early data cut (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ipo-tracker-2026>
+   <https://www.biospace.com/drug-development/allogene-stock-sails-after-car-t-clears-residual-lymphoma-in-early-data-cut>
 
-7. **Gilead Less M&A Happy Now but Door Still Open for ‘Compelling’ Opportunities (#뉴스)**
+7. **Revolution rises 40% as pancreatic cancer drug doubles survival (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/gilead-less-m-a-happy-now-but-door-still-open-for-compelling-opportunities>
+   <https://www.biospace.com/drug-development/revolution-rises-40-as-pancreatic-cancer-drug-doubles-survival>
 
 
 ---
-*2026년 04월 13일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 04월 14일 바이오스페이스 뉴스 피드에서 생성된 리포트*
