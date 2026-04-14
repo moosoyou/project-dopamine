@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 14일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 15일
 
 
 ## 주요 헤드라인
 
-1. **BioNTech, DualityBio tout ‘clinically meaningful’ efficacy for ADC in mid-stage endometrial cancer trial (#뉴스)**
+1. **FDA bolsters bespoke therapy framework with new draft safety guidelines (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/biontech-dualitybio-tout-clinically-meaningful-efficacy-for-adc-in-mid-stage-endometrial-cancer-trial>
+   <https://www.biospace.com/drug-development/fda-bolsters-bespoke-therapy-framework-with-new-draft-safety-guidelines>
 
-2. **BioNTech, DualityBio tout ‘clinically meaningful’ efficacy for ADC in mid-stage endometrial cancer trial (#뉴스)**
+2. **FDA bolsters bespoke therapy framework with new draft safety guidelines (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/biontech-dualitybio-tout-clinically-meaningful-efficacy-for-adc-in-mid-stage-endometrial-cancer-trial>
+   <https://www.biospace.com/drug-development/fda-bolsters-bespoke-therapy-framework-with-new-draft-safety-guidelines>
 
-3. **USP adds Tamiflu, Trulicity to vulnerable list as upstream analysis reshapes supply concerns (#뉴스)**
+3. **With nearly a quarter billion in Q1, J&J targets $100B revenue in 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/usp-adds-tamiflu-trulicity-to-vulnerable-list-as-upstream-analysis-reshapes-supply-concerns>
+   <https://www.biospace.com/business/with-nearly-a-quarter-billion-in-q1-j-j-targets-100b-revenue-in-2026>
 
-4. **USP adds Tamiflu, Trulicity to vulnerable list as upstream analysis reshapes supply concerns (#뉴스)**
+4. **Lilly investing billions to prepare for overseas oral GLP-1 launches (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/usp-adds-tamiflu-trulicity-to-vulnerable-list-as-upstream-analysis-reshapes-supply-concerns>
+   <https://www.biospace.com/business/lilly-investing-billions-to-prepare-for-overseas-oral-glp-1-launches>
 
-5. **Allogene stock sails after CAR T clears residual lymphoma in early data cut (#뉴스)**
+5. **On steadier ground, pharma heads into Q1 earnings with deals top of mind (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/allogene-stock-sails-after-car-t-clears-residual-lymphoma-in-early-data-cut>
+   <https://www.biospace.com/business/on-steadier-ground-pharma-heads-into-q1-earnings-with-deals-top-of-mind>
 
-6. **Allogene stock sails after CAR T clears residual lymphoma in early data cut (#뉴스)**
+6. **On steadier ground, pharma heads into Q1 earnings with deals top of mind (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/allogene-stock-sails-after-car-t-clears-residual-lymphoma-in-early-data-cut>
+   <https://www.biospace.com/business/on-steadier-ground-pharma-heads-into-q1-earnings-with-deals-top-of-mind>
 
-7. **Revolution rises 40% as pancreatic cancer drug doubles survival (#뉴스)**
+7. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/revolution-rises-40-as-pancreatic-cancer-drug-doubles-survival>
+   <https://www.biospace.com/drug-development/opinion-adopting-a-patient-centric-approach-is-a-competitive-advantage>
 
 
 ---
-*2026년 04월 14일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 04월 15일 바이오스페이스 뉴스 피드에서 생성된 리포트*
