@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 16일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 17일
 
 
 ## 주요 헤드라인
 
-1. **BMS makes a Beeline, bringing 5 assets to biotech’s $300M precision immunology debut (#뉴스)**
+1. **Trump nominates new CDC director, appoints various leaders to embattled agency (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/bms-makes-a-beeline-bringing-5-assets-to-biotechs-300m-precision-immunology-debut>
+   <https://www.biospace.com/policy/trump-nominates-new-cdc-director-appoints-various-leaders-to-embattled-agency>
 
-2. **BMS makes a Beeline, bringing 5 assets to biotech’s $300M precision immunology debut (#뉴스)**
+2. **Trump nominates new CDC director, appoints various leaders to embattled agency (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/bms-makes-a-beeline-bringing-5-assets-to-biotechs-300m-precision-immunology-debut>
+   <https://www.biospace.com/policy/trump-nominates-new-cdc-director-appoints-various-leaders-to-embattled-agency>
 
-3. **Takeda continues to prune partnerships, cuts ties with mRNA-targeting Veritas In Silico (#뉴스)**
+3. **MeiraGTx, spying hope in a failed trial, buys back eye disease gene therapy from J&J (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/takeda-continues-to-prune-partnerships-cuts-ties-with-mrna-targeting-veritas-in-silico>
+   <https://www.biospace.com/drug-development/meiragtx-spying-hope-in-a-failed-trial-buys-back-eye-disease-gene-therapy-from-j-j>
 
-4. **J&J targets $100B revenue, Replimune rebuffed again and a “Revolution” in pancreatic cancer (#뉴스)**
+4. **Lilly’s Foundayo posts ‘outstanding’ diabetes data, possibly easing FDA safety concerns (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/j-j-targets-100b-revenue-replimune-rebuffed-again-and-a-revolution-in-pancreatic-cancer>
+   <https://www.biospace.com/business/lillys-foundayo-posts-outstanding-diabetes-data-possibly-easing-fda-safety-concerns>
 
-5. **5 biopharma M&A deals where the workforce was the prize (#뉴스)**
+5. **Can Europe turn world-class science into world-class scale? (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/5-biopharma-m-a-deals-where-the-workforce-was-the-prize>
+   <https://www.biospace.com/drug-development/can-europe-turn-world-class-science-into-world-class-scale>
 
 6. **5 biopharma M&A deals where the workforce was the prize (#뉴스)**
    - Article content not available
    <https://www.biospace.com/business/5-biopharma-m-a-deals-where-the-workforce-was-the-prize>
 
-7. **On steadier ground, pharma heads into Q1 earnings with deals top of mind (#뉴스)**
+7. **5 biopharma M&A deals where the workforce was the prize (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/on-steadier-ground-pharma-heads-into-q1-earnings-with-deals-top-of-mind>
+   <https://www.biospace.com/business/5-biopharma-m-a-deals-where-the-workforce-was-the-prize>
 
 
 ---
-*2026년 04월 16일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 04월 17일 바이오스페이스 뉴스 피드에서 생성된 리포트*
