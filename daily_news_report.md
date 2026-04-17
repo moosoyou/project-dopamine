@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 17일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 18일
 
 
 ## 주요 헤드라인
 
-1. **Trump nominates new CDC director, appoints various leaders to embattled agency (#뉴스)**
+1. **Lilly’s Foundayo reaches 1,390 patients in first week, trailing Novo’s oral Wegovy launch (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/trump-nominates-new-cdc-director-appoints-various-leaders-to-embattled-agency>
+   <https://www.biospace.com/business/lillys-foundayo-reaches-1-390-patients-in-first-week-trailing-novos-oral-wegovy-launch>
 
-2. **Trump nominates new CDC director, appoints various leaders to embattled agency (#뉴스)**
+2. **Lilly’s Foundayo reaches 1,390 patients in first week, trailing Novo’s oral Wegovy launch (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/trump-nominates-new-cdc-director-appoints-various-leaders-to-embattled-agency>
+   <https://www.biospace.com/business/lillys-foundayo-reaches-1-390-patients-in-first-week-trailing-novos-oral-wegovy-launch>
 
-3. **MeiraGTx, spying hope in a failed trial, buys back eye disease gene therapy from J&J (#뉴스)**
+3. **UPDATE (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/meiragtx-spying-hope-in-a-failed-trial-buys-back-eye-disease-gene-therapy-from-j-j>
+   <https://www.biospace.com/business/kailera-eyes-record-533m-ipo-to-play-in-competitive-obesity-space-with-chinese-drugs>
 
-4. **Lilly’s Foundayo posts ‘outstanding’ diabetes data, possibly easing FDA safety concerns (#뉴스)**
+4. **UPDATE (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lillys-foundayo-posts-outstanding-diabetes-data-possibly-easing-fda-safety-concerns>
+   <https://www.biospace.com/business/kailera-eyes-record-533m-ipo-to-play-in-competitive-obesity-space-with-chinese-drugs>
 
-5. **Can Europe turn world-class science into world-class scale? (#뉴스)**
+5. **RFK Jr. defends Makary, claims pharma ‘owns’ Congress and media (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/can-europe-turn-world-class-science-into-world-class-scale>
+   <https://www.biospace.com/policy/rfk-jr-defends-makary-claims-pharma-owns-congress-and-media>
 
-6. **5 biopharma M&A deals where the workforce was the prize (#뉴스)**
+6. **Novo may have muscle advantage over Lilly in weight-loss race (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/5-biopharma-m-a-deals-where-the-workforce-was-the-prize>
+   <https://www.biospace.com/drug-development/novo-may-have-muscle-advantage-over-lilly-in-weight-loss-race-preprint>
 
-7. **5 biopharma M&A deals where the workforce was the prize (#뉴스)**
+7. **Merck’s PD-1/VEGF data star in stacked lineup of AACR ‘26 data reveals (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/5-biopharma-m-a-deals-where-the-workforce-was-the-prize>
+   <https://www.biospace.com/drug-development/mercks-pd-1-vegf-data-star-in-stacked-lineup-of-aacr-26-data-reveals>
 
 
 ---
-*2026년 04월 17일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 04월 18일 바이오스페이스 뉴스 피드에서 생성된 리포트*
