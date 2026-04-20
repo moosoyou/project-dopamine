@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 20일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 21일
 
 
 ## 주요 헤드라인
 
-1. **Lilly’s Foundayo reaches 1,390 patients in first week, trailing Novo’s oral Wegovy launch (#뉴스)**
+1. **Viatris recalls extended-release Xanax over dissolution test failure (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lillys-foundayo-reaches-1-390-patients-in-first-week-trailing-novos-oral-wegovy-launch>
+   <https://www.biospace.com/business/viatris-recalls-extended-release-xanax-over-dissolution-test-failure>
 
-2. **Lilly’s Foundayo reaches 1,390 patients in first week, trailing Novo’s oral Wegovy launch (#뉴스)**
+2. **Viatris recalls extended-release Xanax over dissolution test failure (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lillys-foundayo-reaches-1-390-patients-in-first-week-trailing-novos-oral-wegovy-launch>
+   <https://www.biospace.com/business/viatris-recalls-extended-release-xanax-over-dissolution-test-failure>
 
-3. **UPDATE (#뉴스)**
+3. **Biotech has become a good news story. Let the sun shine (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/kailera-eyes-record-533m-ipo-to-play-in-competitive-obesity-space-with-chinese-drugs>
+   <https://www.biospace.com/drug-development/biotech-has-become-a-good-news-story-let-the-sun-shine>
 
-4. **UPDATE (#뉴스)**
+4. **Biotech has become a good news story. Let the sun shine (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/kailera-eyes-record-533m-ipo-to-play-in-competitive-obesity-space-with-chinese-drugs>
+   <https://www.biospace.com/drug-development/biotech-has-become-a-good-news-story-let-the-sun-shine>
 
-5. **RFK Jr. defends Makary, claims pharma ‘owns’ Congress and media (#뉴스)**
+5. **Lilly adds gene delivery technology to CAR T in up to $7B Kelonia deal (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/rfk-jr-defends-makary-claims-pharma-owns-congress-and-media>
+   <https://www.biospace.com/business/lilly-adds-gene-delivery-technology-to-car-t-in-up-to-7b-kelonia-deal>
 
-6. **Novo may have muscle advantage over Lilly in weight-loss race (#뉴스)**
+6. **Lilly adds gene delivery technology to CAR T in up to $7B Kelonia deal (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/novo-may-have-muscle-advantage-over-lilly-in-weight-loss-race-preprint>
+   <https://www.biospace.com/business/lilly-adds-gene-delivery-technology-to-car-t-in-up-to-7b-kelonia-deal>
 
-7. **Merck’s PD-1/VEGF data star in stacked lineup of AACR ‘26 data reveals (#뉴스)**
+7. **Agenus cancer cocktail records 0% response rate, missing midstage goal (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/mercks-pd-1-vegf-data-star-in-stacked-lineup-of-aacr-26-data-reveals>
+   <https://www.biospace.com/drug-development/agenus-cancer-cocktail-records-0-response-rate-missing-midstage-goal>
 
 
 ---
-*2026년 04월 20일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 04월 21일 바이오스페이스 뉴스 피드에서 생성된 리포트*
