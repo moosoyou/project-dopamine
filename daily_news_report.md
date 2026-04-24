@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 24일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 25일
 
 
 ## 주요 헤드라인
 
-1. **BBOT shakes up leadership as RAS competitors get more visibility (#뉴스)**
+1. **Daiichi Sankyo shares slip after delaying annual earnings report (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/bbot-shakes-up-leadership-as-ras-competitors-get-more-visibility>
+   <https://www.biospace.com/business/daiichi-sankyo-shares-slip-after-delaying-annual-earnings-report>
 
-2. **BBOT shakes up leadership as RAS competitors get more visibility (#뉴스)**
+2. **Pfizer culls early PD-L1 asset after series of clinical wins, deals in cancer (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/bbot-shakes-up-leadership-as-ras-competitors-get-more-visibility>
+   <https://www.biospace.com/business/pfizer-culls-early-pd-l1-program-after-series-of-clinical-wins-deals-in-cancer>
 
-3. **Sanofi defends Dupixent patents, but execs insist it has nothing to do with CEO change (#뉴스)**
+3. **IPO Tracker 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sanofi-defends-dupixent-patents-but-execs-insist-it-has-nothing-to-do-with-ceo-change>
+   <https://www.biospace.com/business/ipo-tracker-2026>
 
-4. **Unnamed pharma files citizen petition targeting FDA’s trove of rejection letters (#뉴스)**
+4. **Regeneron finally joins Trump’s drug pricing push while notching landmark approval (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/unnamed-pharma-files-citizen-petition-targeting-fdas-trove-of-rejection-letters>
+   <https://www.biospace.com/policy/regeneron-finally-joins-trumps-drug-pricing-push-while-notching-landmark-approval>
 
-5. **Roche insists amylin obesity drug still valuable for patients who ‘don’t want side effects’ (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/roche-insists-amylin-obesity-drug-still-valuable-for-patients-who-dont-want-side-effects>
-
-6. **AAN 2026 (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/drug-development/aan-2026-j-j-kyverna-capricor-and-praxis-showcase-practice-changing-data>
-
-7. **Trump’s psychedelics push a mixed blessing for neuropsychiatric companies, patients (#뉴스)**
+5. **Trump’s psychedelics push a mixed blessing for neuropsychiatric companies, patients (#뉴스)**
    - Article content not available
    <https://www.biospace.com/drug-development/trumps-psychedelics-push-a-mixed-blessing-for-neuropsychiatric-companies-patients>
 
+6. **Trump’s psychedelics push a mixed blessing for neuropsychiatric companies, patients (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/drug-development/trumps-psychedelics-push-a-mixed-blessing-for-neuropsychiatric-companies-patients>
+
+7. **Biotech has become a good news story. Let the sun shine (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/drug-development/biotech-has-become-a-good-news-story-let-the-sun-shine>
+
 
 ---
-*2026년 04월 24일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 04월 25일 바이오스페이스 뉴스 피드에서 생성된 리포트*
