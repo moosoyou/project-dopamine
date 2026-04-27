@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 27일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 28일
 
 
 ## 주요 헤드라인
 
-1. **Daiichi Sankyo shares slip after delaying annual earnings report (#뉴스)**
+1. **Compass shares crash as ‘confounding’ survival data raise approvability questions for bispecific (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/daiichi-sankyo-shares-slip-after-delaying-annual-earnings-report>
+   <https://www.biospace.com/drug-development/compass-shares-crash-as-confounding-survival-data-raise-approvability-questions-for-bispecific>
 
-2. **Pfizer culls early PD-L1 asset after series of clinical wins, deals in cancer (#뉴스)**
+2. **Compass shares crash as ‘confounding’ survival data raise approvability questions for bispecific (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-culls-early-pd-l1-program-after-series-of-clinical-wins-deals-in-cancer>
+   <https://www.biospace.com/drug-development/compass-shares-crash-as-confounding-survival-data-raise-approvability-questions-for-bispecific>
 
-3. **IPO Tracker 2026 (#뉴스)**
+3. **Intellia heads to FDA after notching first late-stage win for in vivo gene editor (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ipo-tracker-2026>
+   <https://www.biospace.com/drug-development/intellia-heads-to-fda-after-notching-first-late-stage-win-for-in-vivo-gene-editor>
 
-4. **Regeneron finally joins Trump’s drug pricing push while notching landmark approval (#뉴스)**
+4. **Rejuvenate crowdfunds development of gene therapy for aging, chronic diseases (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/regeneron-finally-joins-trumps-drug-pricing-push-while-notching-landmark-approval>
+   <https://www.biospace.com/business/rejuvenate-crowdfunds-development-of-gene-therapy-for-aging-chronic-diseases>
 
-5. **Trump’s psychedelics push a mixed blessing for neuropsychiatric companies, patients (#뉴스)**
+5. **J&J puts blockbuster blood thinner Xarelto on TrumpRx (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/trumps-psychedelics-push-a-mixed-blessing-for-neuropsychiatric-companies-patients>
+   <https://www.biospace.com/business/j-j-puts-blockbuster-blood-thinner-xarelto-on-trumprx>
 
-6. **Trump’s psychedelics push a mixed blessing for neuropsychiatric companies, patients (#뉴스)**
+6. **Gene therapy leaders aim to help more Baby KJs with novel regulatory models (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/trumps-psychedelics-push-a-mixed-blessing-for-neuropsychiatric-companies-patients>
+   <https://www.biospace.com/drug-development/gene-therapy-leaders-aim-to-help-more-baby-kjs-with-novel-regulatory-models>
 
-7. **Biotech has become a good news story. Let the sun shine (#뉴스)**
+7. **Gene therapy leaders aim to help more Baby KJs with novel regulatory models (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/biotech-has-become-a-good-news-story-let-the-sun-shine>
+   <https://www.biospace.com/drug-development/gene-therapy-leaders-aim-to-help-more-baby-kjs-with-novel-regulatory-models>
 
 
 ---
-*2026년 04월 27일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 04월 28일 바이오스페이스 뉴스 피드에서 생성된 리포트*
