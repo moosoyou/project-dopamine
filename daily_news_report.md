@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 28일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 29일
 
 
 ## 주요 헤드라인
 
-1. **Compass shares crash as ‘confounding’ survival data raise approvability questions for bispecific (#뉴스)**
+1. **AbbVie sinks talons into KRAS with right to buy Kestrel for up to $1.45B (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/compass-shares-crash-as-confounding-survival-data-raise-approvability-questions-for-bispecific>
+   <https://www.biospace.com/business/abbvie-sinks-talons-into-kras-with-right-to-buy-kestrel-for-up-to-1-45b>
 
-2. **Compass shares crash as ‘confounding’ survival data raise approvability questions for bispecific (#뉴스)**
+2. **AbbVie sinks talons into KRAS with right to buy Kestrel for up to $1.45B (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/compass-shares-crash-as-confounding-survival-data-raise-approvability-questions-for-bispecific>
+   <https://www.biospace.com/business/abbvie-sinks-talons-into-kras-with-right-to-buy-kestrel-for-up-to-1-45b>
 
-3. **Intellia heads to FDA after notching first late-stage win for in vivo gene editor (#뉴스)**
+3. **Boehringer, Zealand’s obesity drug ‘more akin’ to Novo’s Wegovy in Phase 3 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/intellia-heads-to-fda-after-notching-first-late-stage-win-for-in-vivo-gene-editor>
+   <https://www.biospace.com/drug-development/boehringer-zealands-obesity-drug-more-akin-to-novos-wegovy-in-phase-3>
 
-4. **Rejuvenate crowdfunds development of gene therapy for aging, chronic diseases (#뉴스)**
+4. **Boehringer, Zealand’s obesity drug ‘more akin’ to Novo’s Wegovy in Phase 3 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/rejuvenate-crowdfunds-development-of-gene-therapy-for-aging-chronic-diseases>
+   <https://www.biospace.com/drug-development/boehringer-zealands-obesity-drug-more-akin-to-novos-wegovy-in-phase-3>
 
-5. **J&J puts blockbuster blood thinner Xarelto on TrumpRx (#뉴스)**
+5. **AACR 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/j-j-puts-blockbuster-blood-thinner-xarelto-on-trumprx>
+   <https://www.biospace.com/drug-development/aacr-2026-combo-therapies-by-moderna-marengo-show-promise-in-skin-breast-cancer>
 
-6. **Gene therapy leaders aim to help more Baby KJs with novel regulatory models (#뉴스)**
+6. **AACR 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/gene-therapy-leaders-aim-to-help-more-baby-kjs-with-novel-regulatory-models>
+   <https://www.biospace.com/drug-development/aacr-2026-combo-therapies-by-moderna-marengo-show-promise-in-skin-breast-cancer>
 
-7. **Gene therapy leaders aim to help more Baby KJs with novel regulatory models (#뉴스)**
+7. **Novartis’ sales dip as generics pressure intensifies, radioequivalents loom (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/gene-therapy-leaders-aim-to-help-more-baby-kjs-with-novel-regulatory-models>
+   <https://www.biospace.com/business/novartis-sales-dip-as-generics-pressure-intensifies-radioequivalents-loom>
 
 
 ---
-*2026년 04월 28일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 04월 29일 바이오스페이스 뉴스 피드에서 생성된 리포트*
