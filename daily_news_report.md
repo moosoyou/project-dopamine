@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 29일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 04월 30일
 
 
 ## 주요 헤드라인
 
-1. **AbbVie sinks talons into KRAS with right to buy Kestrel for up to $1.45B (#뉴스)**
+1. **AbbVie tops Q1 estimates, raises outlook and discontinues cancer candidate (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/abbvie-sinks-talons-into-kras-with-right-to-buy-kestrel-for-up-to-1-45b>
+   <https://www.biospace.com/business/abbvie-tops-q1-estimates-raises-outlook-and-discontinues-cancer-candidate>
 
-2. **AbbVie sinks talons into KRAS with right to buy Kestrel for up to $1.45B (#뉴스)**
+2. **AbbVie tops Q1 estimates, raises outlook and discontinues cancer candidate (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/abbvie-sinks-talons-into-kras-with-right-to-buy-kestrel-for-up-to-1-45b>
+   <https://www.biospace.com/business/abbvie-tops-q1-estimates-raises-outlook-and-discontinues-cancer-candidate>
 
-3. **Boehringer, Zealand’s obesity drug ‘more akin’ to Novo’s Wegovy in Phase 3 (#뉴스)**
+3. **With growth curve trending up, Biogen looks to early-stage assets for ‘next generation’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/boehringer-zealands-obesity-drug-more-akin-to-novos-wegovy-in-phase-3>
+   <https://www.biospace.com/business/with-growth-curve-trending-up-biogen-looks-for-early-stage-assets-for-next-generation>
 
-4. **Boehringer, Zealand’s obesity drug ‘more akin’ to Novo’s Wegovy in Phase 3 (#뉴스)**
+4. **With growth curve trending up, Biogen looks to early-stage assets for ‘next generation’ (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/boehringer-zealands-obesity-drug-more-akin-to-novos-wegovy-in-phase-3>
+   <https://www.biospace.com/business/with-growth-curve-trending-up-biogen-looks-for-early-stage-assets-for-next-generation>
 
-5. **AACR 2026 (#뉴스)**
+5. **Regeneron basks in first gene therapy approval as Dupixent, Eylea carry robust Q1 earnings (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/aacr-2026-combo-therapies-by-moderna-marengo-show-promise-in-skin-breast-cancer>
+   <https://www.biospace.com/business/regeneron-basks-in-first-gene-therapy-approval-as-dupixent-eylea-carry-robust-q1-earnings>
 
-6. **AACR 2026 (#뉴스)**
+6. **Regeneron basks in first gene therapy approval as Dupixent, Eylea carry robust Q1 earnings (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/aacr-2026-combo-therapies-by-moderna-marengo-show-promise-in-skin-breast-cancer>
+   <https://www.biospace.com/business/regeneron-basks-in-first-gene-therapy-approval-as-dupixent-eylea-carry-robust-q1-earnings>
 
-7. **Novartis’ sales dip as generics pressure intensifies, radioequivalents loom (#뉴스)**
+7. **Biogen ready to catch Alzheimer’s patients transitioning off Lilly’s Kisunla (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novartis-sales-dip-as-generics-pressure-intensifies-radioequivalents-loom>
+   <https://www.biospace.com/business/biogen-ready-to-catch-alzheimers-patients-transitioning-off-lillys-kisunla>
 
 
 ---
-*2026년 04월 29일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 04월 30일 바이오스페이스 뉴스 피드에서 생성된 리포트*
