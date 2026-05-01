@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 01일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 02일
 
 
 ## 주요 헤드라인
 
-1. **Merck drops early-stage TROP ADC, keeps deal doors open as Keytruda clock ticks (#뉴스)**
+1. **Novartis unveils North Carolina API plant as final piece of $23B US expansion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/merck-drops-early-stage-trop-adc-keeps-deal-doors-open-as-keytruda-clock-ticks>
+   <https://www.biospace.com/business/novartis-unveils-north-carolina-api-plant-as-final-piece-of-23b-us-expansion>
 
-2. **Merck drops early-stage TROP ADC, keeps deal doors open as Keytruda clock ticks (#뉴스)**
+2. **Novartis unveils North Carolina API plant as final piece of $23B US expansion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/merck-drops-early-stage-trop-adc-keeps-deal-doors-open-as-keytruda-clock-ticks>
+   <https://www.biospace.com/business/novartis-unveils-north-carolina-api-plant-as-final-piece-of-23b-us-expansion>
 
-3. **Lilly’s weight loss pill reaches brand new patients, even without full-court marketing press (#뉴스)**
+3. **Moderna beats revenue expectations with $389M, but litigation dogs earnings (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lillys-weight-loss-pill-reaches-brand-new-patients-even-without-full-court-marketing-press>
+   <https://www.biospace.com/business/moderna-beats-revenue-expectations-with-389m-but-litigation-dogs-earnings>
 
-4. **Lilly’s weight loss pill reaches brand new patients, even without full-court marketing press (#뉴스)**
+4. **Moderna beats revenue expectations with $389M, but litigation dogs earnings (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lillys-weight-loss-pill-reaches-brand-new-patients-even-without-full-court-marketing-press>
+   <https://www.biospace.com/business/moderna-beats-revenue-expectations-with-389m-but-litigation-dogs-earnings>
 
-5. **BMS positions Cobenfy as safer alternative ahead of pivotal Alzheimer’s psychosis readout (#뉴스)**
+5. **Amgen positions MariTide as potential ‘best monthly’ obesity drug (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/bms-positions-cobenfy-as-safer-alternative-ahead-of-pivotal-alzheimers-psychosis-readout>
+   <https://www.biospace.com/business/amgen-positions-maritide-as-potential-best-monthly-obesity-drug>
 
-6. **IPO Tracker 2026 (#뉴스)**
+6. **Amgen positions MariTide as potential ‘best monthly’ obesity drug (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ipo-tracker-2026>
+   <https://www.biospace.com/business/amgen-positions-maritide-as-potential-best-monthly-obesity-drug>
 
-7. **Lilly clocks 56% revenue increase in Q1 but declining prices stunt growth (#뉴스)**
+7. **Corcept ties ALS drug to improved 2-year survival as Phase 3 start date nears (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-clocks-56-revenue-increase-in-q1-but-declining-prices-stunt-growth>
+   <https://www.biospace.com/drug-development/corcept-ties-als-drug-to-improved-2-year-survival-as-phase-3-start-date-nears>
 
 
 ---
-*2026년 05월 01일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 05월 02일 바이오스페이스 뉴스 피드에서 생성된 리포트*
