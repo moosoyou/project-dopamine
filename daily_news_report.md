@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 04일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 05일
 
 
 ## 주요 헤드라인
 
-1. **Novartis unveils North Carolina API plant as final piece of $23B US expansion (#뉴스)**
+1. **IPO Tracker 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novartis-unveils-north-carolina-api-plant-as-final-piece-of-23b-us-expansion>
+   <https://www.biospace.com/business/ipo-tracker-2026>
 
-2. **Novartis unveils North Carolina API plant as final piece of $23B US expansion (#뉴스)**
+2. **IPO Tracker 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/novartis-unveils-north-carolina-api-plant-as-final-piece-of-23b-us-expansion>
+   <https://www.biospace.com/business/ipo-tracker-2026>
 
-3. **Moderna beats revenue expectations with $389M, but litigation dogs earnings (#뉴스)**
+3. **PCI adds US sterile fill/finish capabilities through $1B global expansion drive (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/moderna-beats-revenue-expectations-with-389m-but-litigation-dogs-earnings>
+   <https://www.biospace.com/business/pci-adds-us-sterile-fill-finish-capabilities-through-1b-global-expansion-drive>
 
-4. **Moderna beats revenue expectations with $389M, but litigation dogs earnings (#뉴스)**
+4. **Summit shares descend as PD-1/VEGF asset misses early survival mark (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/moderna-beats-revenue-expectations-with-389m-but-litigation-dogs-earnings>
+   <https://www.biospace.com/drug-development/summit-shares-descend-as-pd-1-vegf-asset-misses-early-survival-mark>
 
-5. **Amgen positions MariTide as potential ‘best monthly’ obesity drug (#뉴스)**
+5. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/amgen-positions-maritide-as-potential-best-monthly-obesity-drug>
+   <https://www.biospace.com/drug-development/opinion-tackling-drug-resistance-must-become-biotechs-next-frontier>
 
-6. **Amgen positions MariTide as potential ‘best monthly’ obesity drug (#뉴스)**
+6. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/amgen-positions-maritide-as-potential-best-monthly-obesity-drug>
+   <https://www.biospace.com/drug-development/opinion-tackling-drug-resistance-must-become-biotechs-next-frontier>
 
-7. **Corcept ties ALS drug to improved 2-year survival as Phase 3 start date nears (#뉴스)**
+7. **Altitude Labs serves up higher education for biotech founders (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/corcept-ties-als-drug-to-improved-2-year-survival-as-phase-3-start-date-nears>
+   <https://www.biospace.com/business/altitude-labs-serves-up-higher-education-for-biotech-founders>
 
 
 ---
-*2026년 05월 04일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 05월 05일 바이오스페이스 뉴스 피드에서 생성된 리포트*
