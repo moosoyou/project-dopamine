@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 05일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 06일
 
 
 ## 주요 헤드라인
 
-1. **IPO Tracker 2026 (#뉴스)**
+1. **Pfizer is a 2029 story but Q126 lays foundation for growth (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ipo-tracker-2026>
+   <https://www.biospace.com/business/pfizer-is-a-2029-story-but-q126-lays-foundation-for-growth>
 
-2. **IPO Tracker 2026 (#뉴스)**
+2. **Pfizer is a 2029 story but Q126 lays foundation for growth (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ipo-tracker-2026>
+   <https://www.biospace.com/business/pfizer-is-a-2029-story-but-q126-lays-foundation-for-growth>
 
-3. **PCI adds US sterile fill/finish capabilities through $1B global expansion drive (#뉴스)**
+3. **BioNTech moves to close multiple manufacturing plants, affecting 1,860 jobs (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pci-adds-us-sterile-fill-finish-capabilities-through-1b-global-expansion-drive>
+   <https://www.biospace.com/business/biontech-moves-to-close-multiple-manufacturing-plants-affecting-1-860-jobs>
 
-4. **Summit shares descend as PD-1/VEGF asset misses early survival mark (#뉴스)**
+4. **BioNTech moves to close multiple manufacturing plants, affecting 1,860 jobs (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/summit-shares-descend-as-pd-1-vegf-asset-misses-early-survival-mark>
+   <https://www.biospace.com/business/biontech-moves-to-close-multiple-manufacturing-plants-affecting-1-860-jobs>
 
-5. **Opinion (#뉴스)**
+5. **QurAlis’ Phase 2 data bolster case for genetic approach to sporadic ALS (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/opinion-tackling-drug-resistance-must-become-biotechs-next-frontier>
+   <https://www.biospace.com/drug-development/quralis-phase-2-data-bolster-case-for-genetic-approach-to-sporadic-als>
 
-6. **Opinion (#뉴스)**
+6. **Pfizer stays the course for 2026 guidance, dulling impact of Q1 earnings beat (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/opinion-tackling-drug-resistance-must-become-biotechs-next-frontier>
+   <https://www.biospace.com/business/pfizer-stays-the-course-for-2026-guidance-dulling-impact-of-q1-earnings-beat>
 
-7. **Altitude Labs serves up higher education for biotech founders (#뉴스)**
+7. **Vertex’s quiet Q1 is calm before potentially ‘iconic’ renal evolution (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/altitude-labs-serves-up-higher-education-for-biotech-founders>
+   <https://www.biospace.com/business/vertexs-quiet-q1-is-calm-before-potentially-iconic-renal-evolution>
 
 
 ---
-*2026년 05월 05일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 05월 06일 바이오스페이스 뉴스 피드에서 생성된 리포트*
