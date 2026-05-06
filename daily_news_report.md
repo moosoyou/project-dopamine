@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 06일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 07일
 
 
 ## 주요 헤드라인
 
-1. **Pfizer is a 2029 story but Q126 lays foundation for growth (#뉴스)**
+1. **Amgen, Sanofi commit nearly $600M to North American expansions (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-is-a-2029-story-but-q126-lays-foundation-for-growth>
+   <https://www.biospace.com/business/amgen-sanofi-commit-nearly-600m-to-north-american-expansions>
 
-2. **Pfizer is a 2029 story but Q126 lays foundation for growth (#뉴스)**
+2. **Amgen, Sanofi commit nearly $600M to North American expansions (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-is-a-2029-story-but-q126-lays-foundation-for-growth>
+   <https://www.biospace.com/business/amgen-sanofi-commit-nearly-600m-to-north-american-expansions>
 
-3. **BioNTech moves to close multiple manufacturing plants, affecting 1,860 jobs (#뉴스)**
+3. **Novo’s Wegovy pill reaches 1M patients, shattering expectations with $355M in sales (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biontech-moves-to-close-multiple-manufacturing-plants-affecting-1-860-jobs>
+   <https://www.biospace.com/business/novos-wegovy-pill-reaches-1m-patients-shattering-expectations-with-355m-in-sales>
 
-4. **BioNTech moves to close multiple manufacturing plants, affecting 1,860 jobs (#뉴스)**
+4. **Novo’s Wegovy pill reaches 1M patients, shattering expectations with $355M in sales (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/biontech-moves-to-close-multiple-manufacturing-plants-affecting-1-860-jobs>
+   <https://www.biospace.com/business/novos-wegovy-pill-reaches-1m-patients-shattering-expectations-with-355m-in-sales>
 
-5. **QurAlis’ Phase 2 data bolster case for genetic approach to sporadic ALS (#뉴스)**
+5. **CellCentric secures $220M in Europe’s biggest private biotech fundraise of 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/quralis-phase-2-data-bolster-case-for-genetic-approach-to-sporadic-als>
+   <https://www.biospace.com/business/cellcentric-secures-220m-in-europes-biggest-private-biotech-fundraise-of-2026>
 
-6. **Pfizer stays the course for 2026 guidance, dulling impact of Q1 earnings beat (#뉴스)**
+6. **Viridian turns green again as new Phase 3 data vindicate thyroid eye disease drug (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/pfizer-stays-the-course-for-2026-guidance-dulling-impact-of-q1-earnings-beat>
+   <https://www.biospace.com/drug-development/viridian-turns-green-again-as-new-phase-3-data-vindicate-thyroid-eye-disease-drug>
 
-7. **Vertex’s quiet Q1 is calm before potentially ‘iconic’ renal evolution (#뉴스)**
+7. **Founders face pressure from all sides as biotech crawls toward recovery (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/vertexs-quiet-q1-is-calm-before-potentially-iconic-renal-evolution>
+   <https://www.biospace.com/business/founders-face-pressure-from-all-sides-as-biotech-crawls-toward-recovery>
 
 
 ---
-*2026년 05월 06일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 05월 07일 바이오스페이스 뉴스 피드에서 생성된 리포트*
