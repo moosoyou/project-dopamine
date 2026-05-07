@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 07일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 08일
 
 
 ## 주요 헤드라인
 
-1. **Amgen, Sanofi commit nearly $600M to North American expansions (#뉴스)**
+1. **Entrada crashes as Duchenne therapy comes in ‘below expectations’ in early study (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/amgen-sanofi-commit-nearly-600m-to-north-american-expansions>
+   <https://www.biospace.com/drug-development/entrada-crashes-as-duchenne-therapy-comes-in-below-expectations-in-early-study>
 
-2. **Amgen, Sanofi commit nearly $600M to North American expansions (#뉴스)**
+2. **Sarepta says to ‘exercise prudence’ in setting expectations for Elevidys’ recovery (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/amgen-sanofi-commit-nearly-600m-to-north-american-expansions>
+   <https://www.biospace.com/business/sarepta-says-to-exercise-prudence-in-setting-expectations-for-elevidys-recovery>
 
-3. **Novo’s Wegovy pill reaches 1M patients, shattering expectations with $355M in sales (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/novos-wegovy-pill-reaches-1m-patients-shattering-expectations-with-355m-in-sales>
-
-4. **Novo’s Wegovy pill reaches 1M patients, shattering expectations with $355M in sales (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/novos-wegovy-pill-reaches-1m-patients-shattering-expectations-with-355m-in-sales>
-
-5. **CellCentric secures $220M in Europe’s biggest private biotech fundraise of 2026 (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/cellcentric-secures-220m-in-europes-biggest-private-biotech-fundraise-of-2026>
-
-6. **Viridian turns green again as new Phase 3 data vindicate thyroid eye disease drug (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/drug-development/viridian-turns-green-again-as-new-phase-3-data-vindicate-thyroid-eye-disease-drug>
-
-7. **Founders face pressure from all sides as biotech crawls toward recovery (#뉴스)**
+3. **Founders face pressure from all sides as biotech crawls toward recovery (#뉴스)**
    - Article content not available
    <https://www.biospace.com/business/founders-face-pressure-from-all-sides-as-biotech-crawls-toward-recovery>
 
+4. **Founders face pressure from all sides as biotech crawls toward recovery (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/founders-face-pressure-from-all-sides-as-biotech-crawls-toward-recovery>
+
+5. **Biotech has become a good news story. Let the sun shine (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/drug-development/biotech-has-become-a-good-news-story-let-the-sun-shine>
+
+6. **With oral obesity race underway, all eyes are on Lilly’s Foundayo launch (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/with-oral-obesity-race-underway-all-eyes-are-on-lillys-foundayo-launch>
+
+7. **Fibrosis, IPF and the search for better therapies (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/drug-development/fibrosis-ipf-and-the-search-for-better-therapies>
+
 
 ---
-*2026년 05월 07일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 05월 08일 바이오스페이스 뉴스 피드에서 생성된 리포트*
