@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 08일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 09일
 
 
 ## 주요 헤드라인
 
-1. **Entrada crashes as Duchenne therapy comes in ‘below expectations’ in early study (#뉴스)**
+1. **IPO Tracker 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/entrada-crashes-as-duchenne-therapy-comes-in-below-expectations-in-early-study>
+   <https://www.biospace.com/business/ipo-tracker-2026>
 
-2. **Sarepta says to ‘exercise prudence’ in setting expectations for Elevidys’ recovery (#뉴스)**
+2. **Gilead sets blockbuster bar for Yeztugo’s first full year on the market (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sarepta-says-to-exercise-prudence-in-setting-expectations-for-elevidys-recovery>
+   <https://www.biospace.com/business/gilead-sets-blockbuster-bar-for-yeztugos-first-full-year-on-the-market>
 
-3. **Founders face pressure from all sides as biotech crawls toward recovery (#뉴스)**
+3. **Ascendis retreats to rare endocrinology wheelhouse as cancer plans falter (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/founders-face-pressure-from-all-sides-as-biotech-crawls-toward-recovery>
+   <https://www.biospace.com/business/ascendis-retreats-to-rare-endocrinology-wheelhouse-as-cancer-plans-falter>
 
 4. **Founders face pressure from all sides as biotech crawls toward recovery (#뉴스)**
    - Article content not available
    <https://www.biospace.com/business/founders-face-pressure-from-all-sides-as-biotech-crawls-toward-recovery>
 
-5. **Biotech has become a good news story. Let the sun shine (#뉴스)**
+5. **Founders face pressure from all sides as biotech crawls toward recovery (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/founders-face-pressure-from-all-sides-as-biotech-crawls-toward-recovery>
+
+6. **Biotech has become a good news story. Let the sun shine (#뉴스)**
    - Article content not available
    <https://www.biospace.com/drug-development/biotech-has-become-a-good-news-story-let-the-sun-shine>
 
-6. **With oral obesity race underway, all eyes are on Lilly’s Foundayo launch (#뉴스)**
+7. **With oral obesity race underway, all eyes are on Lilly’s Foundayo launch (#뉴스)**
    - Article content not available
    <https://www.biospace.com/business/with-oral-obesity-race-underway-all-eyes-are-on-lillys-foundayo-launch>
 
-7. **Fibrosis, IPF and the search for better therapies (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/drug-development/fibrosis-ipf-and-the-search-for-better-therapies>
-
 
 ---
-*2026년 05월 08일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 05월 09일 바이오스페이스 뉴스 피드에서 생성된 리포트*
