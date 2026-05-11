@@ -1,19 +1,19 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 11일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 12일
 
 
 ## 주요 헤드라인
 
-1. **IPO Tracker 2026 (#뉴스)**
+1. **Daiichi takes $850M charge, axes facility investment as ADC demand forecast falls (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ipo-tracker-2026>
+   <https://www.biospace.com/business/daiichi-takes-850m-charge-axes-facility-investment-as-adc-demand-forecast-falls>
 
-2. **Gilead sets blockbuster bar for Yeztugo’s first full year on the market (#뉴스)**
+2. **Daiichi takes $850M charge, axes facility investment as ADC demand forecast falls (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/gilead-sets-blockbuster-bar-for-yeztugos-first-full-year-on-the-market>
+   <https://www.biospace.com/business/daiichi-takes-850m-charge-axes-facility-investment-as-adc-demand-forecast-falls>
 
-3. **Ascendis retreats to rare endocrinology wheelhouse as cancer plans falter (#뉴스)**
+3. **Merck, Amgen double down on bad cholesterol to vanquish number 1 killer (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ascendis-retreats-to-rare-endocrinology-wheelhouse-as-cancer-plans-falter>
+   <https://www.biospace.com/drug-development/merck-amgen-double-down-on-bad-cholesterol-to-vanquish-number-1-killer>
 
 4. **Founders face pressure from all sides as biotech crawls toward recovery (#뉴스)**
    - Article content not available
@@ -33,4 +33,4 @@
 
 
 ---
-*2026년 05월 11일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 05월 12일 바이오스페이스 뉴스 피드에서 생성된 리포트*
