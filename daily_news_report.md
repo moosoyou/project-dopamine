@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 13일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 14일
 
 
 ## 주요 헤드라인
 
-1. **BMS, Hengrui build 13-asset pipeline in $15B+ onco-immune deal (#뉴스)**
+1. **Goodbye Galapagos (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/bms-hengrui-build-13-asset-pipeline-in-15b-onco-immune-deal>
+   <https://www.biospace.com/business/goodbye-galapagos-chameleon-company-exits-the-island-rebrands-as-lakefront>
 
-2. **BMS, Hengrui build 13-asset pipeline in $15B+ onco-immune deal (#뉴스)**
+2. **Goodbye Galapagos (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/bms-hengrui-build-13-asset-pipeline-in-15b-onco-immune-deal>
+   <https://www.biospace.com/business/goodbye-galapagos-chameleon-company-exits-the-island-rebrands-as-lakefront>
 
-3. **BridgeBio stands up to Pfizer in ATTR-CM as late-stage data hint at better survival (#뉴스)**
+3. **Lilly maintains weight loss leadership as Foundayo, Zepbound keep pounds off after switching (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/bridgebio-stands-up-to-pfizer-in-attr-cm-as-late-stage-data-hint-at-better-survival>
+   <https://www.biospace.com/drug-development/lilly-maintains-weight-loss-leadership-as-foundayo-zepbound-keep-pounds-off-after-switching>
 
-4. **Daiichi takes $850M charge, axes facility investment as ADC demand forecast falls (#뉴스)**
+4. **Mid-sized European drugmakers are snapping up US biotechs. Will the surge continue? (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/daiichi-takes-850m-charge-axes-facility-investment-as-adc-demand-forecast-falls>
+   <https://www.biospace.com/business/mid-sized-european-drugmakers-are-snapping-up-us-biotechs-will-the-surge-continue>
 
-5. **Merck, Amgen double down on bad cholesterol to vanquish number 1 killer (#뉴스)**
+5. **Mid-sized European drugmakers are snapping up US biotechs. Will the surge continue? (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/merck-amgen-double-down-on-bad-cholesterol-to-vanquish-number-1-killer>
+   <https://www.biospace.com/business/mid-sized-european-drugmakers-are-snapping-up-us-biotechs-will-the-surge-continue>
 
-6. **Merck, Amgen double down on bad cholesterol to vanquish number 1 killer (#뉴스)**
+6. **Lilly, J&J CEOs top pharma’s highest paid list—again (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/merck-amgen-double-down-on-bad-cholesterol-to-vanquish-number-1-killer>
+   <https://www.biospace.com/business/lilly-j-j-ceos-top-pharmas-highest-paid-list-again>
 
-7. **Biotech has become a good news story. Let the sun shine (#뉴스)**
+7. **Lilly, J&J CEOs top pharma’s highest paid list—again (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/biotech-has-become-a-good-news-story-let-the-sun-shine>
+   <https://www.biospace.com/business/lilly-j-j-ceos-top-pharmas-highest-paid-list-again>
 
 
 ---
-*2026년 05월 13일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 05월 14일 바이오스페이스 뉴스 피드에서 생성된 리포트*
