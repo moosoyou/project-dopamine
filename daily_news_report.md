@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 14일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 15일
 
 
 ## 주요 헤드라인
 
-1. **Goodbye Galapagos (#뉴스)**
+1. **GPCRs, radiopharma and the rise of functional peptide screening (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/goodbye-galapagos-chameleon-company-exits-the-island-rebrands-as-lakefront>
+   <https://www.biospace.com/drug-development/gpcrs-radiopharma-and-the-rise-of-functional-peptide-screening>
 
-2. **Goodbye Galapagos (#뉴스)**
+2. **GPCRs, radiopharma and the rise of functional peptide screening (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/goodbye-galapagos-chameleon-company-exits-the-island-rebrands-as-lakefront>
+   <https://www.biospace.com/drug-development/gpcrs-radiopharma-and-the-rise-of-functional-peptide-screening>
 
-3. **Lilly maintains weight loss leadership as Foundayo, Zepbound keep pounds off after switching (#뉴스)**
+3. **REGENXBIO slumps after serious side effects mar Duchenne gene therapy results (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/lilly-maintains-weight-loss-leadership-as-foundayo-zepbound-keep-pounds-off-after-switching>
+   <https://www.biospace.com/drug-development/regenxbio-slumps-after-serious-side-effects-mar-Duchenne-gene therapy-results>
 
-4. **Mid-sized European drugmakers are snapping up US biotechs. Will the surge continue? (#뉴스)**
+4. **REGENXBIO slumps after serious side effects mar Duchenne gene therapy results (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/drug-development/regenxbio-slumps-after-serious-side-effects-mar-Duchenne-gene therapy-results>
+
+5. **Biogen takes tau Alzheimer’s therapy to Phase 3 despite mid-stage fail, prompting cautious optimism (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/drug-development/biogen-takes-tau-alzheimers-therapy-to-phase-3-despite-mid-stage-fail-prompting-cautious-optimism>
+
+6. **Degron adds $40M to series A, supporting immunology plans for molecular glue platform (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/degron-adds-40m-to-series-a-supporting-immunology-plans-for-molecular-glue-platform>
+
+7. **Mid-sized European drugmakers are snapping up US biotechs. Will the surge continue? (#뉴스)**
    - Article content not available
    <https://www.biospace.com/business/mid-sized-european-drugmakers-are-snapping-up-us-biotechs-will-the-surge-continue>
-
-5. **Mid-sized European drugmakers are snapping up US biotechs. Will the surge continue? (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/mid-sized-european-drugmakers-are-snapping-up-us-biotechs-will-the-surge-continue>
-
-6. **Lilly, J&J CEOs top pharma’s highest paid list—again (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/lilly-j-j-ceos-top-pharmas-highest-paid-list-again>
-
-7. **Lilly, J&J CEOs top pharma’s highest paid list—again (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/lilly-j-j-ceos-top-pharmas-highest-paid-list-again>
 
 
 ---
-*2026년 05월 14일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 05월 15일 바이오스페이스 뉴스 피드에서 생성된 리포트*
