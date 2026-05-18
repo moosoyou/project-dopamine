@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 18일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 19일
 
 
 ## 주요 헤드라인
 
-1. **Genmab drops 2 antibody assets, including another ProfoundBio ADC (#뉴스)**
+1. **Deep dive (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/genmab-drops-2-antibody-assets-including-another-profoundbio-adc>
+   <https://www.biospace.com/drug-development/deep-dive-the-oral-obesity-wars>
 
-2. **Sun Pharma recalls cancer drug after finding glass particles in some vials (#뉴스)**
+2. **Deep dive (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sun-pharma-recalls-cancer-drug-after-finding-glass-particles-in-some-vials>
+   <https://www.biospace.com/drug-development/deep-dive-the-oral-obesity-wars>
 
-3. **Biogen’s Alzheimer’s results bolster tau theory—and Denali’s next gen candidate (#뉴스)**
+3. **Is Revolution ‘the next oncology titan’? Truist analysts make the case (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/biogens-alzheimers-results-bolster-tau-theory-and-denalis-next-gen-candidate>
+   <https://www.biospace.com/drug-development/is-revolution-the-next-oncology-titan-truist-analysts-make-the-case>
 
-4. **Mid-sized European drugmakers are snapping up US biotechs. Will the surge continue? (#뉴스)**
+4. **Is Revolution ‘the next oncology titan’? Truist analysts make the case (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/mid-sized-european-drugmakers-are-snapping-up-us-biotechs-will-the-surge-continue>
+   <https://www.biospace.com/drug-development/is-revolution-the-next-oncology-titan-truist-analysts-make-the-case>
 
-5. **Mid-sized European drugmakers are snapping up US biotechs. Will the surge continue? (#뉴스)**
+5. **Amgen’s rare disease drug Tavneos tied to 20 deaths in Japan (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/mid-sized-european-drugmakers-are-snapping-up-us-biotechs-will-the-surge-continue>
+   <https://www.biospace.com/business/amgens-rare-disease-drug-tavneos-tied-to-20-deaths-in-japan>
 
-6. **Lilly, J&J CEOs top pharma’s highest paid list—again (#뉴스)**
+6. **Regeneron misses again as melanoma combo bows to Merck’s Keytruda in Phase 3 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-j-j-ceos-top-pharmas-highest-paid-list-again>
+   <https://www.biospace.com/drug-development/regeneron-misses-again-as-melanoma-combo-bows-to-mercks-keytruda-in-phase-3>
 
-7. **Lilly, J&J CEOs top pharma’s highest paid list—again (#뉴스)**
+7. **The future of radiopharma is being built by nuclear geeks in SLC (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-j-j-ceos-top-pharmas-highest-paid-list-again>
+   <https://www.biospace.com/business/the-future-of-radiopharma-is-being-built-by-nuclear-geeks-in-slc>
 
 
 ---
-*2026년 05월 18일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 05월 19일 바이오스페이스 뉴스 피드에서 생성된 리포트*
