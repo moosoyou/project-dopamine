@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 21일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 22일
 
 
 ## 주요 헤드라인
 
-1. **Moderna’s stock rides hantavirus fears as spotlight returns to infectious disease platform (#뉴스)**
+1. **Update (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/modernas-stock-rides-hantavirus-fears-as-spotlight-returns-to-infectious-disease-platform>
+   <https://www.biospace.com/business/amgens-rare-disease-drug-tavneos-tied-to-20-deaths-in-japan>
 
-2. **Beam one-ups Wave as both show promise of genetic editing for AATD (#뉴스)**
+2. **Update (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/beam-one-ups-wave-as-both-show-promise-of-genetic-editing-for-aatd>
+   <https://www.biospace.com/business/amgens-rare-disease-drug-tavneos-tied-to-20-deaths-in-japan>
 
-3. **IPO Tracker 2026 (#뉴스)**
+3. **Lilly’s triple agonist shows bariatric surgery–like weight loss results (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ipo-tracker-2026>
+   <https://www.biospace.com/drug-development/lillys-triple-agonist-shows-bariatric-surgery-like-weight-loss-results>
 
-4. **AbbVie’s new immunology standard-bearer Skyrizi kneels to UCB’s Bimzelx in psoriatic arthritis (#뉴스)**
+4. **Lilly’s triple agonist shows bariatric surgery–like weight loss results (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/abbvies-new-immunology-standard-bearer-skyrizi-kneels-to-ucbs-bimzelx-in-psoriatic-arthritis>
+   <https://www.biospace.com/drug-development/lillys-triple-agonist-shows-bariatric-surgery-like-weight-loss-results>
 
-5. **Daiichi emerges from bruising 2 years with vision for cracking cancer’s big leagues (#뉴스)**
+5. **Vaxart seeks shareholder support as battle over stock split brews (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/daiichi-emerges-from-bruising-2-years-with-vision-for-cracking-cancers-big-leagues>
+   <https://www.biospace.com/business/vaxart-seeks-shareholder-support-as-battle-over-stock-split-brews>
 
-6. **Daiichi emerges from bruising 2 years with vision for cracking cancer’s big leagues (#뉴스)**
+6. **BioMarin bounces back as Voxzogo performs ‘bigger than expected’ in new indication (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/daiichi-emerges-from-bruising-2-years-with-vision-for-cracking-cancers-big-leagues>
+   <https://www.biospace.com/drug-development/biomarin-bounces-back-as-voxzogo-performs-bigger-than-expected-in-new-indication>
 
-7. **J&J’s Duato makes 358 times his median employee; Vertex CEO makes just 80 times (#뉴스)**
+7. **Inside Germany’s biotech capital infrastructure and innovation engine (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/j-js-duato-makes-358-times-his-median-employee-vertex-ceo-makes-just-80-times>
+   <https://www.biospace.com/drug-development/inside-germanys-biotech-capital-infrastructure-and-innovation-engine>
 
 
 ---
-*2026년 05월 21일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 05월 22일 바이오스페이스 뉴스 피드에서 생성된 리포트*
