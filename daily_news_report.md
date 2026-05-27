@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 27일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 05월 28일
 
 
 ## 주요 헤드라인
 
-1. **Niowave, fresh from Novartis deal, starts building $75M radioisotope plant (#뉴스)**
+1. **Apogee investors riled by $1.3B royalty deal, as eczema drug matches Lilly’s Ebglyss (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/niowave-fresh-from-novartis-deal-starts-building-75m-radioisotope-plant>
+   <https://www.biospace.com/drug-development/apogee-investors-riled-by-1-3b-royalty-deal-as-eczema-drug-matches-lillys-ebglyss>
 
-2. **Niowave, fresh from Novartis deal, starts building $75M radioisotope plant (#뉴스)**
+2. **Apogee investors riled by $1.3B royalty deal, as eczema drug matches Lilly’s Ebglyss (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/niowave-fresh-from-novartis-deal-starts-building-75m-radioisotope-plant>
+   <https://www.biospace.com/drug-development/apogee-investors-riled-by-1-3b-royalty-deal-as-eczema-drug-matches-lillys-ebglyss>
 
-3. **Lilly lands vaccine trifecta with 3 new biotech buys valued at up to $3.8B (#뉴스)**
+3. **Lilly just bought renowned regulator Peter Marks a pipeline to play with (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-lands-vaccine-trifecta-with-3-new-biotech-buys-valued-at-3-8b>
+   <https://www.biospace.com/drug-development/lilly-just-bought-renowned-regulator-peter-marks-a-pipeline-to-play-with>
 
-4. **Lilly lands vaccine trifecta with 3 new biotech buys valued at up to $3.8B (#뉴스)**
+4. **Lilly just bought renowned regulator Peter Marks a pipeline to play with (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-lands-vaccine-trifecta-with-3-new-biotech-buys-valued-at-3-8b>
+   <https://www.biospace.com/drug-development/lilly-just-bought-renowned-regulator-peter-marks-a-pipeline-to-play-with>
 
-5. **Lilly is pharma’s top dog, placing first in innovation and invention (#뉴스)**
+5. **IPO Tracker 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-is-pharmas-top-dog-placing-first-in-innovation-and-invention-idea>
+   <https://www.biospace.com/business/ipo-tracker-2026>
 
-6. **Lilly is pharma’s top dog, placing first in innovation and invention (#뉴스)**
+6. **Kura’s encouraging cancer drug data could unlock $2B market opportunity (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-is-pharmas-top-dog-placing-first-in-innovation-and-invention-idea>
+   <https://www.biospace.com/drug-development/kuras-encouraging-cancer-drug-data-could-unlock-2b-market-opportunity>
 
-7. **Lilly’s Verve gambit pays off as base editor cuts cholesterol in early study (#뉴스)**
+7. **The top 5 highest paid pharma CEOs in 2025 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/lillys-verve-gambit-pays-off-as-base-editor-cuts-cholesterol-in-early-study>
+   <https://www.biospace.com/business/the-top-5-highest-paid-pharma-ceos-in-2025>
 
 
 ---
-*2026년 05월 27일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 05월 28일 바이오스페이스 뉴스 피드에서 생성된 리포트*
