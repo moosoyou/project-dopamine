@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 03일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 04일
 
 
 ## 주요 헤드라인
 
-1. **ASCO (#뉴스)**
+1. **ASCO’s biggest winners showcased a new era of cancer innovation (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/asco-pfizer-scores-in-lung-colorectal-and-prostate-cancer-but-key-readouts-still-to-come>
+   <https://www.biospace.com/drug-development/ascos-biggest-winners-showcased-a-new-era-of-cancer-innovation>
 
-2. **ASCO (#뉴스)**
+2. **ASCO’s biggest winners showcased a new era of cancer innovation (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/asco-pfizer-scores-in-lung-colorectal-and-prostate-cancer-but-key-readouts-still-to-come>
+   <https://www.biospace.com/drug-development/ascos-biggest-winners-showcased-a-new-era-of-cancer-innovation>
 
-3. **ASCO (#뉴스)**
+3. **NewLimit snags $435M after seeing age reversal in human liver cells (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/asco-merck-overshadowed-by-upstart-biotechs-but-trop2-plans-begin-to-pay-off>
+   <https://www.biospace.com/business/newlimit-snags-435m-after-seeing-age-reversal-in-human-liver-cells>
 
-4. **ASCO (#뉴스)**
+4. **NewLimit snags $435M after seeing age reversal in human liver cells (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/asco-merck-overshadowed-by-upstart-biotechs-but-trop2-plans-begin-to-pay-off>
+   <https://www.biospace.com/business/newlimit-snags-435m-after-seeing-age-reversal-in-human-liver-cells>
 
-5. **Fulcrum tanks as cancer concerns stymie sickle cell asset, trigger business reorg (#뉴스)**
+5. **Celcuity slides even after ‘practice-changing’ late-stage breast cancer data (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/fulcrum-tanks-as-cancer-concerns-stymie-sickle-cell-asset-trigger-business-reorg>
+   <https://www.biospace.com/drug-development/celcuity-slides-even-after-practice-changing-late-stage-breast-cancer-data>
 
-6. **ASCO (#뉴스)**
+6. **Legend soars on ‘best-in-class,’ ‘best-in-disease’ in vivo CAR T in early lymphoma study (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/asco-modernas-mrna-based-melanoma-vaccine-shows-encouraging-5-year-survival>
+   <https://www.biospace.com/drug-development/legend-soars-on-best-in-class-best-in-disease-in-vivo-car-t-in-early-lymphoma-study>
 
-7. **BrainStorm levels up, bringing on former FDA leader Peter Pitts for new ALS bid (#뉴스)**
+7. **Facing pressure from China, BioSpace’s NextGen biotech leaders say (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/brainstorm-levels-up-bringing-on-former-fda-leader-peter-pitts-for-new-als-bid>
+   <https://www.biospace.com/business/facing-pressure-from-china-biospaces-nextgen-biotech-leaders-say-bring-it-on>
 
 
 ---
-*2026년 06월 03일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 06월 04일 바이오스페이스 뉴스 피드에서 생성된 리포트*
