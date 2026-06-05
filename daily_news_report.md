@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 05일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 06일
 
 
 ## 주요 헤드라인
 
-1. **Lilly and Boehringer roll back billions in German investments over health budget cuts (#뉴스)**
+1. **Fulcrum lays off 85% of staff after dropping asset, leaving 9 employees (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-and-boehringer-roll-back-billions-in-german-investments-over-health-budget-cuts>
+   <https://www.biospace.com/business/fulcrum-tanks-as-cancer-concerns-stymie-sickle-cell-asset-trigger-business-reorg>
 
-2. **Lilly and Boehringer roll back billions in German investments over health budget cuts (#뉴스)**
+2. **Fulcrum lays off 85% of staff after dropping asset, leaving 9 employees (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lilly-and-boehringer-roll-back-billions-in-german-investments-over-health-budget-cuts>
+   <https://www.biospace.com/business/fulcrum-tanks-as-cancer-concerns-stymie-sickle-cell-asset-trigger-business-reorg>
 
-3. **Peptide biotech Parabilis targets up to $476M IPO (#뉴스)**
+3. **Otsuka energizes IgA neuropathy space with new Phase 3 Voyxact data (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/peptide-biotech-parabilis-targets-up-to-476m-ipo>
+   <https://www.biospace.com/drug-development/otsuka-energizes-iga-neuropathy-space-with-new-phase-3-voyxact-data>
 
-4. **Peptide biotech Parabilis targets up to $476M IPO (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/business/peptide-biotech-parabilis-targets-up-to-476m-ipo>
-
-5. **ADC Therapeutics nosedives on 27 deaths in confirmatory trial for lymphoma drug (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/drug-development/adc-therapeutics-nosedives-on-27-deaths-in-confirmatory-trial-for-lymphoma-drug>
-
-6. **Rethinking hair loss treatment (#뉴스)**
-   - Article content not available
-   <https://www.biospace.com/drug-development/rethinking-hair-loss-treatment>
-
-7. **ASCO’s biggest winners showcased a new era of cancer innovation (#뉴스)**
+4. **ASCO’s biggest winners showcased a new era of cancer innovation (#뉴스)**
    - Article content not available
    <https://www.biospace.com/drug-development/ascos-biggest-winners-showcased-a-new-era-of-cancer-innovation>
 
+5. **ASCO’s biggest winners showcased a new era of cancer innovation (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/drug-development/ascos-biggest-winners-showcased-a-new-era-of-cancer-innovation>
+
+6. **Facing pressure from China, BioSpace’s NextGen biotech leaders say (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/facing-pressure-from-china-biospaces-nextgen-biotech-leaders-say-bring-it-on>
+
+7. **Facing pressure from China, BioSpace’s NextGen biotech leaders say (#뉴스)**
+   - Article content not available
+   <https://www.biospace.com/business/facing-pressure-from-china-biospaces-nextgen-biotech-leaders-say-bring-it-on>
+
 
 ---
-*2026년 06월 05일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 06월 06일 바이오스페이스 뉴스 피드에서 생성된 리포트*
