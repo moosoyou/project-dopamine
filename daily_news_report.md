@@ -1,15 +1,15 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 10일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 11일
 
 
 ## 주요 헤드라인
 
-1. **Hikma outlines plan to invest $267M in Ohio plants, creating 350 jobs (#뉴스)**
+1. **Sanofi cans late-stage study for rare autoimmune disease on underwhelming efficacy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/hikma-outlines-plan-to-invest-267m-in-ohio-plants-creating-350-jobs>
+   <https://www.biospace.com/drug-development/sanofi-cans-late-stage-study-for-rare-autoimmune-disease-on-underwhelming-efficacy>
 
-2. **Hikma outlines plan to invest $267M in Ohio plants, creating 350 jobs (#뉴스)**
+2. **Sanofi cans late-stage study for rare autoimmune disease on underwhelming efficacy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/hikma-outlines-plan-to-invest-267m-in-ohio-plants-creating-350-jobs>
+   <https://www.biospace.com/drug-development/sanofi-cans-late-stage-study-for-rare-autoimmune-disease-on-underwhelming-efficacy>
 
 3. **Update (#뉴스)**
    - Article content not available
@@ -19,18 +19,18 @@
    - Article content not available
    <https://www.biospace.com/business/peptide-biotech-parabilis-targets-up-to-476m-ipo>
 
-5. **Four years and 219 lost companies later, biotech still has a cash problem (#뉴스)**
+5. **Lilly tees off with Novo at ADA, GSK’s $10.6B deal, FDA reform continues in Makary’s absence (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/four-years-and-219-lost-companies-later-biotech-still-has-a-cash-problem>
+   <https://www.biospace.com/drug-development/lilly-tees-off-with-novo-at-ada-gsks-10-6b-deal-fda-reform-continues-in-makarys-absence>
 
-6. **Four years and 219 lost companies later, biotech still has a cash problem (#뉴스)**
+6. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/four-years-and-219-lost-companies-later-biotech-still-has-a-cash-problem>
+   <https://www.biospace.com/business/opinion-local-trade-groups-must-support-life-sciences-in-these-difficult-times>
 
-7. **Merck, Gilead serve ‘sweet and sour’ spread after HIV win, cancer stumble (#뉴스)**
+7. **Lilly’s $25B+ M&A spree captures half of pharma’s 2026 capacity (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/merck-gilead-serve-sweet-and-sour-spread-after-hiv-win-cancer-stumble>
+   <https://www.biospace.com/business/lillys-25b-m-a-spree-captures-half-of-pharmas-2026-capacity>
 
 
 ---
-*2026년 06월 10일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 06월 11일 바이오스페이스 뉴스 피드에서 생성된 리포트*
