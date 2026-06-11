@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 11일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 12일
 
 
 ## 주요 헤드라인
 
-1. **Sanofi cans late-stage study for rare autoimmune disease on underwhelming efficacy (#뉴스)**
+1. **Sky-high Parabilis, Kailera IPOs spur optimism—but only for derisked biotechs (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sanofi-cans-late-stage-study-for-rare-autoimmune-disease-on-underwhelming-efficacy>
+   <https://www.biospace.com/business/sky-high-parabilis-kailera-ipos-spur-optimism-but-only-for-derisked-biotechs>
 
-2. **Sanofi cans late-stage study for rare autoimmune disease on underwhelming efficacy (#뉴스)**
+2. **Sky-high Parabilis, Kailera IPOs spur optimism—but only for derisked biotechs (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/sanofi-cans-late-stage-study-for-rare-autoimmune-disease-on-underwhelming-efficacy>
+   <https://www.biospace.com/business/sky-high-parabilis-kailera-ipos-spur-optimism-but-only-for-derisked-biotechs>
 
-3. **Update (#뉴스)**
+3. **Takeda’s AI-designed pill bests BMS’ Sotyktu in head-to-head psoriasis trial (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/peptide-biotech-parabilis-targets-up-to-476m-ipo>
+   <https://www.biospace.com/drug-development/takedas-ai-designed-pill-bests-bms-sotyktu-in-head-to-head-psoriasis-trial>
 
-4. **Update (#뉴스)**
+4. **IPO Tracker 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/peptide-biotech-parabilis-targets-up-to-476m-ipo>
+   <https://www.biospace.com/business/ipo-tracker-2026>
 
-5. **Lilly tees off with Novo at ADA, GSK’s $10.6B deal, FDA reform continues in Makary’s absence (#뉴스)**
+5. **SonoThera bags $125M series B to advance safer gene therapies (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/lilly-tees-off-with-novo-at-ada-gsks-10-6b-deal-fda-reform-continues-in-makarys-absence>
+   <https://www.biospace.com/business/sonothera-bags-125m-series-b-to-advance-safer-gene-therapies>
 
 6. **Opinion (#뉴스)**
    - Article content not available
    <https://www.biospace.com/business/opinion-local-trade-groups-must-support-life-sciences-in-these-difficult-times>
 
-7. **Lilly’s $25B+ M&A spree captures half of pharma’s 2026 capacity (#뉴스)**
+7. **Opinion (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lillys-25b-m-a-spree-captures-half-of-pharmas-2026-capacity>
+   <https://www.biospace.com/business/opinion-local-trade-groups-must-support-life-sciences-in-these-difficult-times>
 
 
 ---
-*2026년 06월 11일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 06월 12일 바이오스페이스 뉴스 피드에서 생성된 리포트*
