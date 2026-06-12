@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 12일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 13일
 
 
 ## 주요 헤드라인
 
-1. **Sky-high Parabilis, Kailera IPOs spur optimism—but only for derisked biotechs (#뉴스)**
+1. **FDA imposes import alert on Indian plant after inspectors flag GMP failings (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sky-high-parabilis-kailera-ipos-spur-optimism-but-only-for-derisked-biotechs>
+   <https://www.biospace.com/business/fda-imposes-import-alert-on-indian-plant-after-inspectors-flag-gmp-failings>
 
-2. **Sky-high Parabilis, Kailera IPOs spur optimism—but only for derisked biotechs (#뉴스)**
+2. **FDA imposes import alert on Indian plant after inspectors flag GMP failings (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sky-high-parabilis-kailera-ipos-spur-optimism-but-only-for-derisked-biotechs>
+   <https://www.biospace.com/business/fda-imposes-import-alert-on-indian-plant-after-inspectors-flag-gmp-failings>
 
-3. **Takeda’s AI-designed pill bests BMS’ Sotyktu in head-to-head psoriasis trial (#뉴스)**
+3. **Amgen shores up Tavneos’ FDA defense with Duke data analysis (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/takedas-ai-designed-pill-bests-bms-sotyktu-in-head-to-head-psoriasis-trial>
+   <https://www.biospace.com/business/amgen-shores-up-tavneos-fda-defense-with-duke-data-analysis>
 
-4. **IPO Tracker 2026 (#뉴스)**
+4. **Amgen shores up Tavneos’ FDA defense with Duke data analysis (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/ipo-tracker-2026>
+   <https://www.biospace.com/business/amgen-shores-up-tavneos-fda-defense-with-duke-data-analysis>
 
-5. **SonoThera bags $125M series B to advance safer gene therapies (#뉴스)**
+5. **Novartis’ $12B Avidity buy pays dividends with Phase 1/2 muscular dystrophy win (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/sonothera-bags-125m-series-b-to-advance-safer-gene-therapies>
+   <https://www.biospace.com/drug-development/novartis-12b-avidity-buy-pays-dividends-with-phase-1-2-muscular-dystrophy-win>
 
-6. **Opinion (#뉴스)**
+6. **Novo hit with cybersecurity breach, urges vigilance among trial participants (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/opinion-local-trade-groups-must-support-life-sciences-in-these-difficult-times>
+   <https://www.biospace.com/business/novo-hit-with-cybersecurity-breach-urges-vigilance-among-trial-participants>
 
-7. **Opinion (#뉴스)**
+7. **Beyond sunshine (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/opinion-local-trade-groups-must-support-life-sciences-in-these-difficult-times>
+   <https://www.biospace.com/drug-development/beyond-sunshine-iberias-biotech-moment-has-arrived-with-developing-capital-networks>
 
 
 ---
-*2026년 06월 12일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 06월 13일 바이오스페이스 뉴스 피드에서 생성된 리포트*
