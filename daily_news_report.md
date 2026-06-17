@@ -1,31 +1,31 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 17일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 18일
 
 
 ## 주요 헤드라인
 
-1. **FDA, Moderna appear aligned on mRNA flu shot heading into adcomm (#뉴스)**
+1. **Be Bio bins hemophilia B cell therapy trial—the biotech’s lead program (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/fda-moderna-appear-aligned-on-mrna-flu-shot-heading-into-adcomm>
+   <https://www.biospace.com/drug-development/be-bio-bins-hemophilia-b-cell-therapy-trial-the-biotechs-lead-program>
 
-2. **FDA, Moderna appear aligned on mRNA flu shot heading into adcomm (#뉴스)**
+2. **Be Bio bins hemophilia B cell therapy trial—the biotech’s lead program (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/fda-moderna-appear-aligned-on-mrna-flu-shot-heading-into-adcomm>
+   <https://www.biospace.com/drug-development/be-bio-bins-hemophilia-b-cell-therapy-trial-the-biotechs-lead-program>
 
-3. **Mirum, Incyte bolster case for approval in rare bone disease despite mid-stage miss (#뉴스)**
+3. **Edgewise slides as cardiomyopathy challenger to BMS, Cytokinetics falls short (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/mirum-incyte-bolster-case-for-approval-in-rare-bone-disease-despite-mid-stage-miss>
+   <https://www.biospace.com/drug-development/edgewise-slides-as-cardiomyopathy-challenger-to-bms-cytokinetics-falls-short>
 
-4. **Mirum, Incyte bolster case for approval in rare bone disease despite mid-stage miss (#뉴스)**
+4. **Moderna’s FDA adcomm, IPO mania, biopharma layoffs, more (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/mirum-incyte-bolster-case-for-approval-in-rare-bone-disease-despite-mid-stage-miss>
+   <https://www.biospace.com/drug-development/modernas-fda-adcomm-ipo-mania-biopharma-layoffs-more>
 
-5. **Alto’s depression candidate bolstered by independent study showing mood benefits (#뉴스)**
+5. **PwC declares biopharma ecosystem ‘back to full health’ as M&A buoys sector (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/altos-depression-candidate-bolstered-by-independent-study-showing-mood-benefits>
+   <https://www.biospace.com/business/pwc-declares-biopharma-ecosystem-back-to-full-health-as-m-a-buoys-sector>
 
-6. **Intellia’s gene editor ‘keeps pace’ with Ionis in hereditary angioedema (#뉴스)**
+6. **6 times when drug development got personal (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/intellias-gene-editor-keeps-pace-with-ionis-in-hereditary-angioedema>
+   <https://www.biospace.com/drug-development/6-times-when-drug-development-got-personal>
 
 7. **6 times when drug development got personal (#뉴스)**
    - Article content not available
@@ -33,4 +33,4 @@
 
 
 ---
-*2026년 06월 17일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 06월 18일 바이오스페이스 뉴스 피드에서 생성된 리포트*
