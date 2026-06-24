@@ -1,36 +1,36 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 24일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 25일
 
 
 ## 주요 헤드라인
 
-1. **Merck posts ‘encouraging’ Phase 3 ulcerative colitis data but Roche challenge looms (#뉴스)**
+1. **Jubilant draws FDA rebuke for delayed mold investigation and quality unit lapses (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/merck-posts-encouraging-phase-3-ulcerative-colitis-data-but-roche-challenge-looms>
+   <https://www.biospace.com/business/jubilant-draws-fda-rebuke-for-delayed-mold-investigation-and-quality-unit-lapses>
 
-2. **Merck posts ‘encouraging’ Phase 3 ulcerative colitis data but Roche challenge looms (#뉴스)**
+2. **Jubilant draws FDA rebuke for delayed mold investigation and quality unit lapses (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/merck-posts-encouraging-phase-3-ulcerative-colitis-data-but-roche-challenge-looms>
+   <https://www.biospace.com/business/jubilant-draws-fda-rebuke-for-delayed-mold-investigation-and-quality-unit-lapses>
 
-3. **Lilly’s tirzepatide will be biggest blockbuster ever, topping $70B by 2032 (#뉴스)**
+3. **ADC Therapeutics lays off staff after 27 patient deaths mar Zynlonta readout (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/lillys-tirzepatide-will-be-biggest-blockbuster-ever-topping-70b-by-2032-evaluate>
+   <https://www.biospace.com/business/adc-therapeutics-lays-off-staff-after-27-patient-deaths-mar-zynlonta-readout>
 
-4. **Can ADCs be kinder and gentler? Join BioSpace at BIO to find out (#뉴스)**
+4. **ADC Therapeutics lays off staff after 27 patient deaths mar Zynlonta readout (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/can-adcs-be-kinder-and-gentler-join-biospace-at-bio-to-find-out>
+   <https://www.biospace.com/business/adc-therapeutics-lays-off-staff-after-27-patient-deaths-mar-zynlonta-readout>
 
-5. **Pfizer delivers ‘disappointing’ late-stage lung cancer data for ADC from $43B Seagen buy (#뉴스)**
+5. **REGENXBIO bets on FDA flexibility with filing plans for Duchenne gene therapy (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/pfizer-delivers-disappointing-late-stage-lung-cancer-data-for-adc-from-43b-seagen-buy>
+   <https://www.biospace.com/drug-development/regenxbio-bets-on-fda-flexibility-with-filing-plans-for-duchenne-gene-therapy>
 
 6. **BIO 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/bio-2026-biopharma-dealmakers-seek-to-protect-premium-pricing-from-trumps-mfn-policy>
+   <https://www.biospace.com/drug-development/bio-2026-us-needs-to-dodge-chinas-inescapable-dependencies-to-protect-biotech>
 
 7. **BIO 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/policy/bio2026-us-public-health-as-we-know-it-is-gone-can-we-rebuild-a-better-system>
+   <https://www.biospace.com/drug-development/bio-2026-us-needs-to-dodge-chinas-inescapable-dependencies-to-protect-biotech>
 
 
 ---
-*2026년 06월 24일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 06월 25일 바이오스페이스 뉴스 피드에서 생성된 리포트*
