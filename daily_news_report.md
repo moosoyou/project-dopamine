@@ -1,27 +1,27 @@
-# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 25일
+# 바이오스페이스 일일 뉴스 리포트 - 2026년 06월 26일
 
 
 ## 주요 헤드라인
 
-1. **Jubilant draws FDA rebuke for delayed mold investigation and quality unit lapses (#뉴스)**
+1. **BIO 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/jubilant-draws-fda-rebuke-for-delayed-mold-investigation-and-quality-unit-lapses>
+   <https://www.biospace.com/business/bio-2026-forget-dual-track-biopharma-deals-are-more-complex-than-ever>
 
-2. **Jubilant draws FDA rebuke for delayed mold investigation and quality unit lapses (#뉴스)**
+2. **BIO 2026 (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/jubilant-draws-fda-rebuke-for-delayed-mold-investigation-and-quality-unit-lapses>
+   <https://www.biospace.com/business/bio-2026-forget-dual-track-biopharma-deals-are-more-complex-than-ever>
 
-3. **ADC Therapeutics lays off staff after 27 patient deaths mar Zynlonta readout (#뉴스)**
+3. **The Golden Triangle and the gaps (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/adc-therapeutics-lays-off-staff-after-27-patient-deaths-mar-zynlonta-readout>
+   <https://www.biospace.com/drug-development/the-golden-triangle-and-the-gaps-rethinking-uk-biotech>
 
-4. **ADC Therapeutics lays off staff after 27 patient deaths mar Zynlonta readout (#뉴스)**
+4. **The Golden Triangle and the gaps (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/business/adc-therapeutics-lays-off-staff-after-27-patient-deaths-mar-zynlonta-readout>
+   <https://www.biospace.com/drug-development/the-golden-triangle-and-the-gaps-rethinking-uk-biotech>
 
-5. **REGENXBIO bets on FDA flexibility with filing plans for Duchenne gene therapy (#뉴스)**
+5. **Revolution’s second RAS blocker doubles chemo response rate in pancreatic cancer (#뉴스)**
    - Article content not available
-   <https://www.biospace.com/drug-development/regenxbio-bets-on-fda-flexibility-with-filing-plans-for-duchenne-gene-therapy>
+   <https://www.biospace.com/drug-development/revolutions-second-ras-blocker-doubles-chemo-response-rate-in-pancreatic-cancer>
 
 6. **BIO 2026 (#뉴스)**
    - Article content not available
@@ -33,4 +33,4 @@
 
 
 ---
-*2026년 06월 25일 바이오스페이스 뉴스 피드에서 생성된 리포트*
+*2026년 06월 26일 바이오스페이스 뉴스 피드에서 생성된 리포트*
